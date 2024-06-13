@@ -1,0 +1,37 @@
+---
+title: "Virtuelles Teammanagement"
+subtitle: "Erfolgreiche Führung im digitalen Raum"
+author: "Sebastian Sukstorf"
+date: "2021-03-01"
+categories: [TE, Teamentwicklung, Führung]
+image: "virt.png"
+---
+
+# Was verlangt virtuelle Führung?
+
+Durch die beschleunigte Digitalisierung und der zunehmend virtuellen Zusammenarbeit in allen Bereichen, bedarf es einer intensiven Auseinandersetzung mit virtueller Führung.
+
+Hier lernen Führungskräfte den kompletten Lebenszyklus eines virtuellen Teams kennen. Die enthaltenen Quickchecks ermöglichen Führungskräften eine sofortige Einstufung der jeweiligen Situation - vom Kickoff über die tägliche Zusammenarbeit bis hin zu verschiedenen Veränderungsszenarien, die ein virtuelles Team treffen können.
+
+# Inhalte
+
+- Forming - Das virtuelle Team kommt zusammen
+- Storming - Das virtuelle Team beginnt mit der Arbeit
+- Norming - Das virtuelle Team organisiert sich und entwickelt feste Strukturen
+- Performing - Das virtuelle Team arbeitet hochmotiviert und voller Energie
+- Adjourning - Die Zusammenarbeit endet und das Team löst sich auf
+
+# Mit digitalen Extras
+
+- Formen virtueller Teams
+- Umwelt-Diagramm des virtuellen Teams
+- Externe und interne Stakeholder des virtuellen Teams
+- Anwendungsfälle in virtuellen Teams
+- Teamphasen von Teamkonstellationen (nach Bruce Tuckman)
+- Teamanalyse des virtuellen Teams
+- Machtverteilung in virtuellen Teams
+- Handlungskarte für Mitarbeiterinnen und Mitarbeiter Ihres virtuellen Teams
+- Unterstützungskarte für Ihre Person und Rolle
+- Problemlösung in virtuellen Teams
+- Erfolgskriterien von Führungskräften in virtuellen Teams
+- Interview

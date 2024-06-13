@@ -1,0 +1,40 @@
+---
+title: "Reorganisation und Neupositionierung universitärer Weiterbildung' in universitärer Weiterbildungsorganisation"
+subtitle: "x"
+description: "y"
+author: "Sebastian Sukstorf"
+date: "2022-04-14"
+categories: [y]
+image: "kipro.jpeg"
+---
+
+![Design Thinking Workshop kollaborative und kreative Gestaltung der Kinderprogrammarbeit](kipro.jpeg){fig-alt="Design Thinking Workshop kollaborative und kreative Gestaltung der Kinderprogrammarbeit" fig-align="center" width=100%}
+
+## Auftraggeber & Branche
+
+HAW Hamburg
+
+## Ausgangslage
+
+Externer Berater
+
+## Inhalte
+
+* Konzeptionelle Entwicklung des organisatorischen Zielbildes mit der Geschäftsführung
+* Workshops mit der Geschäftsführung für Aufbau und ablauforganisatorische Fragestellungen
+* Team Workshops mit Geschäftsführung in MitarbeiterInnen zur Leitbildentwicklung und neuer Rollenklärung
+* Szenario-Entwicklung und Ableitung von Argumentationsketten für politischen Entscheidungsprozesse gegenüber der Hochschulleitung
+* Business Coaching bei konkreten Führungsaufgaben des Geschäftsführers
+
+## Referenz
+
+> "Die Unterstützung von Sebastian Sukstorf war für uns gleich doppelt fruchtbar und nachhaltig. Zum einen haben wir in gemeinsamen Workshops viel Klarheit gewonnen über die Aufgaben und Prozesse innerhalb des Teams und konnten uns so gut geordnet aufstellen, um für die vielfältigen Herausforderungen des Weiterbildungsgeschäfts besser gewappnet zu sein. 
+> Zum anderen hat Herr Sukstorf uns mit einer unnachahmlichen Mischung aus Empathie und analytischer Lösungsorientierung sehr dabei geholfen, strategische Entscheidungsmeetings optimal vorzubereiten. Was wir dabei an Methodik gelernt haben, setzen wir nach wie vor erfolgreich ein."
+
+Mark Hübner-Weinhold, [HOCHSCHULE FÜR ANGEWANDTE WISSENSCHAFTEN HAMBURG Campus Weiterbildung](https://www.haw-hamburg.de/weiterbildung/)
+
+## Projektdauer
+
+- Projektstart: 04/2022
+- Projektende: 04/2022
+- Laufzeit: 1 Monat

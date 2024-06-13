@@ -1,0 +1,30 @@
+---
+title: "Relaunch und Weiterentwicklung eines Design Thinking Trainingskonzepts"
+subtitle: "Modernisierung und Vielseitigkeit: Design Thinking Schulung für führenden deutschen Bildungsanbieter"
+description: "Design Thinking Schulung für führenden deutschen Bildungsanbieter überarbeitet und modernisiert. Konzeptentwicklung, Trainerunterlagen, Präsenz- und Online-Trainings in 2 Monaten umgesetzt (06/2019 - 07/2019)."
+author: "Sebastian Sukstorf"
+date: "2019-07-31"
+categories: [Lead-Trainer, Erwachsenenbildung, Design Thinking Schulung, Präsenzschulung, Online-Training, Konzeptionelle Entwicklung]
+image: "Design_Thinking_Training_Relaunch.png"
+---
+
+## Auftraggeber & Branche
+
+Führender deutscher Anbieter aus der Erwachsenenbildung, (remote work)
+
+## Ausgangslage
+
+Das bestehende Schulungskonzept _Design Thinking_ sollte überarbeitet und modernisiert werden. Ziel war eine Anpassung der Inhalte und die Erstellung eines neuen Schulungskonzepts, einer neuen Schulungsunterlage sowie die Durchführung der Trainings als Präsenz- und Online-Schulung. 
+
+## Inhalte
+
+- Konzeptionelle Entwicklung des neues Trainingskonzepts für Design Thinking Trainings
+- Entwicklung des didaktischen Designs und Erstellung der Trainerunterlage
+- Entwicklung und Umsetzung von ePractips (online Lernen)
+- Durchführung von Design Thinking Trainings (Präsenz / online)
+
+## Projektdauer
+
+- Projektstart: 06/2019
+- Projektende: 07/2019
+- Laufzeit: 2 Monate

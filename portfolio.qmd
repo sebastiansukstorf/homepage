@@ -1,0 +1,15 @@
+---
+title: "Portfolio"
+subtitle: "Business Coaching, Organisations- und Teamentwicklung"
+listing:
+  contents: posts/portfolio/
+  sort: 
+    #- "date desc"
+    - "title asc"
+  type: grid
+  categories: true
+  sort-ui: false
+  filter-ui: false
+page-layout: full
+title-block-banner: true
+---

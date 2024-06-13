@@ -1,0 +1,13 @@
+---
+title: "Sebastian Sukstorf"
+
+image: sebastian-sukstorf.png
+about:
+  template: jolla    
+---
+
+Ich verbinde Kreativität und strategische Beratung für kreatives Unternehmertum. 
+
+Als selbständiger Berater für Organisations- und Teamentwicklung leite ich Beratungsprojekte und berate Führungskräfte als Business Coach. 
+
+Ich bin Dozent an der Universität Hamburg in der berufsbegleitenden Weiterbildungen zu den Themen Führung und Personalentwicklung. 

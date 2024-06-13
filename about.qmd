@@ -1,0 +1,40 @@
+---
+title: "Sebastian Sukstorf"
+subtitle: "Berater, Dozent und Business Coach"
+#image: sebastian-sukstorf.png
+about:
+  template: solana
+  image-width: 20em
+  image-shape: rectangle
+---
+
+# Berufserfahrungen
+
+## Head of Learning & Development
+
+Head of Learning & Development DACH im Bereich Human Resources bei NTT Data Deutschland SE, Hamburg und München (80%) - 07/2022 - heute
+
+-	Konzeptionelle Neugestaltung einer Feedbacklandschaft entlang des Employer Lifecycles inkl. Integration von Mitarbeiterbefragungen, jährliche Mitarbeitergespräche sowie Welcome Days
+-	Neugestaltung des Onboarding Prozesses und der Welcome Days für neue Mitarbeiterinnen und Mitarbeiter sowie Führungskräfte
+-	Review und Weiterentwicklung des bestehenden internen Qualifizierungs- und Weiterbildungsangebots (Skill Management) für unterschiedliche Jobfamilien und Hierarchiestufen inkl. Ausgestaltung hybrider Lernkonzepte (Blended learning)
+-	Konzeptionelle Vorbereitung eines europäischen Talent Management Konzeptes (Laufbahnmodelle) zur Einführung eines neuen HR-IT Systems (SuccessFactors)
+
+Eingesetzte Methoden und Tools: Mitarbeiterführung, Talent Management, Laufbahnmodelle, Trainings Curriculum, Skill Management, strategische und operative Personalentwicklung, Stakeholdermanagement, Verhandlungen mit Betriebsräten, Gestaltung von Betriebsvereinbarungen, SAP SuccessFactors mit Employee Central, People Analytics
+
+## Selbständiger Berater 
+
+Sebastian Sukstorf - Leadership Design, Ahrensburg (20%) von 04/2019 bis heute. Selbständiger Berater in den Bereichen Organisations-, Team- und Personalentwicklung sowie Trainer für die Design Thinking Methode und virtuelle Führung von Teams
+
+-	Head of Learning Space & Culture (Leiter Personalentwicklung) als Interim Manager
+-	Externer Projektleiter zur „Lernraumgestaltung und Lernatmosphäre“ der VHS Hamburg 
+-	Externer Projektleiter für die „Partizipative Kundenanalyse und Aktivierung zur Neugestaltung eines öffentlich genutzten Raums“ / Zentralbibliothek Hamburg
+-	Design Thinking Workshop zur „Vorbereitung des Arbeitsteams für eine kollaborative und kreative Gestaltung der Kinderprogrammarbeit“ / Zentralbibliothek Hamburg
+-	„Unterstützung der IT-Reorganisation“ (IT-Leiter) / Verband, Externer Berater und Business Coach
+-	„Führung und Organisation“ Metall-Chemie Holding GmbH / Produktion, Externer Berater
+-	„Trainerfortbildung – Führung und systemische Organisationsentwicklung“ / Hochschule, Lead Trainer
+-	„Reorganisation und Coaching“ in Schulpsychologischer Beratungsstelle / Verwaltung, Business Coach
+-	„Relaunch und Weiterentwicklung des Design Thinking Trainingskonzepts“ für Integrata-Cegos GmbH / Erwachsenenbildung, Lead-Trainer
+
+Eingesetzte Methoden und Tools: Mitarbeiterführung, strategische Personalentwicklung, Konzeptentwicklung, Workshopdesign und -durchführung, Design Thinking Methode, Prototypentwicklung, Erstellung von Kundenreisen (mit partizipativer Nutzerbeteiligung), Coaching und Mentoring von Führungskräften und Geschäftsführern, Leitbildentwicklung IT-Abteilung, Etablierung IT-Prozesslandschaft nach ITIL, Teamworkshops und Retrospektiven, Reorganisation Organisation, strategische Personalplanung, Schnittstellenplanung, Erstellung Trainerkonzept für transformationale Führung und systemische Organisationsentwicklung, Organisation und Durchführung von Online Trainings, Teamentwicklung, mitarbeiterbezogene Handlungsmaßnahmen ableiten, Review und Weiterentwicklung Re-Organisationskonzept, virtuelle Führung
+
+

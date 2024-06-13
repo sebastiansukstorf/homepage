@@ -1,0 +1,36 @@
+---
+title: "Trainerfortbildung – Führung und systemische Organisationsentwicklung an einer Hochschule"
+subtitle: "Digitale Strategieentwicklung und transformationale Führung: Ein Fortbildungsprogramm für Polizeihochschuldozenten"
+description: "Dozentenfortbildung: Digitale Strategie und Führung für Polizeihochschule."
+author: "Sebastian Sukstorf"
+date: "2021-06-09"
+categories: [Hochschule, Train the trainer, Organisationsentwicklung, Change Prozess, Digitalisierung, Business Model Canvas, Kundengruppen, Persona]
+image: "hochschule.jpg"
+---
+
+![Dozentenfortbildung: Digitale Strategie und Führung für Polizeihochschule](hochschule.jpg){fig-alt="Dozentenfortbildung: Digitale Strategie und Führung für Polizeihochschule" fig-align="center" width=100%}
+
+## Auftraggeber & Branche
+
+Lead-Trainer an einer Hochschule der Polizei
+
+## Ausgangslage
+
+„Strategieentwicklung geht auch digital.“ In dem I. Modul der Trainerfortbildung bei einer Hochschule konnten die Dozenten durch einen intensiven Austausch den Change Prozess zur Digitalisierung anstoßen. 
+
+„Unsere Themenfelder sind klarer geworden – der Aufbruch hat stattgefunden.“ Die Business Model Canvas hat bei der Analyse und der Formulierung der strategischen Handlungsfelder geholfen.  
+
+„Wir haben Klarheit in unseren Kundensegmente erhalten.“ Mit den erstellen Persona konnten die Dozenten ihre wichtigsten Kundengruppen konkret beschreiben. 
+
+## Inhalte
+
+* Entwicklung eines virtuellen Trainingskonzept für Dozenten einer Hochschule (Fachbereich Management)
+* Inhaltlicher Schwerpunkt: Transformationale Führung und systemische Organisationsentwicklung
+* Durchführung der Online-Trainings (in MS Teams und mit kollaborativen Tools: Collaboard)
+
+
+## Projektdauer
+
+- Projektstart: 03/2020
+- Projektende: 06/2020
+- Laufzeit: 3 Monate

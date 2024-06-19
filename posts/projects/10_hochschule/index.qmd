@@ -1,11 +1,11 @@
 ---
-title: "Reorganisation und Neupositionierung universitärer Weiterbildung' in universitärer Weiterbildungsorganisation"
-subtitle: "x"
-description: "y"
+title: "Reorganisation und Neupositionierung universitärer Weiterbildung"
+subtitle: "Organisatorische Zielentwicklung und Führungskräfte-Coaching in der Geschäftsführung"
+description: "Konzeptionelle Entwicklung des Zielbildes und Workshops mit der Geschäftsführung für organisatorische Fragen. Team-Workshops zur Leitbildentwicklung und Rollenklärung. Szenario-Entwicklung und Argumentationsstrategien für politische Entscheidungsprozesse. Business Coaching für den Geschäftsführer bei Führungsaufgaben."
 author: "Sebastian Sukstorf"
-date: "2022-04-14"
-categories: [y]
-image: "kipro.jpeg"
+date: "2020-05-28"
+categories: [Zielbild, Strategie, Leitbild, Rollen, Organisation, Szenario-Entwicklung, Argumentation, Stakeholder Management, Hochschule, Erwachsenenbildung, Universität]
+image: "hochschule.jpg"
 ---
 
 ![Design Thinking Workshop kollaborative und kreative Gestaltung der Kinderprogrammarbeit](kipro.jpeg){fig-alt="Design Thinking Workshop kollaborative und kreative Gestaltung der Kinderprogrammarbeit" fig-align="center" width=100%}
@@ -35,6 +35,6 @@ Mark Hübner-Weinhold, [HOCHSCHULE FÜR ANGEWANDTE WISSENSCHAFTEN HAMBURG Campus
 
 ## Projektdauer
 
-- Projektstart: 04/2022
-- Projektende: 04/2022
-- Laufzeit: 1 Monat
+- Projektstart: 08/2019
+- Projektende: 05/2020
+- Laufzeit: 10 Monat

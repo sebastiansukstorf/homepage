@@ -1,5 +1,5 @@
 ---
-title: "Organisation und Durchführung von Workshops zur 'Lernraumgestaltung und Lernatmosphäre' der VHS Hamburg"
+title: "Organisation und Durchführung von Workshops zur 'Lernraumgestaltung und Lernatmosphäre'"
 subtitle: "Projektleiter für Design Thinking Workshops zur Prototypentwicklung in der Erwachsenenbildung"
 description: "Workshops zur Lernraumgestaltung mit Design Thinking, Erstellung von Anforderungskarten und Stimmungsbildern für Bildungsräume."
 date: "2022-09-02"

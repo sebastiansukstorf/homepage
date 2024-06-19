@@ -1,5 +1,5 @@
 ---
-title: "'Partizipative Kundenanalyse und Aktivierung zur Neugestaltung eines öffentlich genutzten Raums' an der Zentralbibliothek Hamburg"
+title: "'Partizipative Kundenanalyse und Aktivierung zur Neugestaltung eines öffentlich genutzten Raums'"
 subtitle: "Partizipative Neugestaltung und Kundenaktivierung in der Kinderbibliothek (Kibi) der Zentralbibliothek"
 description: "Neugestaltung der Kibi: Fokus auf Kundenbindung, Raumoptimierung und Serviceverbesserung."
 author: "Sebastian Sukstorf"

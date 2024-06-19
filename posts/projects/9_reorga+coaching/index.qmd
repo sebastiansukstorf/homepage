@@ -1,10 +1,11 @@
 ---
-title: "„Reorganisation und Coaching“ in Schulpsychologischer Beratungsstelle / Verwaltung,
-Business Coach"
+title: "Reorganisation und Coaching in Schulpsychologischer Beratungsstelle / Verwaltung"
+subtitle: "Optimierung und Coaching für die Beratungsstelle"
+description: "Überprüfung und Anpassung des Re-Organisationskonzepts der Beratungsstelle sowie Business Coaching der Leitung bei Führungsaufgaben."
 author: "Sebastian Sukstorf"
-date: "2024-03-07"
+date: "2022-06-10"
 categories: [Buisness Coaching, Führungskräfteentwicklung, öffentlicher Dienst, Verwaltung]
-image: "image.jpg"
+image: "coaching_schule.jpeg"
 ---
 
 ## Auftraggeber & Branche
@@ -13,7 +14,7 @@ Schulpsychologischer Beratungsstelle / Verwaltung
 
 ## Ausgangslage
 
-Business Coach 
+Business Coaching einer Leitungsposition in der öffentlichen Verwaltung 
 
 ## Inhalte
 

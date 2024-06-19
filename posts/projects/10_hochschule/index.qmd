@@ -8,7 +8,7 @@ categories: [Zielbild, Strategie, Leitbild, Rollen, Organisation, Szenario-Entwi
 image: "hochschule.jpg"
 ---
 
-![Design Thinking Workshop kollaborative und kreative Gestaltung der Kinderprogrammarbeit](kipro.jpeg){fig-alt="Design Thinking Workshop kollaborative und kreative Gestaltung der Kinderprogrammarbeit" fig-align="center" width=100%}
+![Reorganisation und Neupositionierung universitärer Weiterbildung](hochschule.jpg){fig-alt="Reorganisation und Neupositionierung universitärer Weiterbildung" fig-align="center" width=80%}
 
 ## Auftraggeber & Branche
 
@@ -16,7 +16,7 @@ HAW Hamburg
 
 ## Ausgangslage
 
-Externer Berater
+Externer Berater für organisatorische Zielentwicklung und Führungskräfte-Coaching in der Geschäftsführung.
 
 ## Inhalte
 

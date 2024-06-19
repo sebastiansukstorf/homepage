@@ -8,7 +8,7 @@ categories: [Zentralbibliothek Hamburg, Projekt, Kollaboration, Kreativität, Pr
 image: "kipro.jpeg"
 ---
 
-![Design Thinking Workshop kollaborative und kreative Gestaltung der Kinderprogrammarbeit](kipro.jpeg){fig-alt="Design Thinking Workshop kollaborative und kreative Gestaltung der Kinderprogrammarbeit" fig-align="center" width=100%}
+![Design Thinking Workshop kollaborative und kreative Gestaltung der Kinderprogrammarbeit](kipro.jpeg){fig-alt="Design Thinking Workshop kollaborative und kreative Gestaltung der Kinderprogrammarbeit" fig-align="center" width=80%}
 
 ## Auftraggeber & Branche
 

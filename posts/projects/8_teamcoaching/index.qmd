@@ -2,8 +2,8 @@
 title: "„Teamcoaching“ für Steuerberaterkanzlei / Steuerberatung"
 author: "Sebastian Sukstorf"
 date: "2024-03-07"
-categories: [Buisness Coaching, Teamentwicklung]
-image: "image.jpg"
+categories: [Buisness Coaching, Teamentwicklung, Kanzlei]
+image: "coaching.jpeg"
 ---
 
 ## Auftraggeber & Branche

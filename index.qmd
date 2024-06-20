@@ -6,7 +6,7 @@ about:
   template: jolla    
 ---
 
-Ich verbinde Kreativität und strategische Beratung für kreatives Unternehmertum. 
+Ich verbinde Kreativität und strategische Beratung. 
 
 Als selbständiger Berater für Organisations- und Teamentwicklung leite ich Beratungsprojekte und berate Führungskräfte als Business Coach. 
 

@@ -12,7 +12,7 @@ website:
       - href: projects.qmd
         text: Projekte
       - href: presentation.qmd
-        text: Präsentationen
+        text: Vorträge
       - href: publication.qmd
         text: Publikationen
       - href: blog.qmd

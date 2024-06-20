@@ -1,0 +1,21 @@
+---
+title: "Talentmanagement in KMU analysieren und (weiter-)entwickeln"
+subtitle: "HR-Statistik mit R"
+description: "Talentmanagement und strategische Personalentwicklung in KMU: Ansätze und Evaluierung"
+author: "Sebastian Sukstorf"
+date: "2014-01-15"
+categories: [Talent Management, KMU, Personalentwicklung, Statistik, R, Deutscher Bildungspreis]
+image: "tm.png"
+---
+
+![Vergleich Potenzial-Leistungs-Matrix (PLM) der Jahre 2013 zu 2014](tm.png){fig-alt="Vergleich Potenzial-Leistungs-Matrix (PLM) der Jahre 2013 zu 2014" fig-align="center" width=60%}
+
+# Zusammenfassung
+
+Personalabteilungen in KMU stehen vor der Herausforderung, mit der Einführung von Talentmanagement einen praktikablen Ansatz zu finden, um strategische und operative Personalentwicklung erfolgreich zu etablieren. Seine Wirksamkeit findet das Talentmanagement u. a. in den Mitarbeiterentwicklungsgesprächen und in einer transparenteren Potenzial- und Leistungsbeurteilung. Neben der Einführung von Talentmanagement werden hier auch erste Vorüberlegungen zur Überführung in die strategische Personalplanung der D+H Gruppe vorgestellt. Das gesamte Talentmanagement-Projekt wurde durch die Personalabteilung evaluiert und mit der Statistikanwendung R (R-Core-Team 2013) ausgewertet.
+
+# Vom Global Jobgrading zum Kompetenzmodell
+
+D+H hat in 2012 mit der Einführung von Talentmanagement begonnen. Das Projekt de-finiert  die  strategische  und operative  Personalentwicklung der  D+H  Gruppe  und  un-terstützt die nationale und internationale Personalarbeit. Talentmanagement umschreibt somit alle Aktivitäten von der Vereinheitlichung der Stellenarchitektur bis zu den hieraus abgeleiteten 70 neuen Stellenprofilen aller Fachbereiche und dem jeweiligen Aus- und Weiterbildungsbedarf, um zukünftige Weiterbildungs- und strategische Personalbedarfe zielgerichtet gestalten zu können (...)
+
+s.a. [Full-Text ResearchGate](https://www.researchgate.net/publication/348477874_Talentmanagement_in_KMU_analysieren_und_weiter-entwickeln)

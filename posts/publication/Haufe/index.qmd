@@ -1,11 +1,14 @@
 ---
 title: "Virtuelles Teammanagement"
 subtitle: "Erfolgreiche Führung im digitalen Raum"
+description: "Durch die beschleunigte Digitalisierung und der zunehmend virtuellen Zusammenarbeit in allen Bereichen, bedarf es einer intensiven Auseinandersetzung mit virtueller Führung."
 author: "Sebastian Sukstorf"
 date: "2021-03-01"
 categories: [TE, Teamentwicklung, Führung]
 image: "virt.png"
 ---
+
+![Virtuelles Teammanagement](virt.png){fig-alt="Virtuelles Teammanagement" fig-align="center" width=80%}
 
 # Was verlangt virtuelle Führung?
 
@@ -35,3 +38,5 @@ Hier lernen Führungskräfte den kompletten Lebenszyklus eines virtuellen Teams 
 - Problemlösung in virtuellen Teams
 - Erfolgskriterien von Führungskräften in virtuellen Teams
 - Interview
+
+s.a. [Virtuelles Teammanagement - Erfolgreiche Führung im digitalen Raum](https://shop.haufe.de/prod/virtuelles-teammanagement)

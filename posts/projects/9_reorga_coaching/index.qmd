@@ -4,7 +4,18 @@ subtitle: "Optimierung und Coaching für die Beratungsstelle"
 description: "Überprüfung und Anpassung des Re-Organisationskonzepts der Beratungsstelle sowie Business Coaching der Leitung bei Führungsaufgaben."
 author: "Sebastian Sukstorf"
 date: "2022-06-10"
-categories: [Buisness Coaching, Führungskräfteentwicklung, öffentlicher Dienst, Verwaltung]
+categories: [
+            Schulpsychologische Beratungsstelle,
+            Business Coaching Verwaltung,
+            Re-Organisation Beratungsstelle,
+            Führungsaufgaben Coaching,
+            Öffentliche Verwaltung Business Coaching,
+            Konzept Re-Organisation Beratungsstelle,
+            Leitungsposition Coaching,
+            Business Coaching Schulpsychologie,
+            Beratungsstelle Verwaltung,
+            Führungskräfte Coaching Verwaltung
+            ]
 image: "coaching_schule.jpeg"
 ---
 

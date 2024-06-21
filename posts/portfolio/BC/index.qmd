@@ -4,7 +4,23 @@ subtitle: "Veränderungen bewältigen und Führung gestalten"
 description: "Führungskräfte: Strategische Projekte steuern, Teams entwickeln, die eigene Rolle klären. Tools für mehr Effizienz."
 author: "Sebastian Sukstorf"
 date: "2020-08-13"
-categories: [Leadership Design Canvas, Führungsrolle, Strategische Projekte, Teamentwicklung, Persönliche Entwicklung]
+categories: [
+            Strategische Projekte steuern,
+            Führungskraft Entwicklung,
+            Leadership Design Canvas,
+            Führungsrolle klären,
+            Teamentwicklung Strategie,
+            Effiziente Arbeitsorganisation,
+            Persönliche Entwicklung Führungskraft,
+            Leadership Coaching,
+            Stakeholder Management,
+            Strategische Potenziale identifizieren,
+            Leadership Unterstützung,
+            Leadership Training,
+            Führungsaufgaben definieren,
+            Konfliktmanagement Führungskraft,
+            Erfolgreiche Gesprächsführung trainieren
+            ]
 image: "coaching.jpg"
 ---
 

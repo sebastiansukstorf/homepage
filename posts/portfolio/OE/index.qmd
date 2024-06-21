@@ -1,33 +1,47 @@
 ---
 title: "Organisationsentwicklung"
-subtitle: "Strategien zur effektiven Führung in dynamischen Unternehmensumgebungen"
-description: "Führungskräfte gestalten Veränderungen aktiv. Überwinden Sie Gewohnheiten, fördern Eigenverantwortung und Effizienz."
+subtitle: ""
+description: ""
 author: "Sebastian Sukstorf"
 date: "2020-12-13"
-categories: [Veränderungsprozesse, Mitarbeiterengagement, Kundenorientierte Prozesse, Organisationsentwicklung, Führungskräfteschulungen]
+categories: [
+            
+            ]
 image: "Design-Thinking.jpg"
 ---
 
-Unternehmen, MitarbeiterInnen und Führungskräfte befinden sich in immer schnelleren Veränderungsprozessen.
-Als Führungskraft ist es Ihre Aufgabe, diese Veränderungen frühzeitig zu erkennen und aktiv zu gestalten.
-Wie schaffen Sie es, dass Ihre MitarbeiterInnen Verantwortung übernehmen und relevante Prozesse kundenorientierter denken?
-Überwinden Sie das “So haben wir das immer schon gemacht” durch eine aktive Einbindung Ihrer MitarbeiterInnen und entwickeln Sie eine effektive Organisation. Fördern Sie die Eigenverantwortung und Motivation Ihrer MitarbeiterInnen.
+## Herausforderungen
+
+Sie stehen vor der Herausforderung, traditionelle Schulungskonzepte an die modernen Anforderungen von Lernenden anzupassen. 
+Sie müssen Präsenz- und Online-Schulungen integrieren, um eine breite Zielgruppe zu erreichen.
+Die innovative Entwicklung von Prototypen für Lernräume, die den Bedürfnissen der Nutzer entsprechen, liegt in Ihrem Verantwortungsbereich. 
+Es ist Ihre Aufgabe, eine effektive Nutzerbeteiligung sicherzustellen und diese zur Verbesserung ihrer Dienstleistungs- und Serviceangebote zu aktivieren. 
+Zudem sind Sie gefordert, Stakeholder-Gruppen zu moderieren und zu managen, um verschiedene Interessen zu vereinen und erfolgreiche Projekte zu ermöglichen. 
+Die Planung und Umsetzung von partizipativen Workshops zur Neugestaltung von öffentlich genutzten Räumen oder strategischer Projekte unterliegt Ihrer Verantwortung. 
+Schließlich müssen Sie Raum- und Funktionsprogramme erstellen, die den aktuellen und zukünftigen Anforderungen Ihrer Kundengruppen gerecht werden.
+
 
 ## Leistungen
 
-- Schnittstellen analysieren und effektive Prozesse definieren
-- Verantwortlichkeiten klären und eindeutig beschreiben
-- Organisationsmodelle entwerfen und Aufbauorganisationen gestalten
-- Kommunikation klären und regeln
-- Führungskräfte in ihrer Rolle stärken
+* Design Thinking Schulungen für Bibliotheken: Durchführung von maßgeschneiderten Schulungen, die sowohl vor Ort als auch online angeboten werden, um Bibliotheksmitarbeiter in der Anwendung von Design Thinking Methoden zu schulen.
+* Entwicklung von Schulungskonzepten: Erstellung umfassender Schulungspläne und didaktischer Designs, die auf die spezifischen Bedürfnisse von Bibliotheken und ihren Nutzern abgestimmt sind.
+* Erstellung didaktischer Designs und Trainerunterlagen: Entwicklung von unterstützenden Materialien für Trainer, die eine effektive Wissensvermittlung und praktische Anwendung der erlernten Konzepte sicherstellen.
+* Kundenanalyse und -aktivierung: Durchführung von Analysen und Befragungen, um die Bedürfnisse und Erwartungen der Bibliotheksnutzer zu erfassen und darauf basierend Aktivierungsstrategien zu entwickeln.
+* Partizipationsprozesse, Moderation und Stakeholder-Management: Planung und Durchführung partizipativer Prozesse, Moderation von Workshops und Meetings sowie Management von Stakeholder-Gruppen, um eine breite Beteiligung und Konsensbildung zu erreichen.
+* Entwicklung von Prototypen für die Lernraumgestaltung: Erstellung und Testung von Prototypen für Lernräume, die den spezifischen Anforderungen der Nutzer gerecht werden.
+* Partizipative Gestaltung und Prototypentwicklung in Bibliotheken: Einsatz von partizipativen Methoden zur gemeinsamen Entwicklung und Umsetzung von Prototypen in Bibliotheken.
+* Partizipative Workshops zur Neugestaltung von Bibliotheken: Organisation und Durchführung von Workshops, bei denen Bibliotheksnutzer aktiv in den Gestaltungsprozess eingebunden werden.
+* Raum- und Funktionsprogramme: Entwicklung von detaillierten Raum- und Funktionsprogrammen, die die aktuellen und zukünftigen Bedürfnisse der Bibliotheken und ihrer Nutzer berücksichtigen.
+* Stakeholdergruppen- und Projektmanagement: Koordination und Management von Stakeholder-Gruppen und Projekten, um sicherzustellen, dass alle Interessen berücksichtigt und Projekte erfolgreich umgesetzt werden.
 
-## Werkzeuge
+## Nutzen
 
-- SIPOC-Analysen für Prozessoptimierungen
-- RACI-Matrix zur Schnittstellenoptimierung
-- Organigramm und Jobprofile
-- Regelkommunikation festlegen und Meetings verbessern
-- Führungskräfte Schulungen für mehr Rollenklarheit
+* Innovative Bibliotheksangebote: Durch die Anwendung von Design Thinking Methoden und partizipativen Prozessen entstehen innovative und nutzerorientierte Bibliotheksangebote.
+* Erhöhte Nutzerzufriedenheit: Durch die direkte Einbindung der Nutzer in den Gestaltungsprozess werden deren Bedürfnisse besser berücksichtigt, was zu einer höheren Zufriedenheit führt.
+* Effektive Schulungen: Die Kombination aus Präsenz- und Online-Schulungen sowie die Bereitstellung umfassender Trainerunterlagen sorgen für eine effektive und nachhaltige Wissensvermittlung.
+* Verbesserte Zusammenarbeit: Die Moderation und das Management von Stakeholder-Gruppen fördern die Zusammenarbeit und den Konsens zwischen verschiedenen Interessengruppen.
+* Zukunftsorientierte Raumgestaltung: Die Entwicklung von Prototypen und Raumprogrammen, die den aktuellen und zukünftigen Anforderungen gerecht werden, sorgt für eine nachhaltige und flexible Nutzung der Bibliotheksräume.
+* Erfolgreiche Projektumsetzung: Durch ein strukturiertes Projekt- und Stakeholdermanagement werden Projekte effizient und erfolgreich umgesetzt.
 
 ## Referenzen
 

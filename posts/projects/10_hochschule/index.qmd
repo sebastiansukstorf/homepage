@@ -4,11 +4,22 @@ subtitle: "Organisatorische Zielentwicklung und Führungskräfte-Coaching in der
 description: "Konzeptionelle Entwicklung des Zielbildes und Workshops mit der Geschäftsführung für organisatorische Fragen. Team-Workshops zur Leitbildentwicklung und Rollenklärung. Szenario-Entwicklung und Argumentationsstrategien für politische Entscheidungsprozesse. Business Coaching für den Geschäftsführer bei Führungsaufgaben."
 author: "Sebastian Sukstorf"
 date: "2020-05-28"
-categories: [Zielbild, Strategie, Leitbild, Rollen, Organisation, Szenario-Entwicklung, Argumentation, Stakeholder Management, Hochschule, Erwachsenenbildung, Universität]
+categories: [
+            Führungskräfte-Coaching,
+            Organisatorische Zielentwicklung,
+            Geschäftsführung Workshops,
+            Team Workshops Leitbildentwicklung,
+            Szenario-Entwicklung Hochschulleitung,
+            Business Coaching Geschäftsführer,
+            Strategische Entscheidungsmeetings,
+            Weiterbildungsgeschäft,
+            Externer Berater Hamburg,
+            Organisatorische Fragestellungen
+            ]
 image: "hochschule.jpg"
 ---
 
-![Reorganisation und Neupositionierung universitärer Weiterbildung](hochschule.jpg){fig-alt="Reorganisation und Neupositionierung universitärer Weiterbildung" fig-align="center" width=80%}
+![Reorganisation und Neupositionierung universitärer Weiterbildung](hochschule.jpg){fig-alt="Reorganisation und Neupositionierung universitärer Weiterbildung" fig-align="center" width=70%}
 
 ## Auftraggeber & Branche
 

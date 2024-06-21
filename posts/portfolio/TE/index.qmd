@@ -4,7 +4,42 @@ subtitle: "Teams weiterentwickeln und MitarbeiterInnen unterstützen"
 description: "Effektives Teammanagement: Klare Rollen, Kommunikation und Teamentwicklung für erfolgreiche Zusammenarbeit."
 author: "Sebastian Sukstorf"
 date: "2021-02-01"
-categories: [Teamentwicklung, On- und Off-Boarding, Teamrollen, Wertschätzende Kommunikation, Teamkonflikte]
+categories: [
+            Teams in Unternehmen,
+            Teamorganisation,
+            Onboarding Prozesse,
+            Offboarding Prozesse,
+            Wissenstransfer im Team,
+            Teamverantwortlichkeiten,
+            Team-Schnittstellen,
+            Rollenklärung im Team,
+            Führungskräfte Unterstützung,
+            Zusammenarbeit im Team,
+            Wertschätzende Kommunikation,
+            Teamentwicklung,
+            Visuelle Teamanalyse,
+            Teamrollen sichtbar machen,
+            Einflussnahme im Team,
+            Teamkooperation,
+            Arbeitsbeziehungen im Team,
+            Handlungsempfehlungen Teamentwicklung,
+            Informelle Teams,
+            Teamkonflikte lösen,
+            Teamanalyse Werkzeuge,
+            Teamaktivitäten verstehen,
+            Kritische Teamannahmen,
+            Teamentwicklung Workshops,
+            Strategische Entscheidungsmeetings,
+            Methodik in Teams,
+            Coaching zur Teamentwicklung,
+            Empathie in der Teamentwicklung,
+            Analytische Lösungsorientierung,
+            Teamentwicklung Referenzen,
+            Weiterbildung Teamentwicklung,
+            Führungskräfte Coaching,
+            Teamkonstellation Beratung,
+            Sebastian Sukstorf Coach
+            ]
 image: "workplace.jpg"
 ---
 

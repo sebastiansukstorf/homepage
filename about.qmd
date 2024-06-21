@@ -4,24 +4,13 @@ subtitle: "Berater, Dozent und Business Coach"
 #image: sebastian-sukstorf.png
 about:
   template: solana
-  image-width: 20em
+  image-width: 10em
   image-shape: rectangle
 ---
 
-![Sebastian Sukstorf](sebastian-sukstorf.png){fig-alt="Sebastian Sukstorf" fig-align="right" width=50%}
+![](sebastian-sukstorf.png){fig-alt="Sebastian Sukstorf" fig-align="right" width=50%}
 
 # Berufserfahrungen
-
-## Head of Learning & Development
-
-Head of Learning & Development DACH im Bereich Human Resources bei NTT Data Deutschland SE, Hamburg und München (80%) - 07/2022 - heute
-
--	Konzeptionelle Neugestaltung einer Feedbacklandschaft entlang des Employer Lifecycles inkl. Integration von Mitarbeiterbefragungen, jährliche Mitarbeitergespräche sowie Welcome Days
--	Neugestaltung des Onboarding Prozesses und der Welcome Days für neue Mitarbeiterinnen und Mitarbeiter sowie Führungskräfte
--	Review und Weiterentwicklung des bestehenden internen Qualifizierungs- und Weiterbildungsangebots (Skill Management) für unterschiedliche Jobfamilien und Hierarchiestufen inkl. Ausgestaltung hybrider Lernkonzepte (Blended learning)
--	Konzeptionelle Vorbereitung eines europäischen Talent Management Konzeptes (Laufbahnmodelle) zur Einführung eines neuen HR-IT Systems (SuccessFactors)
-
-Eingesetzte Methoden und Tools: Mitarbeiterführung, Talent Management, Laufbahnmodelle, Trainings Curriculum, Skill Management, strategische und operative Personalentwicklung, Stakeholdermanagement, Verhandlungen mit Betriebsräten, Gestaltung von Betriebsvereinbarungen, SAP SuccessFactors mit Employee Central, People Analytics
 
 ## Selbständiger Berater 
 
@@ -38,6 +27,17 @@ Sebastian Sukstorf - Leadership Design, Ahrensburg (20%) von 04/2019 bis heute. 
 -	„Relaunch und Weiterentwicklung des Design Thinking Trainingskonzepts“ für Integrata-Cegos GmbH / Erwachsenenbildung, Lead-Trainer
 
 Eingesetzte Methoden und Tools: Mitarbeiterführung, strategische Personalentwicklung, Konzeptentwicklung, Workshopdesign und -durchführung, Design Thinking Methode, Prototypentwicklung, Erstellung von Kundenreisen (mit partizipativer Nutzerbeteiligung), Coaching und Mentoring von Führungskräften und Geschäftsführern, Leitbildentwicklung IT-Abteilung, Etablierung IT-Prozesslandschaft nach ITIL, Teamworkshops und Retrospektiven, Reorganisation Organisation, strategische Personalplanung, Schnittstellenplanung, Erstellung Trainerkonzept für transformationale Führung und systemische Organisationsentwicklung, Organisation und Durchführung von Online Trainings, Teamentwicklung, mitarbeiterbezogene Handlungsmaßnahmen ableiten, Review und Weiterentwicklung Re-Organisationskonzept, virtuelle Führung
+
+## Head of Learning & Development
+
+Head of Learning & Development DACH im Bereich Human Resources bei NTT Data Deutschland SE, Hamburg und München (80%) - 07/2022 - heute
+
+-	Konzeptionelle Neugestaltung einer Feedbacklandschaft entlang des Employer Lifecycles inkl. Integration von Mitarbeiterbefragungen, jährliche Mitarbeitergespräche sowie Welcome Days
+-	Neugestaltung des Onboarding Prozesses und der Welcome Days für neue Mitarbeiterinnen und Mitarbeiter sowie Führungskräfte
+-	Review und Weiterentwicklung des bestehenden internen Qualifizierungs- und Weiterbildungsangebots (Skill Management) für unterschiedliche Jobfamilien und Hierarchiestufen inkl. Ausgestaltung hybrider Lernkonzepte (Blended learning)
+-	Konzeptionelle Vorbereitung eines europäischen Talent Management Konzeptes (Laufbahnmodelle) zur Einführung eines neuen HR-IT Systems (SuccessFactors)
+
+Eingesetzte Methoden und Tools: Mitarbeiterführung, Talent Management, Laufbahnmodelle, Trainings Curriculum, Skill Management, strategische und operative Personalentwicklung, Stakeholdermanagement, Verhandlungen mit Betriebsräten, Gestaltung von Betriebsvereinbarungen, SAP SuccessFactors mit Employee Central, People Analytics
 
 ## Leiter Consulting Strategie, Innovation und Organisation
 
@@ -177,3 +177,7 @@ Gastdozent an der Universität Hamburg, Fakultät Wirtschaft- und Sozialwissensc
 
 - Kunst: Literatur und [Schreiben](https://soundcloud.com/sebastian-sukstorf/tracks)
 -	Musik: Jazz(-hörer) gerne in der [JazzHall, Hamburg](https://jazzhall.hfmt-hamburg.de/)
+
+# Kontakt
+
+Schreiben Sie mir gerne ein E-Mail: info(at)sebastian.sukstorf(dot)com

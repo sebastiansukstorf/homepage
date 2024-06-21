@@ -1,10 +1,21 @@
 ---
 title: "Relaunch und Weiterentwicklung eines Design Thinking Trainingskonzepts"
 subtitle: "Modernisierung und Vielseitigkeit: Design Thinking Schulung für führenden deutschen Bildungsanbieter"
-description: "Design Thinking Schulung für führenden deutschen Bildungsanbieter überarbeitet und modernisiert. Konzeptentwicklung, Trainerunterlagen, Präsenz- und Online-Trainings in 2 Monaten umgesetzt (06/2019 - 07/2019)."
+description: "Design Thinking Schulung für führenden deutschen Bildungsanbieter überarbeitet und modernisiert. Konzeptentwicklung, Trainerunterlagen, Präsenz- und Online-Training"
 author: "Sebastian Sukstorf"
 date: "2019-07-31"
-categories: [Lead-Trainer, Erwachsenenbildung, Design Thinking Schulung, Präsenzschulung, Online-Training, Konzeptionelle Entwicklung]
+categories: [
+            Design Thinking Schulung,
+            Design Thinking Training Konzept,
+            Erwachsenenbildung Design Thinking,
+            Online Schulung Design Thinking,
+            Präsenz Schulung Design Thinking,
+            Didaktisches Design Design Thinking,
+            Trainerunterlage Design Thinking,
+            eLearning Design Thinking,
+            Design Thinking Workshop,
+            Design Thinking Methodik
+            ]
 image: "Design_Thinking_Training_Relaunch.png"
 ---
 

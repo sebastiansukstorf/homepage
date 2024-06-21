@@ -78,9 +78,9 @@ ul.task-list li input[type="checkbox"] {
     }
 
     const options = {
-      valueNames: ['listing-title','listing-author','listing-date','listing-image','listing-description','listing-categories',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-file-modified-sort'] }],
+      valueNames: ['listing-title','listing-author','listing-date','listing-image','listing-description',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-file-modified-sort'] }],
       
-      searchColumns: ["listing-title","listing-author","listing-date","listing-image","listing-description","listing-categories"],
+      searchColumns: ["listing-title","listing-author","listing-date","listing-image","listing-description"],
     };
 
     window['quarto-listings'] = window['quarto-listings'] || {};
@@ -198,14 +198,14 @@ window.Quarto = {
 <!-- content -->
 <header id="title-block-header" class="quarto-title-block default page-columns page-full">
   <div class="quarto-title-banner page-columns page-full">
-    <div class="quarto-title column-page-left">
+    <div class="quarto-title column-page">
       <h1 class="title">Portfolio</h1>
             <p class="subtitle lead">Business Coaching, Organisations- und Teamentwicklung</p>
                       </div>
   </div>
     
   
-  <div class="quarto-title-meta column-page-left">
+  <div class="quarto-title-meta column-page">
 
       
     
@@ -216,11 +216,11 @@ window.Quarto = {
   </header><div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-full page-navbar">
 <!-- sidebar -->
 <!-- margin-sidebar -->
-    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
+    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar zindex-bottom">
         
-    <h5 class="quarto-listing-category-title">Categories</h5><div class="quarto-listing-category category-default"><div class="category" data-category="">All <span class="quarto-category-count">(3)</span></div><div class="category" data-category="Führungskräfteschulungen">Führungskräfteschulungen <span class="quarto-category-count">(1)</span></div><div class="category" data-category="Führungsrolle">Führungsrolle <span class="quarto-category-count">(1)</span></div><div class="category" data-category="Kundenorientierte Prozesse">Kundenorientierte Prozesse <span class="quarto-category-count">(1)</span></div><div class="category" data-category="Leadership Design Canvas">Leadership Design Canvas <span class="quarto-category-count">(1)</span></div><div class="category" data-category="Mitarbeiterengagement">Mitarbeiterengagement <span class="quarto-category-count">(1)</span></div><div class="category" data-category="On- und Off-Boarding">On- und Off-Boarding <span class="quarto-category-count">(1)</span></div><div class="category" data-category="Organisationsentwicklung">Organisationsentwicklung <span class="quarto-category-count">(1)</span></div><div class="category" data-category="Persönliche Entwicklung">Persönliche Entwicklung <span class="quarto-category-count">(1)</span></div><div class="category" data-category="Strategische Projekte">Strategische Projekte <span class="quarto-category-count">(1)</span></div><div class="category" data-category="Teamentwicklung">Teamentwicklung <span class="quarto-category-count">(2)</span></div><div class="category" data-category="Teamkonflikte">Teamkonflikte <span class="quarto-category-count">(1)</span></div><div class="category" data-category="Teamrollen">Teamrollen <span class="quarto-category-count">(1)</span></div><div class="category" data-category="Veränderungsprozesse">Veränderungsprozesse <span class="quarto-category-count">(1)</span></div><div class="category" data-category="Wertschätzende Kommunikation">Wertschätzende Kommunikation <span class="quarto-category-count">(1)</span></div></div></div>
+    </div>
 <!-- main -->
-<main class="content quarto-banner-title-block column-page-left" id="quarto-document-content">
+<main class="content quarto-banner-title-block column-page" id="quarto-document-content">
 
 
 
@@ -242,23 +242,6 @@ window.Quarto = {
 <h5 class="no-anchor card-title listing-title">
 Business Coaching
 </h5>
-<div class="listing-categories">
-<div class="listing-category" onclick="window.quartoListingCategory('Leadership Design Canvas'); return false;">
-Leadership Design Canvas
-</div>
-<div class="listing-category" onclick="window.quartoListingCategory('Führungsrolle'); return false;">
-Führungsrolle
-</div>
-<div class="listing-category" onclick="window.quartoListingCategory('Strategische Projekte'); return false;">
-Strategische Projekte
-</div>
-<div class="listing-category" onclick="window.quartoListingCategory('Teamentwicklung'); return false;">
-Teamentwicklung
-</div>
-<div class="listing-category" onclick="window.quartoListingCategory('Persönliche Entwicklung'); return false;">
-Persönliche Entwicklung
-</div>
-</div>
 <div class="card-text listing-description">
 Führungskräfte: Strategische Projekte steuern, Teams entwickeln, die eigene Rolle klären. Tools für mehr Effizienz.
 </div>
@@ -284,23 +267,6 @@ Aug 13, 2020
 <h5 class="no-anchor card-title listing-title">
 Organisationsentwicklung
 </h5>
-<div class="listing-categories">
-<div class="listing-category" onclick="window.quartoListingCategory('Veränderungsprozesse'); return false;">
-Veränderungsprozesse
-</div>
-<div class="listing-category" onclick="window.quartoListingCategory('Mitarbeiterengagement'); return false;">
-Mitarbeiterengagement
-</div>
-<div class="listing-category" onclick="window.quartoListingCategory('Kundenorientierte Prozesse'); return false;">
-Kundenorientierte Prozesse
-</div>
-<div class="listing-category" onclick="window.quartoListingCategory('Organisationsentwicklung'); return false;">
-Organisationsentwicklung
-</div>
-<div class="listing-category" onclick="window.quartoListingCategory('Führungskräfteschulungen'); return false;">
-Führungskräfteschulungen
-</div>
-</div>
 <div class="card-text listing-description">
 Führungskräfte gestalten Veränderungen aktiv. Überwinden Sie Gewohnheiten, fördern Eigenverantwortung und Effizienz.
 </div>
@@ -326,23 +292,6 @@ Dec 13, 2020
 <h5 class="no-anchor card-title listing-title">
 Teamentwicklung
 </h5>
-<div class="listing-categories">
-<div class="listing-category" onclick="window.quartoListingCategory('Teamentwicklung'); return false;">
-Teamentwicklung
-</div>
-<div class="listing-category" onclick="window.quartoListingCategory('On- und Off-Boarding'); return false;">
-On- und Off-Boarding
-</div>
-<div class="listing-category" onclick="window.quartoListingCategory('Teamrollen'); return false;">
-Teamrollen
-</div>
-<div class="listing-category" onclick="window.quartoListingCategory('Wertschätzende Kommunikation'); return false;">
-Wertschätzende Kommunikation
-</div>
-<div class="listing-category" onclick="window.quartoListingCategory('Teamkonflikte'); return false;">
-Teamkonflikte
-</div>
-</div>
 <div class="card-text listing-description">
 Effektives Teammanagement: Klare Rollen, Kommunikation und Teamentwicklung für erfolgreiche Zusammenarbeit.
 </div>

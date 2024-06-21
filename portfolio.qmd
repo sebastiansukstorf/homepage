@@ -7,7 +7,7 @@ listing:
     #- "date desc"
     - "title asc"
   type: grid
-  categories: true
+  categories: false
   sort-ui: false
   filter-ui: false
 page-layout: full

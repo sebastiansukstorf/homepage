@@ -4,7 +4,18 @@ subtitle: "Optimierung der Unternehmensstruktur: Ein Weg zu klar definierten Pro
 description: "Metall-Chemie GmbH optimiert Struktur für klare Prozesse und bessere QM/QS."
 author: "Sebastian Sukstorf"
 date: "2020-06-19"
-categories: [Organisationsstruktur, Prozessklärung, Schnittstellenklärung, Personalplanung, Stellenbeschreibungen]
+categories: [
+            Organisationsstruktur optimieren,
+            Prozessoptimierung Unternehmen,
+            Schnittstellenmanagement verbessern,
+            QM/QS-Modell einführen,
+            Stellenbeschreibungen erstellen,
+            Ressourcenmanagement verbessern,
+            Strategische Personalplanung KMU,
+            Effiziente Aufgabenzuordnung,
+            Funktionsbereiche klären,
+            Transparente Kommunikation im Unternehmen
+            ]
 image: "mc.jpg"
 ---
 

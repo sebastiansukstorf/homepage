@@ -4,7 +4,23 @@ subtitle: "Vorbereitung des Arbeitsteams zur kollaborativen Gestaltung der Kinde
 description: "Stärkung der Kinderprogrammarbeit der Zentralbibliothek Hamburg durch Design Thinking und Teamtraining."
 author: "Sebastian Sukstorf"
 date: "2022-04-14"
-categories: [Zentralbibliothek Hamburg, Projekt, Kollaboration, Kreativität, Programmarbeit, Design Thinking, Projektideen, Kollaboration]
+categories: [
+            Zentralbibliothek Hamburg,
+            Bücherhallen Hamburg,
+            Kinderprogrammarbeit,
+            kreative Gestaltung,
+            kollaborative Projekte,
+            Design Thinking Methode,
+            Beratung für Bibliotheken,
+            Kinderbibliothek Projekte,
+            Nutzerbeteiligung,
+            Fachbereiche Zusammenarbeit,
+            Ideenfindung Kinderprogramme,
+            Projektmanagement Bibliotheken,
+            Publikumsbetrieb,
+            Vermittlung und Programm,
+            Bildungsprojekte Bibliothek
+            ]
 image: "kipro.jpeg"
 ---
 

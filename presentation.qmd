@@ -5,7 +5,7 @@ listing:
   contents: posts/presentation/
   sort: "date desc"
   type: grid
-  categories: true
+  categories: false
   sort-ui: false
   filter-ui: false
 page-layout: full

@@ -78,9 +78,9 @@ ul.task-list li input[type="checkbox"] {
     }
 
     const options = {
-      valueNames: ['listing-title','listing-author','listing-date','listing-image','listing-description','listing-categories',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-file-modified-sort'] }],
+      valueNames: ['listing-title','listing-author','listing-date','listing-image','listing-description',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-file-modified-sort'] }],
       
-      searchColumns: ["listing-title","listing-author","listing-date","listing-image","listing-description","listing-categories"],
+      searchColumns: ["listing-title","listing-author","listing-date","listing-image","listing-description"],
     };
 
     window['quarto-listings'] = window['quarto-listings'] || {};
@@ -198,14 +198,14 @@ window.Quarto = {
 <!-- content -->
 <header id="title-block-header" class="quarto-title-block default page-columns page-full">
   <div class="quarto-title-banner page-columns page-full">
-    <div class="quarto-title column-page-left">
+    <div class="quarto-title column-page">
       <h1 class="title">Vorträge</h1>
             <p class="subtitle lead">Vorträge und Präsentationen</p>
                       </div>
   </div>
     
   
-  <div class="quarto-title-meta column-page-left">
+  <div class="quarto-title-meta column-page">
 
       
     
@@ -216,11 +216,11 @@ window.Quarto = {
   </header><div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-full page-navbar">
 <!-- sidebar -->
 <!-- margin-sidebar -->
-    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
+    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar zindex-bottom">
         
-    <h5 class="quarto-listing-category-title">Categories</h5><div class="quarto-listing-category category-default"><div class="category" data-category="">All <span class="quarto-category-count">(11)</span></div><div class="category" data-category="OE">OE <span class="quarto-category-count">(11)</span></div><div class="category" data-category="Organisation">Organisation <span class="quarto-category-count">(11)</span></div><div class="category" data-category="Organisationsentwicklung">Organisationsentwicklung <span class="quarto-category-count">(11)</span></div></div></div>
+    </div>
 <!-- main -->
-<main class="content quarto-banner-title-block column-page-left" id="quarto-document-content">
+<main class="content quarto-banner-title-block column-page" id="quarto-document-content">
 
 
 
@@ -242,17 +242,6 @@ window.Quarto = {
 <h5 class="no-anchor card-title listing-title">
 Talentmanagement
 </h5>
-<div class="listing-categories">
-<div class="listing-category" onclick="window.quartoListingCategory('OE'); return false;">
-OE
-</div>
-<div class="listing-category" onclick="window.quartoListingCategory('Organisation'); return false;">
-Organisation
-</div>
-<div class="listing-category" onclick="window.quartoListingCategory('Organisationsentwicklung'); return false;">
-Organisationsentwicklung
-</div>
-</div>
 <div class="card-text listing-description">
 Das ist Text zur OE.
 </div>
@@ -278,17 +267,6 @@ Mar 7, 2024
 <h5 class="no-anchor card-title listing-title">
 Talentmanagement
 </h5>
-<div class="listing-categories">
-<div class="listing-category" onclick="window.quartoListingCategory('OE'); return false;">
-OE
-</div>
-<div class="listing-category" onclick="window.quartoListingCategory('Organisation'); return false;">
-Organisation
-</div>
-<div class="listing-category" onclick="window.quartoListingCategory('Organisationsentwicklung'); return false;">
-Organisationsentwicklung
-</div>
-</div>
 <div class="card-text listing-description">
 Das ist Text zur OE.
 </div>
@@ -314,17 +292,6 @@ Mar 7, 2024
 <h5 class="no-anchor card-title listing-title">
 Talentmanagement
 </h5>
-<div class="listing-categories">
-<div class="listing-category" onclick="window.quartoListingCategory('OE'); return false;">
-OE
-</div>
-<div class="listing-category" onclick="window.quartoListingCategory('Organisation'); return false;">
-Organisation
-</div>
-<div class="listing-category" onclick="window.quartoListingCategory('Organisationsentwicklung'); return false;">
-Organisationsentwicklung
-</div>
-</div>
 <div class="card-text listing-description">
 Das ist Text zur OE.
 </div>
@@ -350,17 +317,6 @@ Mar 7, 2024
 <h5 class="no-anchor card-title listing-title">
 Talentmanagement
 </h5>
-<div class="listing-categories">
-<div class="listing-category" onclick="window.quartoListingCategory('OE'); return false;">
-OE
-</div>
-<div class="listing-category" onclick="window.quartoListingCategory('Organisation'); return false;">
-Organisation
-</div>
-<div class="listing-category" onclick="window.quartoListingCategory('Organisationsentwicklung'); return false;">
-Organisationsentwicklung
-</div>
-</div>
 <div class="card-text listing-description">
 Das ist Text zur OE.
 </div>
@@ -386,17 +342,6 @@ Mar 7, 2024
 <h5 class="no-anchor card-title listing-title">
 Talentmanagement
 </h5>
-<div class="listing-categories">
-<div class="listing-category" onclick="window.quartoListingCategory('OE'); return false;">
-OE
-</div>
-<div class="listing-category" onclick="window.quartoListingCategory('Organisation'); return false;">
-Organisation
-</div>
-<div class="listing-category" onclick="window.quartoListingCategory('Organisationsentwicklung'); return false;">
-Organisationsentwicklung
-</div>
-</div>
 <div class="card-text listing-description">
 Das ist Text zur OE.
 </div>
@@ -422,17 +367,6 @@ Mar 7, 2024
 <h5 class="no-anchor card-title listing-title">
 Talentmanagement
 </h5>
-<div class="listing-categories">
-<div class="listing-category" onclick="window.quartoListingCategory('OE'); return false;">
-OE
-</div>
-<div class="listing-category" onclick="window.quartoListingCategory('Organisation'); return false;">
-Organisation
-</div>
-<div class="listing-category" onclick="window.quartoListingCategory('Organisationsentwicklung'); return false;">
-Organisationsentwicklung
-</div>
-</div>
 <div class="card-text listing-description">
 Das ist Text zur OE.
 </div>
@@ -458,17 +392,6 @@ Mar 7, 2024
 <h5 class="no-anchor card-title listing-title">
 Talentmanagement
 </h5>
-<div class="listing-categories">
-<div class="listing-category" onclick="window.quartoListingCategory('OE'); return false;">
-OE
-</div>
-<div class="listing-category" onclick="window.quartoListingCategory('Organisation'); return false;">
-Organisation
-</div>
-<div class="listing-category" onclick="window.quartoListingCategory('Organisationsentwicklung'); return false;">
-Organisationsentwicklung
-</div>
-</div>
 <div class="card-text listing-description">
 Das ist Text zur OE.
 </div>
@@ -494,17 +417,6 @@ Mar 7, 2024
 <h5 class="no-anchor card-title listing-title">
 Talentmanagement
 </h5>
-<div class="listing-categories">
-<div class="listing-category" onclick="window.quartoListingCategory('OE'); return false;">
-OE
-</div>
-<div class="listing-category" onclick="window.quartoListingCategory('Organisation'); return false;">
-Organisation
-</div>
-<div class="listing-category" onclick="window.quartoListingCategory('Organisationsentwicklung'); return false;">
-Organisationsentwicklung
-</div>
-</div>
 <div class="card-text listing-description">
 Das ist Text zur OE.
 </div>
@@ -530,17 +442,6 @@ Mar 7, 2024
 <h5 class="no-anchor card-title listing-title">
 Talentmanagement
 </h5>
-<div class="listing-categories">
-<div class="listing-category" onclick="window.quartoListingCategory('OE'); return false;">
-OE
-</div>
-<div class="listing-category" onclick="window.quartoListingCategory('Organisation'); return false;">
-Organisation
-</div>
-<div class="listing-category" onclick="window.quartoListingCategory('Organisationsentwicklung'); return false;">
-Organisationsentwicklung
-</div>
-</div>
 <div class="card-text listing-description">
 Das ist Text zur OE.
 </div>
@@ -566,17 +467,6 @@ Mar 7, 2024
 <h5 class="no-anchor card-title listing-title">
 Talentmanagement
 </h5>
-<div class="listing-categories">
-<div class="listing-category" onclick="window.quartoListingCategory('OE'); return false;">
-OE
-</div>
-<div class="listing-category" onclick="window.quartoListingCategory('Organisation'); return false;">
-Organisation
-</div>
-<div class="listing-category" onclick="window.quartoListingCategory('Organisationsentwicklung'); return false;">
-Organisationsentwicklung
-</div>
-</div>
 <div class="card-text listing-description">
 Das ist Text zur OE.
 </div>
@@ -602,17 +492,6 @@ Mar 7, 2024
 <h5 class="no-anchor card-title listing-title">
 Talentmanagement
 </h5>
-<div class="listing-categories">
-<div class="listing-category" onclick="window.quartoListingCategory('OE'); return false;">
-OE
-</div>
-<div class="listing-category" onclick="window.quartoListingCategory('Organisation'); return false;">
-Organisation
-</div>
-<div class="listing-category" onclick="window.quartoListingCategory('Organisationsentwicklung'); return false;">
-Organisationsentwicklung
-</div>
-</div>
 <div class="card-text listing-description">
 Das ist Text zur OE.
 </div>

@@ -3,7 +3,28 @@ title: "Organisation und Durchführung von Workshops zur 'Lernraumgestaltung und
 subtitle: "Projektleiter für Design Thinking Workshops zur Prototypentwicklung in der Erwachsenenbildung"
 description: "Workshops zur Lernraumgestaltung mit Design Thinking, Erstellung von Anforderungskarten und Stimmungsbildern für Bildungsräume."
 date: "2022-09-02"
-categories: [Workshop, Lernraum, Raumgestaltung, Funktionselemente, Anforderungskarten, Phase 0]
+categories: [
+            VHS Hamburg,
+            Erwachsenenbildung Hamburg,
+            Lernraumgestaltung,
+            Lernatmosphäre,
+            partizipative Workshops,
+            Prototypenentwicklung,
+            Design Thinking Workshop,
+            Schulbau Hamburg,
+            Funktionselemente,
+            Anforderungskarten,
+            Stimmungsbilder,
+            Projektleitung,
+            Kartenabfrage,
+            Feedback-Workshops,
+            Prototypentwicklung,
+            Manual Erstellung,
+            Bildungsprojekte Hamburg,
+            Weiterbildung Hamburg,
+            Erwachsenenbildung Prototypen,
+            Kursleiter Workshops
+            ]
 image: "teilnehmende.jpeg"
 ---
 

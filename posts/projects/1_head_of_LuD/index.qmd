@@ -4,7 +4,30 @@ author: "Sebastian Sukstorf"
 subtitle: "Transforming Talent Development: Innovating Onboarding and Skill Management as Interim Head of Learning Space & Culture"
 description: "Transforming onboarding & skill management. Interim leader shaping learning culture & programs."
 date: "2022-06-30"
-categories: [Personalentwicklung, Onboarding, Skillmanagement, Hybrid Learning, Interim Manager, Mitarbeiterführung]
+categories: [
+            IT Beratungsunternehmen München,
+            IT Beratungsunternehmen Hamburg,
+            Interim Manager Personalentwicklung,
+            Head of Learning Space & Culture,
+            Leitung Personalentwicklung,
+            Academy Leitung,
+            Onboarding Prozess Neugestaltung,
+            Welcome Days neue Mitarbeiter,
+            Onboarding Führungskräfte,
+            Weiterentwicklung Qualifizierungsangebot,
+            Skillmanagement IT Beratung,
+            Hybride Lernkonzepte,
+            Blended Learning IT,
+            Talent Management Projekt Europa,
+            Führung Personalentwicklung Team,
+            Interne Weiterbildung IT Unternehmen,
+            Jobfamilien Qualifizierungsangebote,
+            Hierarchiestufen Weiterbildung,
+            Remote Work IT Beratung,
+            Personalentwicklung München,
+            Personalentwicklung Hamburg,
+            IT Talent Management Europe
+            ]
 image: "head_of_lud.png"
 ---
 

@@ -4,11 +4,32 @@ subtitle: "HR-Statistik mit R"
 description: "Talentmanagement und strategische Personalentwicklung in KMU: Ansätze und Evaluierung"
 author: "Sebastian Sukstorf"
 date: "2014-01-15"
-categories: [Talent Management, KMU, Personalentwicklung, Statistik, R, Deutscher Bildungspreis]
+categories: [
+            Talentmanagement KMU,
+            Strategische Personalentwicklung,
+            Operative Personalentwicklung,
+            Mitarbeiterentwicklungsgespräche,
+            Potenzialbeurteilung,
+            Leistungsbeurteilung,
+            Talentmanagement-Projekt,
+            Personalplanung,
+            Evaluierung Talentmanagement,
+            Einführung Talentmanagement,
+            Kompetenzmodell,
+            Stellenarchitektur vereinheitlichen,
+            Stellenprofile Fachbereiche,
+            Aus- und Weiterbildungsbedarf,
+            Strategische Personalbedarfe,
+            Nationale Personalarbeit,
+            Internationale Personalarbeit,
+            Statistikanwendung R,
+            Personalabteilung KMU,
+            HR Strategie KMU
+            ]
 image: "tm.png"
 ---
 
-![Vergleich Potenzial-Leistungs-Matrix (PLM) der Jahre 2013 zu 2014](tm.png){fig-alt="Vergleich Potenzial-Leistungs-Matrix (PLM) der Jahre 2013 zu 2014" fig-align="center" width=60%}
+![Vergleich Potenzial-Leistungs-Matrix (PLM) der Jahre 2013 zu 2014 (powerde by R)](tm.png){fig-alt="Vergleich Potenzial-Leistungs-Matrix (PLM) der Jahre 2013 zu 2014 (powered by R)" fig-align="center" width=60%}
 
 # Zusammenfassung
 

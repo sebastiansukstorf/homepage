@@ -4,11 +4,37 @@ subtitle: "Partizipative Neugestaltung und Kundenaktivierung in der Kinderbiblio
 description: "Neugestaltung der Kibi: Fokus auf Kundenbindung, Raumoptimierung und Serviceverbesserung."
 author: "Sebastian Sukstorf"
 date: "2022-09-30"
-categories: [Dritter Ort, Bibliothek, Kinderbibliothek, Eltern, Kinder, Kundenanalyse, Partizipation, öffentlicher Raum, Design Thinking, Workshops]
+categories: [
+            Zentralbibliothek Hamburg,
+            Bücherhallen Hamburg,
+            Kinderbibliothek Neugestaltung,
+            Kibi Hamburg,
+            Kundenanalyse Kinderbibliothek,
+            Nutzerbeteiligung Bibliothek,
+            Familienbibliothek Hamburg,
+            Kitas Bibliothek Hamburg,
+            Schulen Kinderbibliothek,
+            Prototypentwicklung Bibliothek,
+            Partizipative Bibliotheksgestaltung,
+            Bibliotheksprojekte Hamburg,
+            Kundenaktivierung Bibliothek,
+            Personalentwicklung Bibliothek,
+            Bibliotheksservices Hamburg,
+            Kinderprogrammarbeit Bibliothek,
+            Bibliothek Raumgestaltung,
+            Kundenreisen Bibliothek,
+            Bibliotheksworkshops Hamburg,
+            Mentoring Bibliothek Hamburg,
+            Coaching Bibliothek Hamburg,
+            Positive Kundenerlebnisse Bibliothek,
+            Teamwork Bibliothek,
+            Design Thinking Bibliothek,
+            Bibliotheksentwicklung Hamburg
+            ]
 image: "wordcloud.png"
 ---
 
-![Wordcloud der Kundenanforderungen an die Kinderbibliothek](wordcloud.png){fig-alt="Wordcloud Kundenanforderungen Kinderbibliothek" fig-align="center" width=100%}
+![Wordcloud der Kundenanforderungen an die Kinderbibliothek (powered by R)](wordcloud.png){fig-alt="Wordcloud Kundenanforderungen Kinderbibliothek (powered by R)" fig-align="center" width=100%}
 
 ## Auftraggeber & Branche
 

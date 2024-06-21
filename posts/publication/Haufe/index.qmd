@@ -4,7 +4,28 @@ subtitle: "Erfolgreiche Führung im digitalen Raum"
 description: "Durch die beschleunigte Digitalisierung und der zunehmend virtuellen Zusammenarbeit in allen Bereichen, bedarf es einer intensiven Auseinandersetzung mit virtueller Führung."
 author: "Sebastian Sukstorf"
 date: "2021-03-01"
-categories: [TE, Teamentwicklung, Führung]
+categories: [
+            Virtuelle Führung,
+            Digital Leadership,
+            Virtuelle Teams,
+            Teamphasen,
+            Virtuelle Zusammenarbeit,
+            Führungskräfte Training,
+            Team Lifecycle.
+            Führung virtueller Teams,
+            Remote Leadership,
+            Virtuelle Teamführung,
+            Teammanagement,
+            Digitalisierung und Führung,
+            Teamphasen Tuckman,
+            Online Team Building,
+            Virtuelles Teammanagement,
+            Quickchecks für Führungskräfte,
+            Virtuelle Arbeitsumgebung,
+            Virtuelles Team Coaching,
+            Remote Team Dynamics,
+            Erfolgsfaktoren virtuelle Teams
+            ]
 image: "virt.png"
 ---
 

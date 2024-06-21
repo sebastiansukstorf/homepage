@@ -4,7 +4,28 @@ subtitle: "Neuausrichtung der IT-Organisation zur Effizienzsteigerung und Vorber
 description: "Neuausrichtung der IT mit ITIL, Team-Coaching und Digitalisierungsstrategie für zukunftsorientierten Verband."
 author: "Sebastian Sukstorf"
 date: "2022-02-14"
-categories: [Leitbildentwicklung, Coaching, Re-Organisation, Prozesslandschaft, ITIL-Modell, Team-Workshops, Retrospektiven]
+categories: [
+            IT-Abteilung,
+            Verband,
+            Externer Projektleiter,
+            IT-Organisation,
+            Kundenbedürfnisse,
+            Digitalisierungsvorhaben,
+            Leitbildentwicklung,
+            IT-Team Coaching,
+            Reorganisation,
+            Teamcoach,
+            IT-Prozesslandschaft,
+            ITIL-Model,
+            Team-Workshops,
+            Retrospektiven,
+            Organisationsentwicklung,
+            IT-Management,
+            IT-Strategie,
+            Veränderungsmanagement,
+            IT-Beratung,
+            IT-Transformation
+            ]
 image: "itil.jpeg"
 
 ---

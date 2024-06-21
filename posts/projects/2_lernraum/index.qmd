@@ -25,10 +25,10 @@ categories: [
             Erwachsenenbildung Prototypen,
             Kursleiter Workshops
             ]
-image: "teilnehmende.jpeg"
+#image: "teilnehmende.jpeg"
 ---
 
-![Teilnehmende Workshop 'Lernraumgestaltung und Lernatmosphäre vom 02. September 2022](teilnehmende.jpeg){fig-alt="Teilnehmende vom Workshop am " fig-align="left" width=80%}
+![Teilnehmende Workshop 'Lernraumgestaltung und Lernatmosphäre vom 02. September 2022](teilnehmende.jpeg){fig-alt="Teilnehmende vom Workshop vom 02. September 2022" fig-align="left" width=80%}
 
 ## Auftraggeber & Branche
 

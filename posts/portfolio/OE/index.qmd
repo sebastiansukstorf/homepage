@@ -1,14 +1,25 @@
 ---
-title: "Organisationsentwicklung"
-subtitle: ""
-description: ""
+title: "Design Thinking und Partizipative Gestaltung"
+subtitle: "Design Thinking: Lernraumgestaltung durch partizipative Prozesse, mit Fokus auf Nutzerbedürfnisse und Stakeholder-Management"
+description: "Maßgeschneiderte Schulungen und Entwicklung von Lernräumen für Bibliotheken durch Design Thinking und partizipative Gestaltungsprozesse, mit Fokus auf Nutzerbedürfnisse und Stakeholder-Management."
 author: "Sebastian Sukstorf"
 date: "2020-12-13"
 categories: [
-            
+            Design Thinking Schulungen Bibliothek,
+            Maßgeschneiderte Schulungskonzepte,
+            Didaktische Designs,
+            Online Schulungen,
+            Kundenanalysen Bibliothek Nutzerbedürfnisse,
+            Aktivierungsstrategien Bibliothek Kunden,
+            Partizipative Prozesse Bibliothek Workshops,
+            Stakeholder-Management Bibliothek Projekte,
+            Prototypen Lernraumgestaltung Bibliothek,
+            Raumprogramme Bibliothek Zukunftsanforderungen
             ]
-image: "Design-Thinking.jpg"
+#image: "Design-Thinking.jpg"
 ---
+
+![Design Thinking und Partizipative Gestaltung](Design-Thinking.jpg){fig-alt="Design Thinking und Partizipative Gestaltung" fig-align="center" width=80%}
 
 ## Herausforderungen
 
@@ -19,7 +30,6 @@ Es ist Ihre Aufgabe, eine effektive Nutzerbeteiligung sicherzustellen und diese 
 Zudem sind Sie gefordert, Stakeholder-Gruppen zu moderieren und zu managen, um verschiedene Interessen zu vereinen und erfolgreiche Projekte zu ermöglichen. 
 Die Planung und Umsetzung von partizipativen Workshops zur Neugestaltung von öffentlich genutzten Räumen oder strategischer Projekte unterliegt Ihrer Verantwortung. 
 Schließlich müssen Sie Raum- und Funktionsprogramme erstellen, die den aktuellen und zukünftigen Anforderungen Ihrer Kundengruppen gerecht werden.
-
 
 ## Leistungen
 

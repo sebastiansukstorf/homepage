@@ -1,9 +1,87 @@
 ---
-title: "Talentmanagement"
-author: "Sebastian Sukstorf"
-date: "2024-03-07"
-categories: [OE, Organisation, Organisationsentwicklung]
-image: "image.jpg"
+title: "Prozessmanagement - Industrie: CRM, SCM und PLM"
+subtitle: "Inhouse Veranstaltung"
+description: "Grundlagen und fortgeschrittene Konzepte in CRM, SCM und PLM, einschließlich Definitionen, KPI, Kundenwertanalyse, Supply Chain Management, Prozesssteuerung, sowie die Phasen des Product Lifecycle Managements und deren strategische Bedeutung."
+date: "2007-07-13"
+categories: [
+            CRM Einführung,
+            CRM Definitionen,
+            CRM Ziele,
+            CRM KPI,
+            CRM Leitfäden,
+            Kundenwertkonzepte,
+            Kundenklassifizierung,
+            Kundensegmentierung,
+            Kundenwert Berechnung,
+            Datenbeschaffung CRM,
+            CRM Datenanalyse,
+            CRM IT Infrastruktur,
+            SAP CRM,
+            Microsoft CRM,
+            Excel CRM,
+            Data-Mining Konzepte,
+            Kundenwert Methoden,
+            SCM Einführung,
+            SCM strategischer Erfolgsfaktor,
+            SCM Herausforderungen,
+            SCM Marktsicht,
+            Balancing complexity SCM,
+            SCM Kosten,
+            SCM Treiberbäume,
+            Supply Chain Performance,
+            SCM finanzielle Ergebnisse,
+            SCM Risiken,
+            SCM regulatorische Herausforderungen,
+            Supply Chain Management Grundlagen,
+            SCOR-Modell,
+            SCM Prozesse Plan Source Make Deliver,
+            SCM KPIs,
+            Supply Chain Steuerung,
+            Supply Chain Prozesse,
+            SCM Konzepte,
+            SCM Umsetzungsbarrieren,
+            SCM Lösungsansätze,
+            PLM Einführung,
+            Product Lifecycle Management,
+            PLM CEO CFO,
+            PLM theoretische Grundlagen,
+            S-Kurven PLM,
+            Entwicklungsprozess Phasen,
+            PLM Kostenstrukturen
+            ]
 ---
 
-Das ist Text zur OE.
+![Prozessmanagement - Industrie: CRM, SCM und PLM](pmi.jpeg){fig-alt="Prozessmanagement - Industrie: CRM, SCM und PLM" fig-align="center" width=50%}
+
+## Inhalte
+
+* CRM
+  + Einführung CRM: Definitionen, Ziele, KPI und Leitfäden
+  + Kundenwertkonzepte: Klassifizierung von Kunden, Segmentierung von Kunden und Berechnung von Kundenwerten
+  + Datenbeschaffung und Analyse mit CRM: Auswahl der IT Infrastruktur (SAP, Microsoft, Excel, etc.), Data-Mining Konzepte und Methoden zur Ermittlung des Kundenwertes
+
+* SCM
+  + Einführung / SCM als strategischer Erfolgsfaktor:
+  + Herausforderungen für SCM aus Marktsicht: 
+    - Balancing complexity
+    - Kosten und Treiberbäume
+    - Performance und Einfluss der Supply Chain Performance auf das finanzielle Ergebnis
+    - Risiken und regulatorische Herausforderungen
+  + Grundlagen Supply Chain Management: 
+    - 1. SCOR-Modell als mögliches Erklärungs-/Strukturmodell, 
+    - 2. Prozesse Plan, Source, Make, Deliver, 
+    - 3. KPIs zur Steuerung einer Supply Chain
+  + Supply Chain Prozesse: Plan, Source, Make, Deliver: 
+    - 1. Aktuelle Herausforderungen/Konzepte, 
+    - 2. Umsetzungsbarrieren / Lösungsansätze
+
+* PLM
+  + Einführung: Product Lifecycle Management zwischen CEO und CFO
+  + Theoretische Grundlagen: S-Kurven,  Phasen des Entwicklungsprozesses, Kostenstrukturen
+
+
+
+
+
+
+

@@ -1,9 +1,52 @@
 ---
-title: "Talentmanagement"
+title: "Prozessmanagement, SAP- und IT-Grundlagen Schulung"
+subtitle: "Inhouse Veranstaltung"
+description: "Grundlagen und Modelle der Prozessanalyse im Bereich Prozessmanagement. Lernen Sie verschiedene Darstellungsformen wie Wertschöpfungsketten, BPM und eEPK kennen. Vertiefen Sie Ihr Wissen durch praktische Übungen zur Prozessmodellierung mit dem ARIS Toolset."
 author: "Sebastian Sukstorf"
-date: "2024-03-07"
-categories: [OE, Organisation, Organisationsentwicklung]
-image: "image.jpg"
+date: "2009-05-08"
+categories: [
+            Prozessmanagement,
+            Prozessanalyse Grundlagen,
+            Prozessanalyse Modelle,
+            Wertschöpfungsketten,
+            BPM (Business Process Management),
+            eEPK (erweiterte Ereignisgesteuerte Prozesskette),
+            ARIS Toolset Einführung,
+            Prozessmodellierung,
+            Prozessoptimierung,
+            Hotelrezeption Prozessanalyse,
+            Praktische Prozessanalyse,
+            Prozessmanagement Schulung,
+            Prozessanalyse Techniken,
+            Prozessdarstellung,
+            Prozessmanagement Beispiele,
+            ARIS Toolset Anwendung,
+            Prozessanalyse Übungen,
+            Effektive Prozessoptimierung,
+            Prozessmanagement Training,
+            Prozessmodellierung Methoden
+            ]
 ---
 
-Das ist Text zur OE.
+![Prozessmanagement, SAP- und IT-Grundlagen Schulung](pm.png){fig-alt="Prozessmanagement, SAP- und IT-Grundlagen Schulung" fig-align="center" width=50%}
+
+## Inhalte
+
+* Prozessmanagement: Grundlagen und Modelle der Prozessanalyse
+* Darstellungsformen der Prozessanalyse: Wertschöpfungsketten, BPM und eEPK
+* Prozessmodellierung mit dem ARIS Toolset: Einführung in das ARIS Toolset
+* Prozessmodellierung in Beispielen: Prozessanalyse und -optimierung der Hotelrezeption (Teilnehmer Übung)
+
+## Teilnehmer Feedback
+
+> “Wir erhielten stets konstruktives Feedback und wurden in die Rollen Berater-Mandant versetzt.”
+
+> “Herr Sukstorf hatte eine sehr offene Art und schaffte es die Gruppe für das Themengebiet Prozessmanagement zu begeistern. Durch zahlreiche Praxisbeispiele wurde das Thema veranschaulicht.”
+
+> “Interaktion mit den Teilnehmern, konstruktives Feedback, Erfahrungsberichte”
+
+
+
+
+
+

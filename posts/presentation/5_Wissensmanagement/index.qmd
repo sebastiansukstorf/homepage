@@ -1,9 +1,48 @@
 ---
-title: "Talentmanagement"
+title: "Wissensmanagement und demographischer Wandel"
+subtitle: "Veranstalter: ddn Hamburg"
+description: "Wissensweitergabe innerhalb eines geschlossenen Talent-Management-Systems, das unter der Leitlinie 'Kollegen helfen Kollegen' betrieben wird."
 author: "Sebastian Sukstorf"
-date: "2024-03-07"
-categories: [OE, Organisation, Organisationsentwicklung]
-image: "image.jpg"
+date: "2015-06-15"
+categories: [
+            Strategisches Talent Management,
+            Mentoring in der Personalentwicklung,
+            Geschlossenes Talent-Management-System,
+            Kollegen helfen Kollegen,
+            Peer-to-Peer-Mentoring,
+            Cross-Mentoring Programme,
+            Wissensweitergabe in Unternehmen,
+            Mitarbeiterunterstützung durch Mentoring,
+            Expertise weitergeben,
+            Personalentwicklung durch Mentoring,
+            Erfolgreiches Talent Management,
+            Professionelles Mentoring,
+            Unternehmenskultur und Wissensaustausch,
+            Mitarbeiterförderung und -entwicklung,
+            Langfristige Kompetenzentwicklung,
+            Innovation durch Wissensaustausch,
+            Entwicklung von Fachwissen in Unternehmen,
+            Mitarbeiterbindung und -entwicklung,
+            Leadership und Mentoring,
+            Effektives Talentmanagement,
+            Unterstützung und Erfahrungsaustausch
+            ]
 ---
 
-Das ist Text zur OE.
+![Wissensmanagement und demographischer Wandel](wissen.jpg){fig-alt="Wissensmanagement und demographischer Wandel" fig-align="center" width=50%}
+
+Sebastian Sukstorf hat in den vergangenen Jahren bei D+H ein umfassendes strategisches Talent Management etabliert und setzt dabei intensiv auf **Mentoring** als zentrales Element der Personalentwicklung.
+
+Im Unternehmen D+H erfolgt die Wissensweitergabe innerhalb eines geschlossenen Talent-Management-Systems, das unter der Leitlinie "Kollegen helfen Kollegen" betrieben wird. Dieses System fördert aktiv den Austausch und die Unterstützung unter den Mitarbeitern.
+
+Zusätzlich bietet D+H Peer-to-Peer-Mentoring sowie Cross-Mentoring als ergänzende Programme an. Beim Peer-to-Peer-Mentoring liegt der Fokus auf der Weitergabe langjähriger Expertise und persönlicher Erfahrungen zwischen Kollegen.
+
+## Inhalt
+
+* Sebastian Sukstorf hat bei D+H in den letzten Jahren ein strategisches Talent Management aufgebaut und setzt Mentoring im Rahmen der Personalentwicklung ein. 
+* Die Wissensweitergabe erfolgt bei D+H in einem in sich geschlossenen Talent-Management-System unter der Prämisse "Kollegen helfen Kollegen"
+* Ergänzend bietet das Unternehmen Peer-to-Peer-Mentoring sowie Cross-Mentoring an. 
+* Beim Peer-to-Peer-Mentoring geht es darum, langjährig erworbenes Know-how und persönliche Erfahrung weiterzugeben. 
+
+
+

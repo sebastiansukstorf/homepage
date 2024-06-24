@@ -1,9 +1,56 @@
 ---
-title: "Talentmanagement"
+title: "Mitarbeitergespräche: Gesprächsführung und Zielvereinbarung"
+subtitle: "Inhouse Veranstaltung"
+description: "Eckpunkte erfolgreicher Mitarbeitergespräche und grundlegende Techniken der Gesprächsführung. Aktives Zuhören, Stellung nehmen und strukturierte Gesprächsleitung. Zielvereinbarungen, inklusive Prinzipien, Zielbegriff und Zielhierarchie, Zielarten und Kriterien für effektive Zielvereinbarungen."
 author: "Sebastian Sukstorf"
-date: "2024-03-07"
-categories: [OE, Organisation, Organisationsentwicklung]
-image: "image.jpg"
+date: "2011-03-15"
+categories: [
+            Mitarbeitergespräche Eckpunkte,
+            Gesprächsführung Techniken,
+            Aktives Zuhören,
+            Stellung nehmen,
+            Gesprächsleitung strukturieren,
+            Zielvereinbarungen Prinzipien,
+            Zielbegriff und Zielhierarchie,
+            Arten von Zielvereinbarungen,
+            Kriterien für Zielvereinbarung,
+            Gesprächsführung im Unternehmen,
+            Mitarbeitergespräche effektiv führen,
+            Zielarten in Mitarbeitergesprächen,
+            Strukturierte Gesprächsführung,
+            Zielvereinbarung Techniken,
+            Mitarbeiterziele definieren,
+            Gesprächsführung Schulung,
+            Zielvereinbarung Schulung,
+            Effektive Mitarbeitergespräche,
+            Zielvereinbarung im Unternehmen,
+            Grundlagen der Gesprächsführung,
+            Erfolgreiche Zielvereinbarung,
+            Mitarbeitergespräche vorbereiten,
+            Zielvereinbarungen erreichen,
+            Unternehmensziele und Mitarbeiterziele,
+            Gesprächsführung Tipps,
+            Führungskräfte Gesprächstechniken,
+            Zielvereinbarung Mitarbeiter
+            ]
 ---
 
-Das ist Text zur OE.
+![Mitarbeitergespräche: Gesprächsführung und Zielvereinbarung](meg.jpg){fig-alt="Mitarbeitergespräche: Gesprächsführung und Zielvereinbarung" fig-align="center" width=50%}
+
+## Inhalt
+
+* Eckpunkte für Mitarbeitergespräche
+* Grundlegende Techniken der Gesprächsführung
+  + Aktives Zuhören
+  + Stellung nehmen
+  + Das Gespräch leitend strukturieren
+* Zielvereinbarungen
+  + generelle Prinzipien der Zielvereinbarung
+  + Zielbegriff und Zielhierarchie
+  + Zielarten
+  + Kriterien für Zielvereinbarung
+
+
+
+
+

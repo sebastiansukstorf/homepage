@@ -1,9 +1,39 @@
 ---
-title: "Talentmanagement"
+title: "Human Resource Management"
+subtitle: "Veranstalter: Zentrum für Weiterbildung"
+description: "Inhalt: Strategische Herausforderungen der Personalpolitik: Personalstrategien - Rolle des Personalmanagements - Internationalisierung - Fusionen - Demografische Entwicklung"
 author: "Sebastian Sukstorf"
-date: "2024-03-07"
-categories: [OE, Organisation, Organisationsentwicklung]
-image: "image.jpg"
+date: "2023-04-19"
+categories: [Human Resource Management Zertifikatsprogramm,
+            Universität Hamburg Weiterbildung HRM,
+            Strategische Personalpolitik Weiterbildung,
+            Talentmanagement und Personalentwicklung Kurs,
+            HRBP-Modell und HR-Abteilungen,
+            Job-Grading und Stellenbeschreibungen Seminar,
+            Kompetenzmodelle in der Personalentwicklung,
+            IT-Systeme im HR-Umfeld Weiterbildung,
+            Prof. F. Schramm Universität Hamburg
+            ]
 ---
 
-Das ist Text zur OE.
+Referent im universitären Zertifikatsprogramm [„Human Resource Management“](https://www.zfw.uni-hamburg.de/weiterbildung/management-fuehrung-recht-it/human-resource-management.html) ab 2015 an der Universität Hamburg Zentrum für Weiterbildung, Modul 1: Strategische Herausforderungen der Personalpolitik: Personalstrategien - Rolle des Personalmanagements - Internationalisierung - Fusionen - Demografische Entwicklung, wissenschaftliche Leitung: Prof. F. Schramm
+
+![Human Resource Management](hrm.png){fig-alt="Human Resource Management" fig-align="center" width=30%}
+
+## Inhalt
+
+Modul 2: Strategische Herausforderungen der Personalpolitik, hier insbesondere Talentmanagement und Personalentwicklung
+
+* Organisation von HR-Abteilungen und das HRBP-Modell
+* Zusammenhänge zwischen strategischer und operativer Personalentwicklung
+* Job-Grading und Stellenbeschreibungen
+* Kompetenzmodelle und Anforderungsprofile
+* IT-Systeme im HR-Umfeld (besondere Betrachtung im Bereich der Personalentwicklung)
+
+## Feedback
+
+> “Der Tag ist wie im Flug vergangen und ich habe bereits einige Themen, die von Herrn Sukstorf angesprochen wurden, nutzen können.”
+
+> “Herr Sukstorf war sehr motivierend und hat es sehr ‘lebendig’ rüber gebracht.”
+
+> “Sehr interessante Ausführungen mit tollen Beispielen aus der Praxis.”

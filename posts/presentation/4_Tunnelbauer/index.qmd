@@ -1,9 +1,0 @@
----
-title: "Talentmanagement"
-author: "Sebastian Sukstorf"
-date: "2024-03-07"
-categories: [OE, Organisation, Organisationsentwicklung]
-image: "image.jpg"
----
-
-Das ist Text zur OE.

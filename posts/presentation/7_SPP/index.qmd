@@ -1,9 +1,42 @@
 ---
-title: "Talentmanagement"
+title: "Schritt für Schritt zur strategischen Personalplanung in KMUs"
+subtitle: "Veranstalter: ddn Hamburg"
+description: "Talent Management Projektes neue Stellenarchitekturen entwickelt und detaillierte Stellenprofile unter Einbeziehung der gesamten Belegschaft in einer workshopbasierten, dreistufigen Workshopreihe erstellt, wobei Jobfamilien durch Clustern ähnlicher Profile und eine Multiple Factor Analysis (MFA) gebildet wurden, unterstützt durch das Statistikprogramm R"
 author: "Sebastian Sukstorf"
-date: "2024-03-07"
-categories: [OE, Organisation, Organisationsentwicklung]
-image: "image.jpg"
+date: "2014-01-15"
+categories: [
+            Talent Management D+H Gruppe,
+            Stellenarchitekturen Fachbereiche,
+            Stellenprofile Kompetenzen fachliche Kenntnisse,
+            Verhaltensanker Stellenprofile,
+            Workshop-basiertes Projekt Stellenprofile,
+            Hierarchiegruppen Workshopreihe Unterstützung,
+            Jobfamilien Stellenprofile Clustern,
+            Multiple Factor Analysis MFA Kompetenzen Fachkenntnisse,
+            Statistische Datenanalyse „R“,
+            Grafische Aufbereitung Statistikprogramm „R“
+            ]
 ---
 
-Das ist Text zur OE.
+![Schritt für Schritt zur strategischen Personalplanung in KMUs](spp.jpg){fig-alt="Schritt für Schritt zur strategischen Personalplanung in KMUs" fig-align="center" width=50%}
+
+Im Rahmen eines umfassenden Talent Management Projektes in der D+H Gruppe wurden neue Stellenarchitekturen in sämtlichen Fachbereichen entwickelt und die entsprechenden Stellenprofile detailliert erhoben. Jedes Stellenprofil umfasst sowohl die erforderlichen Kompetenzen als auch die fachlichen Kenntnisse, die durch konkrete Verhaltensanker präzisiert werden.
+
+Die Entwicklung der Stellenprofile erfolgte in einem workshopbasierten Ansatz, bei dem Führungskräfte und Mitarbeiter gemeinsam an der Definition der Hauptaufgaben, Kompetenzen und Fachkenntnisse mitwirkten. Diese partizipative Herangehensweise wurde durch eine dreistufige Workshopreihe unterstützt, die eine breite Einbindung aller Hierarchieebenen sicherstellte und somit von Beginn an die Unterstützung der gesamten Belegschaft gewährleistete.
+
+Die Jobfamilien innerhalb der D+H Gruppe wurden direkt aus den entwickelten Stellenprofilen abgeleitet. Ähnliche Stellenprofile wurden zu Clustern zusammengefasst, wobei eine Multiple Factor Analysis (MFA) zur Analyse der Ähnlichkeiten bei den Kompetenzen und Fachkenntnissen der Stellenprofile verwendet wurde.
+
+Für die statistische Datenanalyse und deren grafische Aufbereitung kam das Statistikprogramm „R“ zum Einsatz, das eine detaillierte und aussagekräftige Auswertung ermöglichte.
+
+## Inhalt
+
+* Talent Managements in der D+H Gruppe: In allen Fachbereichen wurden neue Stellenarchitekturen abgeleitet und die jeweiligen Stellenprofile erhoben. 
+* Die Stellenprofile enthalten sowohl Kompetenzen als auch fachliche Kenntnisse, die über konkrete Verhaltensanker beschrieben werden.
+* Gemeinsam entwickelten die Führungskräfte und Mitarbeiter in dem workshopbasierten Projekt die Stellenprofile mit den relevanten Hauptaufgaben sowie den Kompetenzen und Fachkenntnissen. 
+* Die Einbeziehung aller Hierarchiegruppen über eine dreistufige Workshopreihe gewährleistete von Beginn des Projektes die Unterstützung der Belegschaft.
+* Die Jobfamilien werden aus den Stellenprofilen abgeleitet. Über die Bildung von Clustern werden ähnliche Stellenprofile zusammengefasst. Durch eine Multiple Factor Analysis (MFA) werden Ähnlichkeiten bei den Kompetenzen und Fachkenntnissen der Stellenprofile analysiert. 
+* Bei der statistischen Datenanalyse und deren grafischer Aufbereitung kam das Statistikprogramm „R“ zum Einsatz.
+
+
+
+

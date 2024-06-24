@@ -1,9 +1,65 @@
 ---
-title: "Talentmanagement"
-author: "Sebastian Sukstorf"
-date: "2024-03-07"
-categories: [OE, Organisation, Organisationsentwicklung]
-image: "image.jpg"
+title: "Fundraising Workshops für NGOs"
+subtitle: "Veranstalter: Freiwilligenzentrum Hamburg"
+description: "Grundlagen des Fundraisings, einschließlich Begriffsbestimmungen, ethische Überlegungen, Managementprinzipien, Qualifikationsanforderungen, Fundraisingmethoden und Märkte im Fundraising, sowie die Bereitschaft der Organisation und die Gestaltung von Beziehungsnetzwerken."
+date: "2004-06-12"
+categories: [
+            Grundlagen des Fundraisings,
+            Fundraising Begriffsbestimmungen,
+            Ethische Überlegung im Fundraising,
+            Managementprinzipien Fundraising,
+            Fundraising Würfel,
+            Organisationsbereitschaft im Fundraising,
+            Leitbild reflektieren,
+            Organisationale Beziehungsnetzwerke,
+            Persönliche Beziehungsnetzwerke,
+            Qualifikationsanforderungen Fundraiser,
+            Fundraising Märkte,
+            Förderer bestimmen,
+            Telefoninterviews im Fundraising,
+            Fundraising Privatpersonen,
+            Fundraisingmethoden,
+            Fundraising Gespräch,
+            Spendenbrief erstellen,
+            Spenderbindung,
+            Fundraising bei Unternehmen,
+            Projektskizze für Fundraising,
+            Sponsorenansprache,
+            Sponsorenverträge,
+            Fundraising und Stiftungen
+            ]
 ---
 
-Das ist Text zur OE.
+![Fundraising Workshops für NGOs](fundraising.png){fig-alt="Fundraising Workshops für NGOs" fig-align="center" width=50%}
+
+## Inhalte
+
+* Grundlagen des Fundraisings
+  + Begriffsbestimmungen
+  + Ethische Überlegung im Fundraising
+  + Managementprinzipien im Fundraising: Der Fundraising Würfel
+* Bereitschaft der Organisation
+  + Leitbild reflektieren und bestimmen 
+  + Organisationale und persönliche Beziehungsnetzwerke verstehen und gestalten
+* Qualifikationsanforderungen an den Fundraiser
+* “Märkte” im Fundraising
+  + Förderer bestimmen und Telefoninterviews
+  + Privatpersonen
+* Fundraisingmethoden
+  + Fundraising Gespräch, Spendenbrief, Spenderbindung
+  + Fundraising bei Unternehmen: Projektskizze, Sponsorenansprache und Sponsorenverträge, Fundraising und Stiftungen
+
+## Teilnehmer Feedback
+
+> “Insgesamt wurde ein guter Überblick vermittelt. Besonders gut fand ich die praktischen Übungen, diese könnte es mehr geben."
+
+> “Der Ansatz zwischen Informationen und Praxisübungen.”
+
+> “Saubere Theorie, frisch und einfallsreich rübergebracht.”
+
+
+
+
+
+
+

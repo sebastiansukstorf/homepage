@@ -1,9 +1,44 @@
 ---
-title: "Talentmanagement"
+title: "Vom Talent Management zur strategischen Personalplanung"
+subtitle: "Veranstalter: kwb Hamburg"
+description: "Mit moderner Personalführung den Nachwuchs überzeugen"
 author: "Sebastian Sukstorf"
-date: "2024-03-07"
-categories: [OE, Organisation, Organisationsentwicklung]
-image: "image.jpg"
+date: "2014-07-15"
+categories: [
+            Talent Management,
+            Strategische Personalplanung,
+            Employer Branding,
+            Fachkräftesicherung,
+            Personalentwicklung,
+            Kompetenzmodell,
+            Stellenprofile,
+            Mitarbeiterentwicklungsgespräche,
+            Nachwuchsgewinnung,
+            Personalführung,
+            Personalmanagement,
+            Personalpolitik,
+            Employer Branding Strategien,
+            Talentmanagement Strategien,
+            Mitarbeiterbindung,
+            HR-Strategie,
+            Fachkräfteentwicklung,
+            Personalgewinnung,
+            Personalstrategie,
+            Unternehmensentwicklung
+            ]
 ---
 
-Das ist Text zur OE.
+![Vom Talent Management zur strategischen Personalplanung](tm.jpg){fig-alt="Vom Talent Management zur strategischen Personalplanung" fig-align="center" width=50%}
+
+Wie moderne Personalführung aussehen kann, zeigten ein großer Dienstleister und der Mittelständler D+H Mechatronic AG. Ist ein Unternehmen intern so gut aufgestellt, funktioniert auch die Nachwuchsgewinnung. Tipps für die Entwicklung eines überzeugenden Employer Brandings und deren effektiver Nutzung für die Fachkräftesicherung erhielten die Besucher/-innen im Praxisforum
+
+## Inhalt
+
+* Talentmanagement bei D+H
+* D+H Kompetenzmodell
+* Stellenprofile und Mitarbeiterentwicklungsgespräche
+* Vom Talentmanagement zur Strategischen Personalplanung (SPP)
+
+
+
+

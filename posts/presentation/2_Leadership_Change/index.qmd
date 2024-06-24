@@ -1,9 +1,41 @@
 ---
-title: "Talentmanagement"
+title: "Leadership Change-Management Training Programm"
+subtitle: "Inhouse Veranstaltung"
+description: "Leadership Change-Management Training Programm für eine Zielgruppe von 160 internationalen Führungskräften."
 author: "Sebastian Sukstorf"
-date: "2024-03-07"
-categories: [OE, Organisation, Organisationsentwicklung]
-image: "image.jpg"
+date: "2017-03-15"
+categories: [
+            Leadership Change-Management Training,
+            Change Management Schulung für Führungskräfte,
+            Change Kommunikation in Matrixorganisationen,
+            Prozessmanagement Training für Führungskräfte,
+            Internationale Führungskräfteentwicklung,
+            Leadership Training Programme,
+            Change Leadership Schulung,
+            Projektmanagement Training für Führungskräfte,
+            Matrixorganisation Change Management,
+            Leadership Development Programme,
+            Kommunikationstraining für Führungskräfte,
+            Change Management Prozessorganisation,
+            Leadership Schulung international,
+            Führungskräfte Coaching Change Management,
+            Schulung für internationale Manager
+            ]
 ---
 
-Das ist Text zur OE.
+Das **Leadership Change-Management Training Programm** richtet sich gezielt an eine Zielgruppe von 160 internationalen Führungskräften. Das Programm fokussiert auf die Entwicklung und Implementierung von Fähigkeiten im Bereich der Change Kommunikation, des Change Leadership und des Prozessmanagements speziell in einer projektorientierten Prozessorganisation, die einer Matrixorganisation folgt. 
+
+Ziel ist es, den Teilnehmern fundierte Kenntnisse und praktische Werkzeuge zu vermitteln, um effektiv und proaktiv auf Veränderungen innerhalb ihrer Organisationen reagieren und diese erfolgreich gestalten zu können. 
+
+Die Schulung ist maßgeschneidert, um die spezifischen Herausforderungen und Anforderungen von Führungskräften in global agierenden Unternehmen zu adressieren und sie in ihrer Rolle als Change Agents zu stärken.
+
+![Leadership Change-Management Training Programm](leader.jpg){fig-alt="Leadership Change-Management Training Programm" fig-align="center" width=30%}
+
+## Inhalt
+
+* Entwicklung und Umsetzung eines Leadership Change-Management Training Programms 
+* Zielgruppe: 160 internationale Führungskräfte 
+* Change Kommunikation, Change Leadership und Prozessmanagement in einer projektorientierten Prozessorganisation (Matrixorganisation)
+
+
+

@@ -1,0 +1,85 @@
+---
+title: "Design Thinking und partizipative Gestaltung"
+subtitle: "Design Thinking: Lernraumgestaltung durch partizipative Prozesse, mit Fokus auf Nutzerbedürfnisse und Stakeholder-Management"
+description: "Maßgeschneiderte Schulungen und Entwicklung von Lernräumen für Bibliotheken durch Design Thinking und partizipative Gestaltungsprozesse, mit Fokus auf Nutzerbedürfnisse und Stakeholder-Management."
+author: "Sebastian Sukstorf"
+date: "2020-12-13"
+categories: [
+            Design Thinking Schulungen Bibliothek,
+            Maßgeschneiderte Schulungskonzepte,
+            Didaktische Designs,
+            Online Schulungen,
+            Kundenanalysen Bibliothek Nutzerbedürfnisse,
+            Aktivierungsstrategien Bibliothek Kunden,
+            Partizipative Prozesse Bibliothek Workshops,
+            Stakeholder-Management Bibliothek Projekte,
+            Prototypen Lernraumgestaltung Bibliothek,
+            Raumprogramme Bibliothek Zukunftsanforderungen
+            ]
+#image: "Design-Thinking.jpg"
+---
+
+![Design Thinking und Partizipative Gestaltung](Design-Thinking.jpg){fig-alt="Design Thinking und Partizipative Gestaltung" fig-align="center" width=80%}
+
+## Design Thinking Schulungen für Bibliotheken
+
+### Herausforderungen
+
+* Sie müssen die komplexen Bedürfnisse und Erwartungen der Nutzer in Bibliotheken verstehen und darauf eingehen.
+* Sie stehen vor der Herausforderung, Innovation und Kreativität in den Bibliotheksprozessen zu fördern.
+* Sie müssen sich an neue Technologien und veränderte Lernbedürfnisse der Bibliotheksbesucher anpassen.
+
+### Aktivitäten
+
+* Konzeption und Durchführung von Design Thinking Schulungen für Bibliothekspersonal.
+* Einbeziehung der Teilnehmer in praxisnahe Übungen und Workshops zur Anwendung von Design Thinking.
+* Entwicklung von Fallstudien und praktischen Beispielen aus der Bibliothekspraxis.
+
+### Nutzen
+
+* Verbesserte Fähigkeit des Bibliothekspersonals, nutzerzentrierte Lösungen zu entwickeln.
+* Erhöhung der Innovationsfähigkeit und Flexibilität in der Bibliotheksarbeit.
+* Stärkere Bindung der Nutzer durch maßgeschneiderte Dienstleistungen und Räume.
+*Förderung einer offenen und kreativen Arbeitskultur in Bibliotheken.
+
+## Durchführung von Präsenz- und Online-Schulungen
+
+### Herausforderungen
+
+* Sie stellen sicher, dass die Schulungsqualität sowohl in Präsenz- als auch in Online-Umgebungen gleichbleibend hoch ist.
+* Sie berücksichtigen die unterschiedlichen Lernpräferenzen und technischen Voraussetzungen der Teilnehmer.
+* Sie fördern eine effektive Interaktion und ein hohes Teilnehmerengagement in virtuellen Schulungssituationen.
+
+### Aktivitäten
+
+* Entwicklung von Schulungsinhalten und Materialien für Präsenz- und Online-Schulungen.
+* Einsatz moderner Technologien und interaktiver Methoden zur Wissensvermittlung.
+* Durchführung von praktischen Übungen und Feedbackrunden in Präsenz- und Online-Formaten.
+
+### Nutzen
+
+* Flexibilität in der Schulungsorganisation und Erreichung eines größeren Teilnehmerkreises.
+* Zeit- und Kostenersparnis durch Reduzierung von Reiseaufwänden für Präsenzschulungen.
+* Erhöhte Lernmotivation und -effektivität durch maßgeschneiderte Schulungsangebote.
+* Nachhaltige Wissensvermittlung und langfristige Kompetenzentwicklung der Teilnehmer.
+
+## Entwicklung von Prototypen für die Lernraumgestaltung
+
+### Herausforderungen
+
+* Sie gestalten bedarfsgerechte Lernräume unter Berücksichtigung der aktuellen pädagogischen Anforderungen.
+* Sie erstellen schnell Prototypen und implementieren diese in der Bibliothekspraxis.
+* Sie stellen die Benutzerfreundlichkeit und Funktionalität der Lernraumprototypen sicher.
+
+### Aktivitäten
+
+* Analyse der Nutzerbedürfnisse und Erstellung von Anforderungsprofilen für Lernräume.
+* Ideenfindung, Konzeptentwicklung und Prototypenbau in Zusammenarbeit mit Bibliotheksmitarbeitern und Nutzern.
+* Test und Evaluation der Prototypen in realen Bibliotheksumgebungen.
+
+### Nutzen
+
+* Schaffung attraktiver und funktionaler Lernumgebungen für verschiedene Zielgruppen.
+* Erhöhung der Nutzerzufriedenheit und -bindung durch maßgeschneiderte Lernraumkonzepte.
+* Förderung von Innovation und kontinuierlicher Verbesserung in Bibliotheken durch iterative Prototypenentwicklung.
+* Stärkung der Position der Bibliothek als moderner Lern- und Begegnungsort in der Community.

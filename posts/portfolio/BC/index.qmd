@@ -1,5 +1,5 @@
 ---
-title: "Business Coaching"
+title: "Business Coaching und Führungskräfteentwicklung"
 subtitle: "Veränderungen bewältigen und Führung gestalten"
 description: "Führungskräfte: Strategische Projekte steuern, Teams entwickeln, die eigene Rolle klären. Tools für mehr Effizienz."
 author: "Sebastian Sukstorf"
@@ -21,29 +21,91 @@ categories: [
             Konfliktmanagement Führungskraft,
             Erfolgreiche Gesprächsführung trainieren
             ]
-image: "coaching.jpg"
+#image: "coaching.jpg"
 ---
+![Business Coaching und Führungskräfteentwicklung](coaching.jpg){fig-alt="Business Coaching und Führungskräfteentwicklung" fig-align="center" width=80%}
 
-Wenn Sie als Führungskraft strategische Projekte steuern, Ihr Team entwickeln und sich zu Ihrer eigenen Rolle regelmäßig Klarheit verschaffen wollen, fragen Sie sich vielleicht:
+## Bedarfsermittlung
 
-- Welche strategischen Potenziale unterstützen unsere Stakeholder und was sind die wichtigsten Projekte?
-- Wo stehe ich mit meinem Team und wie kann ich es gezielt entwickeln und unsere tägliche Arbeit effizienter organisieren?
-- Was sind konkrete Handlungsschwerpunkte für meine persönliche Entwicklung in strategischen und operativen Aufgaben?
+### Herausforderungen
 
-## Leistungen
+Die Identifikation und Analyse der spezifischen Bedarfe und Herausforderungen innerhalb einer Organisation erfordern ein tiefgehendes Verständnis der aktuellen Situation und der zukünftigen Zielsetzungen.
 
-- Evaluation Ihrer individuellen Leadership Situation (Leadership Design Canvas)
-- Klärung Ihrer Führungsrolle und relevanter Aufgaben
-- Definition von Hilfestellungen für Ihr Team
+### Aktivitäten
 
-## Werkzeuge
+* Umfassende Ist-Analyse der organisatorischen Strukturen, Prozesse und Herausforderungen.
+* Befragungen, Workshops und Interviews mit relevanten Stakeholdern zur Bedarfsermittlung.
+* Auswertung der gesammelten Daten und Erstellung eines detaillierten Berichts über identifizierte Bedarfe und Handlungsempfehlungen.
 
-- Leadership Design Canvas: strategische Projekte, Stakeholder, Kunden, Teams und die eigene Rolle
-- Führungsposter zur Klärung der Führungsrolle und Führungsaufgaben
-- Handlungs- und Unterstützungskarten für konkrete Wirksamkeit
+### Nutzen
 
-## Referenzen
+* Klarheit über die aktuellen und zukünftigen Anforderungen der Organisation.
+* Fundierte Entscheidungsgrundlage für die Planung und Umsetzung von Maßnahmen zur Verbesserung und Weiterentwicklung.
 
-> „Mit Sebastian Sukstorf habe ich einen empathischen Gesprächspartner und Führungscoach kennengelernt. Dank seiner individuellen Unterstützung in der Gesprächsvorbereitung auf eine konfliktäre Konstellation gelang es mir, eine erfolgreiche Gesprächsführung vorzunehmen. Herr Sukstorf konnte sich aufgrund seiner langjährigen Erfahrung schnell in die geschilderte Problematik analytisch, aber auch emotional einarbeiten. Ich kann Sebastian Sukstorf daher uneingeschränkt als Berater und Unterstützer empfehlen.“
+## Begleitung von Transformationsprozessen in Organisationen
 
-Dr. Dagmar H., stellvertretende Geschäftsführerin im Gesundheitswesen
+### Herausforderungen
+
+Die erfolgreiche Durchführung von Transformationsprozessen erfordert eine ganzheitliche Betrachtung der organisatorischen Veränderungen sowie die Unterstützung der MitarbeiterInnen während des Veränderungsprozesses.
+
+### Aktivitäten
+
+* Entwicklung einer maßgeschneiderten Transformationsstrategie unter Berücksichtigung der identifizierten Bedarfe und Ziele.
+* Planung und Implementierung von Change-Management-Maßnahmen.
+* Begleitung der Organisation während des gesamten Transformationsprozesses durch Schulungen, Workshops und regelmäßige Kommunikation.
+
+### Nutzen
+
+* Erfolgreiche Implementierung von Veränderungen unter Minimierung von Widerständen und Maximierung der Akzeptanz.
+* Steigerung der Effizienz und Wettbewerbsfähigkeit der Organisation durch gezielte Transformation.
+
+## Business Planung mit Business Modell Canvas
+
+### Herausforderungen
+
+Die Entwicklung eines tragfähigen Geschäftsmodells erfordert eine strukturierte Herangehensweise zur Analyse und Gestaltung der Unternehmensstrategie und -ziele.
+
+### Aktivitäten
+
+* Anwendung des Business Model Canvas zur systematischen Darstellung des Geschäftsmodells.
+* Analyse der Schlüsselfaktoren wie Kundensegmente, Wertangebote, Kanäle, Kundenbeziehungen, Einnahmequellen, Schlüsselressourcen, Schlüsselaktivitäten, Partner und Kostenstruktur.
+* Entwicklung und Feinabstimmung des Geschäftsmodells unter Berücksichtigung der Marktbedingungen und internen Ressourcen.
+
+### Nutzen
+
+* Klar strukturierte Darstellung des Geschäftsmodells zur leichteren Kommunikation und Anpassung.
+* Grundlage für eine fundierte Geschäftsplanung und strategische Entscheidungen.
+
+## Business Coaching für Führungskräfte in der Verwaltung
+
+### Herausforderungen
+
+Führungskräfte in der Verwaltung stehen vor der Herausforderung, ihre Führungskompetenzen kontinuierlich zu entwickeln und effektive Strategien für ihre Teams zu entwickeln.
+
+### Aktivitäten
+
+* Individuelles Coaching für Geschäftsführer und Leitungspersonen zur persönlichen und beruflichen Weiterentwicklung.
+* Analyse und Reflexion der aktuellen Führungssituation sowie der Herausforderungen und Chancen.
+* Entwicklung maßgeschneiderter Handlungsmaßnahmen und Coaching-Ansätze zur Verbesserung der Führungskompetenzen.
+
+### Nutzen
+
+* Stärkung der Führungskompetenzen und -effektivität der Teilnehmer.
+* Erhöhung der Motivation und Leistungsfähigkeit der Teams durch professionelle Führung.
+
+## Virtuelle Führung und Teammanagement
+
+### Herausforderungen
+
+Die Führung virtueller Teams erfordert besondere Fähigkeiten und Strategien, um Effizienz, Zusammenarbeit und Kommunikation über verschiedene Standorte hinweg sicherzustellen.
+
+### Aktivitäten
+
+* Schulung und Training für virtuelle Teamführung, Digital-Leadership und Remote Leadership.
+* Implementierung effektiver virtueller Teamphasen und -prozesse.
+* Entwicklung von Führungskräfte-Trainings für virtuelle Teams zur Stärkung der Führungskompetenzen.
+
+### Nutzen
+
+* Verbesserte Teamleistung und -zusammenarbeit durch optimierte virtuelle Führung.
+* Effiziente Nutzung von virtuellen Arbeitsumgebungen zur Steigerung der Produktivität und Flexibilität.

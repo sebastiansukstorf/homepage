@@ -1,0 +1,90 @@
+---
+title: "Talentmanagement und HR-Strategie"
+subtitle: "Lösungen für Aus- und Weiterbildungsbedarf, Talentmanagement, HR-Strategien und Personalentwicklung in KMU und internationalen Kontexten."
+description: "Strategische und operative Personalentwicklung, einschließlich der Bedarfsanalyse für Aus- und Weiterbildungsprogramme sowie die Einführung und Evaluierung von Talentmanagement-Systemen. Entwicklung von HR-Strategien, die nationale und internationale Anforderungen berücksichtigen, und unterstützen durch Business Coaching und Workshops zur erfolgreichen Umsetzung von Strategien."
+author: "Sebastian Sukstorf"
+date: "2021-02-01"
+categories: [Strategische Personalentwicklung,
+            Operative Personalentwicklung,
+            Bedarfsanalyse Aus- und Weiterbildungsprogramme,
+            Talentmanagement Systeme,
+            Evaluierung Talentmanagement,
+            Zukunftsszenarien Entwicklung,
+            HR-Strategien,
+            Statistiktools für Personalabteilung,
+            R Anwendung Personalabteilung,
+            Kompetenzmodelle,
+            Stellenarchitektur Konzepte,
+            Mitarbeiterentwicklungsgespräche,
+            Potenzialbeurteilung,
+            Leistungsbeurteilung,
+            Aufbau- und Ablauforganisationen optimieren,
+            Personalplanung,
+            Stellenprofile erstellen,
+            Virtuelle Führung,
+            Business Coaching,
+            Workshops Planung und Moderation,
+            Strategieumsetzung,
+            KMU Personalentwicklung,
+            HR Beratung,
+            Führungskräfteentwicklung,
+            HR Evaluierung,
+            Personalmanagement Workshops
+            ]
+#image: "workplace.jpg"
+---
+
+![Talentmanagement und HR-Strategie](workplace.jpg){fig-alt="Talentmanagement und HR-Strategie" fig-align="center" width=80%}
+
+## Herausforderungen
+- **Aus- und Weiterbildungsbedarf**: Identifikation und Planung von Qualifikationsmaßnahmen für Mitarbeiter.
+- **Einführung und Evaluierung von Talentmanagement**: Etablierung eines systematischen Talentmanagements und Bewertung der Effektivität.
+- **Entwicklung von Zukunftsszenarien mit Argumentationsketten**: Prognose von zukünftigen Entwicklungen und Ableitung strategischer Maßnahmen.
+- **HR-Strategie für KMU**: Entwicklung einer spezifischen HR-Strategie, die auf die Bedürfnisse kleiner und mittlerer Unternehmen zugeschnitten ist.
+- **Internationale HR-Strategie und Statistikanwendung**: Anpassung der HR-Strategien auf internationale Standards und Nutzung statistischer Methoden.
+- **Internationale Personalarbeit**: Management von Personalangelegenheiten auf internationaler Ebene.
+- **Interviews und Auswertungen**: Durchführung und Analyse von Mitarbeiterinterviews zur Bewertung der aktuellen HR-Maßnahmen.
+- **Kompetenzmodell und Stellenarchitektur**: Entwicklung und Implementierung von Kompetenzmodellen und einheitlichen Stellenbeschreibungen.
+- **Mitarbeiterentwicklungsgespräche**: Strukturierte Gespräche zur Förderung und Entwicklung der Mitarbeiter.
+- **Nationale und internationale HR-Strategie**: Koordination und Integration von HR-Strategien auf nationaler und internationaler Ebene.
+- **Optimierung von Aufbau- und Ablauforganisationen**: Effizienzsteigerung durch Anpassung der organisatorischen Strukturen.
+- **Personalplanung und Stellenprofile**: Planung des Personalbedarfs und Erstellung detaillierter Stellenprofile.
+- **Potenzial- und Leistungsbeurteilung**: Bewertung der Fähigkeiten und Leistungen der Mitarbeiter.
+- **Quickchecks für Führungskräfte in virtuellen Umgebungen**: Schnelle Bewertungen und Feedbacks für Führungskräfte in digitalen Arbeitsumgebungen.
+- **Statistikanwendung R in der Personalabteilung**: Nutzung der Statistiksoftware R zur Analyse von HR-Daten.
+- **Strategieentwicklung und -umsetzung**: Entwicklung und Implementierung langfristiger HR-Strategien.
+- **Strategische und operative Personalentwicklung**: Integration strategischer und operativer Maßnahmen zur Mitarbeiterentwicklung.
+- **Talentmanagement in KMU**: Spezielle Maßnahmen zur Talentförderung in kleinen und mittleren Unternehmen.
+- **Workshopsplanung und -moderation**: Planung und Durchführung von Workshops zur Schulung und Entwicklung von Mitarbeitern.
+
+## Aktivitäten
+
+- **Bedarfsanalyse**: Ermittlung des Aus- und Weiterbildungsbedarfs durch Interviews, Umfragen und Datenanalyse.
+- **Talentmanagement-Systeme**: Einführung von Systemen zur Talentidentifikation, -förderung und -bewertung.
+- **Zukunftsszenarien**: Entwicklung von Szenarien und strategischen Argumentationsketten durch Workshops und Analysen.
+- **HR-Strategie-Entwicklung**: Erstellung spezifischer HR-Strategien für KMU und internationale Kontexte.
+- **Personalarbeit international**: Umsetzung und Management von HR-Maßnahmen in internationalen Niederlassungen.
+- **Kompetenzmodell-Erstellung**: Definition und Implementierung von Kompetenzmodellen und einheitlichen Stellenbeschreibungen.
+- **Mitarbeitergespräche**: Durchführung strukturierter Entwicklungsgespräche und Evaluierungen.
+- **Organisationsoptimierung**: Analyse und Optimierung der Aufbau- und Ablauforganisationen.
+- **Personalplanung**: Erstellung von Stellenprofilen und Bedarfsplanungen basierend auf Unternehmenszielen.
+- **Leistungsbeurteilung**: Implementierung von Methoden zur Potenzial- und Leistungsbewertung.
+- **Virtuelle Quickchecks**: Durchführung schneller Feedback-Runden für Führungskräfte in digitalen Teams.
+- **Statistikanalysen**: Nutzung von R zur Analyse und Interpretation von HR-Daten.
+- **Strategieumsetzung**: Implementierung und Überwachung strategischer HR-Maßnahmen.
+- **Workshops**: Planung und Moderation von Workshops zur Mitarbeiterentwicklung und Schulung.
+
+## Nutzen
+
+- **Gezielte Mitarbeiterentwicklung**: Ermittlung und Deckung des Aus- und Weiterbildungsbedarfs.
+- **Effizientes Talentmanagement**: Systematische Förderung und Bindung von Talenten.
+- **Strategische Ausrichtung**: Entwicklung fundierter Zukunftsszenarien zur strategischen Planung.
+- **Optimierte HR-Strategien**: Maßgeschneiderte HR-Strategien für KMU und internationale Kontexte.
+- **Verbesserte internationale Personalarbeit**: Effektives Management von Personalthemen auf globaler Ebene.
+- **Einheitliche Stellenarchitektur**: Klar definierte Kompetenzmodelle und Stellenbeschreibungen.
+- **Effiziente Personalplanung**: Präzise Bedarfsplanungen und Stellenprofile zur Deckung des Personalbedarfs.
+- **Verbesserte Leistungsbeurteilung**: Objektive Bewertung der Mitarbeiterpotenziale und -leistungen.
+- **Effiziente virtuelle Führung**: Schnelle und effektive Feedback-Mechanismen für digitale Teams.
+- **Fundierte Datenanalysen**: Präzise Analyse von HR-Daten durch statistische Methoden.
+- **Erfolgreiche Strategieumsetzung**: Nachhaltige Implementierung strategischer HR-Maßnahmen.
+- **Effektive Workshops**: Zielgerichtete Schulungen und Entwicklungsmaßnahmen durch gut strukturierte Workshops.

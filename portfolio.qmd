@@ -1,6 +1,6 @@
 ---
 title: "Portfolio"
-subtitle: "Business Coaching und Führungskräfteentwicklung /  Design Thinking und partizipative Gestaltung / Talentmanagement und HR-Strategie"
+subtitle: "Design Thinking und partizipative Prozesse / Führungskräfteentwicklung und Business Coaching / Talentmanagement und HR-Strategie"
 listing:
   contents: posts/portfolio/
   sort: 

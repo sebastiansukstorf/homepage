@@ -6,10 +6,10 @@ about:
   template: jolla    
 ---
 
-Ich verbinde Kreativität und strategische Beratung. 
+Ich verbinde Kreativität und strategische Beratung.
 
-Design Thinking und partizipative Gestaltung. Lernraumgestaltung durch partizipative Prozesse, mit Fokus auf Nutzerbedürfnisse und Stakeholder-Management.
+Design Thinking und partizipative Gestaltung. Prototypentwicklung durch partizipative Prozesse. Fokus auf Nutzerbedürfnisse und Stakeholder-Management.
 
-Talentmanagement und HR-Strategie. Lösungen für Aus- und Weiterbildungsbedarf, HR-Strategien und Personalentwicklung in KMU und internationalen Kontexten.
+Talentmanagement und HR-Strategie. Lösungen für Aus- und Weiterbildung. HR-Strategien und Personalentwicklung im nationalen und internationalen Kontext.
 
-Business Coaching und Führungskräfteentwicklung. Veränderungen bewältigen und Führung gestalten.
+Führungskräfteentwicklung und Business Coaching. Change Management gestalten und Führung ermöglichen.

@@ -47,8 +47,8 @@
   {
     "listing": "/portfolio.html",
     "items": [
-      "/posts/portfolio/BC/index.html",
       "/posts/portfolio/DT/index.html",
+      "/posts/portfolio/BC/index.html",
       "/posts/portfolio/TM/index.html"
     ]
   }

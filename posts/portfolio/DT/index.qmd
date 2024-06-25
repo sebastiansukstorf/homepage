@@ -1,5 +1,5 @@
 ---
-title: "Design Thinking und partizipative Gestaltung"
+title: "Design Thinking und partizipative Prozesse"
 subtitle: "Design Thinking: Lernraumgestaltung durch partizipative Prozesse, mit Fokus auf Nutzerbedürfnisse und Stakeholder-Management"
 description: "Maßgeschneiderte Schulungen und Entwicklung von Lernräumen für Bibliotheken durch Design Thinking und partizipative Gestaltungsprozesse, mit Fokus auf Nutzerbedürfnisse und Stakeholder-Management."
 author: "Sebastian Sukstorf"

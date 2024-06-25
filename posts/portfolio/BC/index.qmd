@@ -1,5 +1,5 @@
 ---
-title: "Business Coaching und Führungskräfteentwicklung"
+title: "Führungskräfteentwicklung und Business Coaching"
 subtitle: "Veränderungen bewältigen und Führung gestalten"
 description: "Führungskräfte: Strategische Projekte steuern, Teams entwickeln, die eigene Rolle klären. Tools für mehr Effizienz."
 author: "Sebastian Sukstorf"

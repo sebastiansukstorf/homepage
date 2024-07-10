@@ -1,17 +1,9 @@
 [
   {
-    "listing": "/publication.html",
+    "listing": "/blog.html",
     "items": [
-      "/posts/publication/Haufe/index.html",
-      "/posts/publication/tm/index.html"
-    ]
-  },
-  {
-    "listing": "/portfolio.html",
-    "items": [
-      "/posts/portfolio/DT/index.html",
-      "/posts/portfolio/BC/index.html",
-      "/posts/portfolio/TM/index.html"
+      "/posts/blog/post-with-code/index.html",
+      "/posts/blog/welcome/index.html"
     ]
   },
   {
@@ -31,13 +23,6 @@
     ]
   },
   {
-    "listing": "/blog.html",
-    "items": [
-      "/posts/blog/post-with-code/index.html",
-      "/posts/blog/welcome/index.html"
-    ]
-  },
-  {
     "listing": "/presentation.html",
     "items": [
       "/posts/presentation/1_HRM/index.html",
@@ -50,6 +35,21 @@
       "/posts/presentation/9_PM/index.html",
       "/posts/presentation/10_PM_Industrie/index.html",
       "/posts/presentation/11_Fundraising/index.html"
+    ]
+  },
+  {
+    "listing": "/publication.html",
+    "items": [
+      "/posts/publication/Haufe/index.html",
+      "/posts/publication/tm/index.html"
+    ]
+  },
+  {
+    "listing": "/portfolio.html",
+    "items": [
+      "/posts/portfolio/DT/index.html",
+      "/posts/portfolio/BC/index.html",
+      "/posts/portfolio/TM/index.html"
     ]
   }
 ]

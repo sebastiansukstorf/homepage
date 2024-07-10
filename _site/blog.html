@@ -176,10 +176,6 @@ window.Quarto = {
 <span class="menu-text">Publikationen</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link active" href="./blog.html" aria-current="page"> 
-<span class="menu-text">Blog</span></a>
-  </li>  
-  <li class="nav-item">
     <a class="nav-link" href="./about.html"> 
 <span class="menu-text">Über mich</span></a>
   </li>  
@@ -232,7 +228,7 @@ window.Quarto = {
 
 <div class="quarto-listing quarto-listing-container-default" id="listing-listing">
 <div class="list quarto-listing-default">
-<div class="quarto-post image-right" data-index="0" data-categories="news,code,analysis" data-listing-date-sort="1709766000000" data-listing-file-modified-sort="1709835973875" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="7">
+<div class="quarto-post image-right" data-index="0" data-categories="news,code,analysis" data-listing-date-sort="1709766000000" data-listing-file-modified-sort="1720597746241" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="7">
 <div class="thumbnail">
 <p><a href="./posts/blog/post-with-code/index.html" class="no-external"></a></p><a href="./posts/blog/post-with-code/index.html" class="no-external">
 <p><img src="./posts/blog/post-with-code/image.jpg" class="thumbnail-image"></p>
@@ -271,7 +267,7 @@ Harlow Malloc
 </a>
 </div>
 </div>
-<div class="quarto-post image-right" data-index="1" data-categories="news" data-listing-date-sort="1709506800000" data-listing-file-modified-sort="1709835973873" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="32">
+<div class="quarto-post image-right" data-index="1" data-categories="news" data-listing-date-sort="1709506800000" data-listing-file-modified-sort="1720597746746" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="32">
 <div class="thumbnail">
 <p><a href="./posts/blog/welcome/index.html" class="no-external"></a></p><a href="./posts/blog/welcome/index.html" class="no-external">
 <p class="card-img-top"><img src="posts/blog/welcome/thumbnail.jpg"  class="thumbnail-image card-img"/></p>
@@ -390,7 +386,7 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
   });
     var localhostRegex = new RegExp(/^(?:http|https):\/\/localhost\:?[0-9]*\//);
     var mailtoRegex = new RegExp(/^mailto:/);
-      var filterRegex = new RegExp('/' + window.location.host + '/');
+      var filterRegex = new RegExp("https:\/\/sebastiansukstorf\.github\.io\/homepage\/");
     var isInternal = (href) => {
         return filterRegex.test(href) || localhostRegex.test(href) || mailtoRegex.test(href);
     }

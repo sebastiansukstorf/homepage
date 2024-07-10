@@ -74,12 +74,16 @@ ul.task-list li input[type="checkbox"] {
 <link rel="stylesheet" href="../../../styles.css">
 <meta property="og:title" content="Sebastian Sukstorf - Relaunch und Weiterentwicklung eines Design Thinking Trainingskonzepts">
 <meta property="og:description" content="Design Thinking Schulung für führenden deutschen Bildungsanbieter überarbeitet und modernisiert. Konzeptentwicklung, Trainerunterlagen, Präsenz- und Online-Training">
-<meta property="og:image" content="Design_Thinking_Training_Relaunch.png">
+<meta property="og:image" content="https://sebastiansukstorf.github.io/homepage/posts/projects/11_relaunch_design_thinking/Design_Thinking_Training_Relaunch.png">
 <meta property="og:site_name" content="Sebastian Sukstorf">
+<meta property="og:image:height" content="1080">
+<meta property="og:image:width" content="1080">
 <meta name="twitter:title" content="Sebastian Sukstorf - Relaunch und Weiterentwicklung eines Design Thinking Trainingskonzepts">
 <meta name="twitter:description" content="Design Thinking Schulung für führenden deutschen Bildungsanbieter überarbeitet und modernisiert. Konzeptentwicklung, Trainerunterlagen, Präsenz- und Online-Training">
-<meta name="twitter:image" content="Design_Thinking_Training_Relaunch.png">
+<meta name="twitter:image" content="https://sebastiansukstorf.github.io/homepage/posts/projects/11_relaunch_design_thinking/Design_Thinking_Training_Relaunch.png">
 <meta name="twitter:creator" content="@sukstorf">
+<meta name="twitter:image-height" content="1080">
+<meta name="twitter:image-width" content="1080">
 <meta name="twitter:card" content="summary_large_image">
 </head>
 
@@ -315,7 +319,7 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
   });
     var localhostRegex = new RegExp(/^(?:http|https):\/\/localhost\:?[0-9]*\//);
     var mailtoRegex = new RegExp(/^mailto:/);
-      var filterRegex = new RegExp('/' + window.location.host + '/');
+      var filterRegex = new RegExp("https:\/\/sebastiansukstorf\.github\.io\/homepage\/");
     var isInternal = (href) => {
         return filterRegex.test(href) || localhostRegex.test(href) || mailtoRegex.test(href);
     }

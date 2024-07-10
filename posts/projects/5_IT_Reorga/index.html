@@ -74,11 +74,11 @@ ul.task-list li input[type="checkbox"] {
 <link rel="stylesheet" href="../../../styles.css">
 <meta property="og:title" content="Sebastian Sukstorf - Unterstützung bei der Reorganisation einer IT-Abteilung eines Verbandes">
 <meta property="og:description" content="Neuausrichtung der IT mit ITIL, Team-Coaching und Digitalisierungsstrategie für zukunftsorientierten Verband.">
-<meta property="og:image" content="itil.jpeg">
+<meta property="og:image" content="https://sebastiansukstorf.github.io/homepage/posts/projects/5_IT_Reorga/itil.jpeg">
 <meta property="og:site_name" content="Sebastian Sukstorf">
 <meta name="twitter:title" content="Sebastian Sukstorf - Unterstützung bei der Reorganisation einer IT-Abteilung eines Verbandes">
 <meta name="twitter:description" content="Neuausrichtung der IT mit ITIL, Team-Coaching und Digitalisierungsstrategie für zukunftsorientierten Verband.">
-<meta name="twitter:image" content="itil.jpeg">
+<meta name="twitter:image" content="https://sebastiansukstorf.github.io/homepage/posts/projects/5_IT_Reorga/itil.jpeg">
 <meta name="twitter:creator" content="@sukstorf">
 <meta name="twitter:card" content="summary_large_image">
 </head>
@@ -327,7 +327,7 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
   });
     var localhostRegex = new RegExp(/^(?:http|https):\/\/localhost\:?[0-9]*\//);
     var mailtoRegex = new RegExp(/^mailto:/);
-      var filterRegex = new RegExp('/' + window.location.host + '/');
+      var filterRegex = new RegExp("https:\/\/sebastiansukstorf\.github\.io\/homepage\/");
     var isInternal = (href) => {
         return filterRegex.test(href) || localhostRegex.test(href) || mailtoRegex.test(href);
     }

@@ -7,11 +7,18 @@
     ]
   },
   {
-    "listing": "/portfolio.html",
+    "listing": "/presentation.html",
     "items": [
-      "/posts/portfolio/DT/index.html",
-      "/posts/portfolio/BC/index.html",
-      "/posts/portfolio/TM/index.html"
+      "/posts/presentation/1_HRM/index.html",
+      "/posts/presentation/2_Leadership_Change/index.html",
+      "/posts/presentation/3_Supertalent/index.html",
+      "/posts/presentation/5_Wissensmanagement/index.html",
+      "/posts/presentation/6_TM/index.html",
+      "/posts/presentation/7_SPP/index.html",
+      "/posts/presentation/8_MEG/index.html",
+      "/posts/presentation/9_PM/index.html",
+      "/posts/presentation/10_PM_Industrie/index.html",
+      "/posts/presentation/11_Fundraising/index.html"
     ]
   },
   {
@@ -38,18 +45,11 @@
     ]
   },
   {
-    "listing": "/presentation.html",
+    "listing": "/portfolio.html",
     "items": [
-      "/posts/presentation/1_HRM/index.html",
-      "/posts/presentation/2_Leadership_Change/index.html",
-      "/posts/presentation/3_Supertalent/index.html",
-      "/posts/presentation/5_Wissensmanagement/index.html",
-      "/posts/presentation/6_TM/index.html",
-      "/posts/presentation/7_SPP/index.html",
-      "/posts/presentation/8_MEG/index.html",
-      "/posts/presentation/9_PM/index.html",
-      "/posts/presentation/10_PM_Industrie/index.html",
-      "/posts/presentation/11_Fundraising/index.html"
+      "/posts/portfolio/DT/index.html",
+      "/posts/portfolio/BC/index.html",
+      "/posts/portfolio/TM/index.html"
     ]
   }
 ]

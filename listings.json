@@ -1,10 +1,25 @@
 [
   {
-    "listing": "/portfolio.html",
+    "listing": "/blog.html",
     "items": [
-      "/posts/portfolio/DT/index.html",
-      "/posts/portfolio/BC/index.html",
-      "/posts/portfolio/TM/index.html"
+      "/posts/blog/post-with-code/index.html",
+      "/posts/blog/welcome/index.html"
+    ]
+  },
+  {
+    "listing": "/projects.html",
+    "items": [
+      "/posts/projects/3_bibliothek/index.html",
+      "/posts/projects/2_lernraum/index.html",
+      "/posts/projects/1_head_of_LuD/index.html",
+      "/posts/projects/8_teamcoaching/index.html",
+      "/posts/projects/9_reorga_coaching/index.html",
+      "/posts/projects/4_kinderprogrammarbeit/index.html",
+      "/posts/projects/5_IT_Reorga/index.html",
+      "/posts/projects/7_trainerfortbildung/index.html",
+      "/posts/projects/6_fuehrung_orga/index.html",
+      "/posts/projects/10_hochschule/index.html",
+      "/posts/projects/11_relaunch_design_thinking/index.html"
     ]
   },
   {
@@ -30,26 +45,11 @@
     ]
   },
   {
-    "listing": "/blog.html",
+    "listing": "/portfolio.html",
     "items": [
-      "/posts/blog/post-with-code/index.html",
-      "/posts/blog/welcome/index.html"
-    ]
-  },
-  {
-    "listing": "/projects.html",
-    "items": [
-      "/posts/projects/3_bibliothek/index.html",
-      "/posts/projects/2_lernraum/index.html",
-      "/posts/projects/1_head_of_LuD/index.html",
-      "/posts/projects/8_teamcoaching/index.html",
-      "/posts/projects/9_reorga_coaching/index.html",
-      "/posts/projects/4_kinderprogrammarbeit/index.html",
-      "/posts/projects/5_IT_Reorga/index.html",
-      "/posts/projects/7_trainerfortbildung/index.html",
-      "/posts/projects/6_fuehrung_orga/index.html",
-      "/posts/projects/10_hochschule/index.html",
-      "/posts/projects/11_relaunch_design_thinking/index.html"
+      "/posts/portfolio/DT/index.html",
+      "/posts/portfolio/BC/index.html",
+      "/posts/portfolio/TM/index.html"
     ]
   }
 ]

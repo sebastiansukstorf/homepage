@@ -17,8 +17,8 @@ website:
         text: Vorträge
       - href: publication.qmd
         text: Publikationen
-     # - href: blog.qmd
-     #   text: Blog
+    # - href: blog.qmd
+    #   text: Blog
     #  - href: about.qmd
     #    text: Über mich
     #  - text: "{{< iconify fa6-brands square-x-twitter >}}"

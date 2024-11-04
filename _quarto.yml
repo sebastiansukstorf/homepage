@@ -1,9 +1,7 @@
 project:
   type: website
   output-dir: docs
-  lang:
-    code: de
-    output-encoding: UTF-8
+  output-encoding: UTF-8
 
 website:
   title: "Sebastian Sukstorf"

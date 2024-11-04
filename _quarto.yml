@@ -1,6 +1,9 @@
 project:
   type: website
   output-dir: docs
+  language:
+    code: de
+    output-encoding: UTF-8
 
 
 website:

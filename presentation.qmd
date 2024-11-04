@@ -1,6 +1,6 @@
 ---
-title: "Vortraege"
-subtitle: "Vortraege und Praesentationen"
+title: "Vorträge"
+subtitle: "Vorträge und Präsentationen"
 listing:
   contents: posts/presentation/
   sort: "date desc"

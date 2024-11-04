@@ -13,7 +13,7 @@ website:
       - href: projects.qmd
         text: Projekte
       - href: presentation.qmd
-        text: Vorträge
+        text: Vortraege
       - href: publication.qmd
         text: Publikationen
     # - href: blog.qmd

@@ -5,7 +5,6 @@ project:
     code: de
     output-encoding: UTF-8
 
-
 website:
   title: "Sebastian Sukstorf"
   navbar:

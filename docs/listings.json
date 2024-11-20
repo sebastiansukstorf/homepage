@@ -1,10 +1,9 @@
 [
   {
-    "listing": "/portfolio.html",
+    "listing": "/blog.html",
     "items": [
-      "/posts/portfolio/DT/index.html",
-      "/posts/portfolio/BC/index.html",
-      "/posts/portfolio/TM/index.html"
+      "/posts/blog/post-with-code/index.html",
+      "/posts/blog/welcome/index.html"
     ]
   },
   {
@@ -21,6 +20,36 @@
       "/posts/projects/6_fuehrung_orga/index.html",
       "/posts/projects/10_hochschule/index.html",
       "/posts/projects/11_relaunch_design_thinking/index.html"
+    ]
+  },
+  {
+    "listing": "/presentation.html",
+    "items": [
+      "/posts/presentation/1_HRM/index.html",
+      "/posts/presentation/2_Leadership_Change/index.html",
+      "/posts/presentation/3_Supertalent/index.html",
+      "/posts/presentation/5_Wissensmanagement/index.html",
+      "/posts/presentation/6_TM/index.html",
+      "/posts/presentation/7_SPP/index.html",
+      "/posts/presentation/8_MEG/index.html",
+      "/posts/presentation/9_PM/index.html",
+      "/posts/presentation/10_PM_Industrie/index.html",
+      "/posts/presentation/11_Fundraising/index.html"
+    ]
+  },
+  {
+    "listing": "/publication.html",
+    "items": [
+      "/posts/publication/Haufe/index.html",
+      "/posts/publication/tm/index.html"
+    ]
+  },
+  {
+    "listing": "/portfolio.html",
+    "items": [
+      "/posts/portfolio/DT/index.html",
+      "/posts/portfolio/BC/index.html",
+      "/posts/portfolio/TM/index.html"
     ]
   }
 ]

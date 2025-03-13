@@ -1,1 +1,1 @@
-Sitemap: https://sebastian.sukstorf.de/sitemap.xml
+Sitemap: https://sebastiansukstorf.github.io/homepage/sitemap.xml

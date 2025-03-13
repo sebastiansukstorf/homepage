@@ -1,0 +1,907 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
+
+<meta charset="utf-8">
+<meta name="generator" content="quarto-1.6.42">
+
+<meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
+
+
+<title>Vorträge – Sebastian Sukstorf</title>
+<style>
+code{white-space: pre-wrap;}
+span.smallcaps{font-variant: small-caps;}
+div.columns{display: flex; gap: min(4vw, 1.5em);}
+div.column{flex: auto; overflow-x: auto;}
+div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
+ul.task-list{list-style: none;}
+ul.task-list li input[type="checkbox"] {
+  width: 0.8em;
+  margin: 0 0.8em 0.2em -1em; /* quarto-specific, see https://github.com/quarto-dev/quarto-cli/issues/4556 */ 
+  vertical-align: middle;
+}
+</style>
+
+
+<script src="site_libs/quarto-nav/quarto-nav.js"></script>
+<script src="site_libs/quarto-nav/headroom.min.js"></script>
+<script src="site_libs/clipboard/clipboard.min.js"></script>
+<script src="site_libs/quarto-search/autocomplete.umd.js"></script>
+<script src="site_libs/quarto-search/fuse.min.js"></script>
+<script src="site_libs/quarto-search/quarto-search.js"></script>
+<meta name="quarto:offset" content="./">
+<script src="site_libs/quarto-listing/list.min.js"></script>
+<script src="site_libs/quarto-listing/quarto-listing.js"></script>
+<script src="site_libs/quarto-html/quarto.js"></script>
+<script src="site_libs/quarto-html/popper.min.js"></script>
+<script src="site_libs/quarto-html/tippy.umd.min.js"></script>
+<script src="site_libs/quarto-html/anchor.min.js"></script>
+<link href="site_libs/quarto-html/tippy.css" rel="stylesheet">
+<link href="site_libs/quarto-html/quarto-syntax-highlighting-2f5df379a58b258e96c21c0638c20c03.css" rel="stylesheet" id="quarto-text-highlighting-styles">
+<script src="site_libs/bootstrap/bootstrap.min.js"></script>
+<link href="site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
+<link href="site_libs/bootstrap/bootstrap-ddd961a2510921635943dfbbd19534c4.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
+<script src="site_libs/quarto-contrib/iconify-1.0.7/iconify-icon.min.js"></script>
+<script id="quarto-search-options" type="application/json">{
+  "location": "navbar",
+  "copy-button": false,
+  "collapse-after": 3,
+  "panel-placement": "end",
+  "type": "overlay",
+  "limit": 50,
+  "keyboard-shortcut": [
+    "f",
+    "/",
+    "s"
+  ],
+  "show-item-context": false,
+  "language": {
+    "search-no-results-text": "No results",
+    "search-matching-documents-text": "matching documents",
+    "search-copy-link-title": "Copy link to search",
+    "search-hide-matches-text": "Hide additional matches",
+    "search-more-match-text": "more match in this document",
+    "search-more-matches-text": "more matches in this document",
+    "search-clear-button-title": "Clear",
+    "search-text-placeholder": "",
+    "search-detached-cancel-button-title": "Cancel",
+    "search-submit-button-title": "Submit",
+    "search-label": "Search"
+  }
+}</script>
+<script>
+
+  window.document.addEventListener("DOMContentLoaded", function (_event) {
+    const listingTargetEl = window.document.querySelector('#listing-listing .list');
+    if (!listingTargetEl) {
+      // No listing discovered, do not attach.
+      return; 
+    }
+
+    const options = {
+      valueNames: ['listing-title','listing-author','listing-date','listing-image','listing-description',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-file-modified-sort'] }],
+      
+      searchColumns: ["listing-title","listing-author","listing-date","listing-image","listing-description"],
+    };
+
+    window['quarto-listings'] = window['quarto-listings'] || {};
+    window['quarto-listings']['listing-listing'] = new List('listing-listing', options);
+
+    if (window['quarto-listing-loaded']) {
+      window['quarto-listing-loaded']();
+    }
+  });
+
+  window.addEventListener('hashchange',() => {
+    if (window['quarto-listing-loaded']) {
+      window['quarto-listing-loaded']();
+    }
+  })
+  </script>
+<script async="" src="https://www.googletagmanager.com/gtag/js?id=G-E5JTBN5NH8"></script>
+
+<script type="text/javascript">
+
+window.dataLayer = window.dataLayer || [];
+function gtag(){dataLayer.push(arguments);}
+gtag('js', new Date());
+gtag('config', 'G-E5JTBN5NH8', { 'anonymize_ip': true});
+</script>
+
+  <script src="https://cdnjs.cloudflare.com/polyfill/v3/polyfill.min.js?features=es6"></script>
+  <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml-full.js" type="text/javascript"></script>
+
+<script type="text/javascript">
+const typesetMath = (el) => {
+  if (window.MathJax) {
+    // MathJax Typeset
+    window.MathJax.typeset([el]);
+  } else if (window.katex) {
+    // KaTeX Render
+    var mathElements = el.getElementsByClassName("math");
+    var macros = [];
+    for (var i = 0; i < mathElements.length; i++) {
+      var texText = mathElements[i].firstChild;
+      if (mathElements[i].tagName == "SPAN") {
+        window.katex.render(texText.data, mathElements[i], {
+          displayMode: mathElements[i].classList.contains('display'),
+          throwOnError: false,
+          macros: macros,
+          fleqn: false
+        });
+      }
+    }
+  }
+}
+window.Quarto = {
+  typesetMath
+};
+</script>
+
+<link rel="stylesheet" href="styles.css">
+<meta property="og:title" content="Vorträge – Sebastian Sukstorf">
+<meta property="og:description" content="Vorträge und Präsentationen">
+<meta property="og:site_name" content="Sebastian Sukstorf">
+</head>
+
+<body class="nav-fixed">
+
+<div id="quarto-search-results"></div>
+  <header id="quarto-header" class="headroom fixed-top quarto-banner">
+    <nav class="navbar navbar-expand-lg " data-bs-theme="dark">
+      <div class="navbar-container container-fluid">
+      <div class="navbar-brand-container mx-auto">
+    <a class="navbar-brand" href="./index.html">
+    <span class="navbar-title">Sebastian Sukstorf</span>
+    </a>
+  </div>
+            <div id="quarto-search" class="" title="Search"></div>
+          <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarCollapse" aria-controls="navbarCollapse" role="menu" aria-expanded="false" aria-label="Toggle navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
+  <span class="navbar-toggler-icon"></span>
+</button>
+          <div class="collapse navbar-collapse" id="navbarCollapse">
+            <ul class="navbar-nav navbar-nav-scroll ms-auto">
+  <li class="nav-item">
+    <a class="nav-link" href="./index.html"> 
+<span class="menu-text">Home</span></a>
+  </li>  
+  <li class="nav-item">
+    <a class="nav-link" href="./portfolio.html"> 
+<span class="menu-text">Portfolio</span></a>
+  </li>  
+  <li class="nav-item">
+    <a class="nav-link" href="./projects.html"> 
+<span class="menu-text">Projekte</span></a>
+  </li>  
+  <li class="nav-item">
+    <a class="nav-link active" href="./presentation.html" aria-current="page"> 
+<span class="menu-text">Vorträge</span></a>
+  </li>  
+  <li class="nav-item">
+    <a class="nav-link" href="./publication.html"> 
+<span class="menu-text">Publikationen</span></a>
+  </li>  
+  <li class="nav-item">
+    <a class="nav-link" href="https://twitter.com/sukstorf"> 
+<span class="menu-text"><iconify-icon inline="" icon="fa6-brands:square-x-twitter"></iconify-icon></span></a>
+  </li>  
+  <li class="nav-item compact">
+    <a class="nav-link" href="https://www.linkedin.com/in/sebastian-sukstorf/"> <i class="bi bi-linkedin" role="img">
+</i> 
+<span class="menu-text"></span></a>
+  </li>  
+</ul>
+          </div> <!-- /navcollapse -->
+            <div class="quarto-navbar-tools">
+</div>
+      </div> <!-- /container-fluid -->
+    </nav>
+</header>
+<!-- content -->
+<header id="title-block-header" class="quarto-title-block default page-columns page-full">
+  <div class="quarto-title-banner page-columns page-full">
+    <div class="quarto-title column-page">
+      <h1 class="title">Vorträge</h1>
+            <p class="subtitle lead">Vorträge und Präsentationen</p>
+                      </div>
+  </div>
+    
+  
+  <div class="quarto-title-meta column-page">
+
+      
+    
+      
+    </div>
+    
+  
+  </header><div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-full page-navbar">
+<!-- sidebar -->
+<!-- margin-sidebar -->
+    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar zindex-bottom">
+        
+    </div>
+<!-- main -->
+<main class="content quarto-banner-title-block column-page" id="quarto-document-content">
+
+
+
+
+
+
+
+
+
+<div class="quarto-listing quarto-listing-container-grid" id="listing-listing">
+<div class="list grid quarto-listing-cols-3">
+<div class="g-col-1" data-index="0" data-categories="SHVtYW4lMjBSZXNvdXJjZSUyME1hbmFnZW1lbnQlMjBaZXJ0aWZpa2F0c3Byb2dyYW1tJTJDVW5pdmVyc2l0JUMzJUE0dCUyMEhhbWJ1cmclMjBXZWl0ZXJiaWxkdW5nJTIwSFJNJTJDU3RyYXRlZ2lzY2hlJTIwUGVyc29uYWxwb2xpdGlrJTIwV2VpdGVyYmlsZHVuZyUyQ1RhbGVudG1hbmFnZW1lbnQlMjB1bmQlMjBQZXJzb25hbGVudHdpY2tsdW5nJTIwS3VycyUyQ0hSQlAtTW9kZWxsJTIwdW5kJTIwSFItQWJ0ZWlsdW5nZW4lMkNKb2ItR3JhZGluZyUyMHVuZCUyMFN0ZWxsZW5iZXNjaHJlaWJ1bmdlbiUyMFNlbWluYXIlMkNLb21wZXRlbnptb2RlbGxlJTIwaW4lMjBkZXIlMjBQZXJzb25hbGVudHdpY2tsdW5nJTJDSVQtU3lzdGVtZSUyMGltJTIwSFItVW1mZWxkJTIwV2VpdGVyYmlsZHVuZyUyQ1Byb2YuJTIwRi4lMjBTY2hyYW1tJTIwVW5pdmVyc2l0JUMzJUE0dCUyMEhhbWJ1cmc=" data-listing-date-sort="1681855200000" data-listing-file-modified-sort="1741860340290" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="125">
+<a href="./posts/presentation/1_HRM/index.html" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left">
+<p class="card-img-top"><img src="posts\presentation\1_HRM\hrm.png" alt="Human Resource Management" style="height: 150px;"  class="thumbnail-image card-img"/></p>
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
+Human Resource Management
+</h5>
+<div class="card-text listing-description">
+Inhalt: Strategische Herausforderungen der Personalpolitik: Personalstrategien - Rolle des Personalmanagements - Internationalisierung - Fusionen - Demografische Entwicklung
+</div>
+<div class="card-attribution card-text-small justify">
+<div class="listing-author">
+Sebastian Sukstorf
+</div>
+<div class="listing-date">
+Apr 19, 2023
+</div>
+</div>
+</div>
+</div>
+</a>
+</div>
+<div class="g-col-1" data-index="1" data-categories="TGVhZGVyc2hpcCUyMENoYW5nZS1NYW5hZ2VtZW50JTIwVHJhaW5pbmclMkNDaGFuZ2UlMjBNYW5hZ2VtZW50JTIwU2NodWx1bmclMjBmJUMzJUJDciUyMEYlQzMlQkNocnVuZ3NrciVDMyVBNGZ0ZSUyQ0NoYW5nZSUyMEtvbW11bmlrYXRpb24lMjBpbiUyME1hdHJpeG9yZ2FuaXNhdGlvbmVuJTJDUHJvemVzc21hbmFnZW1lbnQlMjBUcmFpbmluZyUyMGYlQzMlQkNyJTIwRiVDMyVCQ2hydW5nc2tyJUMzJUE0ZnRlJTJDSW50ZXJuYXRpb25hbGUlMjBGJUMzJUJDaHJ1bmdza3IlQzMlQTRmdGVlbnR3aWNrbHVuZyUyQ0xlYWRlcnNoaXAlMjBUcmFpbmluZyUyMFByb2dyYW1tZSUyQ0NoYW5nZSUyMExlYWRlcnNoaXAlMjBTY2h1bHVuZyUyQ1Byb2pla3RtYW5hZ2VtZW50JTIwVHJhaW5pbmclMjBmJUMzJUJDciUyMEYlQzMlQkNocnVuZ3NrciVDMyVBNGZ0ZSUyQ01hdHJpeG9yZ2FuaXNhdGlvbiUyMENoYW5nZSUyME1hbmFnZW1lbnQlMkNMZWFkZXJzaGlwJTIwRGV2ZWxvcG1lbnQlMjBQcm9ncmFtbWUlMkNLb21tdW5pa2F0aW9uc3RyYWluaW5nJTIwZiVDMyVCQ3IlMjBGJUMzJUJDaHJ1bmdza3IlQzMlQTRmdGUlMkNDaGFuZ2UlMjBNYW5hZ2VtZW50JTIwUHJvemVzc29yZ2FuaXNhdGlvbiUyQ0xlYWRlcnNoaXAlMjBTY2h1bHVuZyUyMGludGVybmF0aW9uYWwlMkNGJUMzJUJDaHJ1bmdza3IlQzMlQTRmdGUlMjBDb2FjaGluZyUyMENoYW5nZSUyME1hbmFnZW1lbnQlMkNTY2h1bHVuZyUyMGYlQzMlQkNyJTIwaW50ZXJuYXRpb25hbGUlMjBNYW5hZ2Vy" data-listing-date-sort="1489532400000" data-listing-file-modified-sort="1741860340291" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="134">
+<a href="./posts/presentation/2_Leadership_Change/index.html" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left">
+<p class="card-img-top"><img src="posts\presentation\2_Leadership_Change\leader.jpg" alt="Leadership Change-Management Training Programm" style="height: 150px;"  class="thumbnail-image card-img"/></p>
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
+Leadership Change-Management Training Programm
+</h5>
+<div class="card-text listing-description">
+Leadership Change-Management Training Programm für eine Zielgruppe von 160 internationalen Führungskräften.
+</div>
+<div class="card-attribution card-text-small justify">
+<div class="listing-author">
+Sebastian Sukstorf
+</div>
+<div class="listing-date">
+Mar 15, 2017
+</div>
+</div>
+</div>
+</div>
+</a>
+</div>
+<div class="g-col-1" data-index="2" data-categories="RXJmb2xnJTIwaW0lMjBUZWFtJTJDVGVhbWFyYmVpdCUyMHVuZCUyMEVyZm9sZyUyQ0VsbGVuJTIwTWFjQXJ0aHVyJTIwRXJmb2xnJTJDTWFyayUyME1lZGxvY2slMjBUZWFtd29yayUyQ0VpZ2Vuc2NoYWZ0ZW4lMjBlcmZvbGdyZWljaGVyJTIwUGVycyVDMyVCNm5saWNoa2VpdGVuJTJDQmVydG9sdCUyMEJyZWNodCUyMERhdmlkJTIwQm93aWUlMjBUZWFtYXJiZWl0JTJDS3JlYXRpdmVyJTIwT3V0cHV0JTIwaW4lMjBUZWFtcyUyQ0dlbWVpbnNhbWtlaXRlbiUyMGVyZm9sZ3JlaWNoZXIlMjBNZW5zY2hlbiUyQ1VudGVyc2NoaWVkZSUyMGluJTIwaW5kaXZpZHVlbGxlbiUyMEVyZm9sZ2VuJTJDVGVhbW9yaWVudGllcnRlciUyMFByb2R1a3Rpb25zcHJvemVzcyUyQ0xhbmdlJTIwTmFjaHQlMjBkZXIlMjBXZWl0ZXJiaWxkdW5nJTJDU2ViYXN0aWFuJTIwU3Vrc3RvcmYlMjBWb3J0cmFnJTJDRXJmb2xnc2Zha3RvcmVuJTIwRWluemVsbGVpc3R1bmclMjB2ZXJzdXMlMjBUZWFtbGVpc3R1bmclMkNMYW5nZW5hY2h0JTIwZGVyJTIwV2VpdGVyYmlsZHVuZyUyMDIwMTYlMkNTdXBlcnRhbGVudCUyMHVuZCUyMFRlYW1hcmJlaXQlMkNWZXJhbnN0YWx0dW5nJTIwU2ViYXN0aWFuJTIwU3Vrc3RvcmY=" data-listing-date-sort="1466719200000" data-listing-file-modified-sort="1741860340292" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="106">
+<a href="./posts/presentation/3_Supertalent/index.html" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left">
+<p class="card-img-top"><img src="posts\presentation\3_Supertalent\supertalent.png" alt="Auf der Suche nach dem Supertalent" style="height: 150px;"  class="thumbnail-image card-img"/></p>
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
+Auf der Suche nach dem Supertalent … oder: Entsteht Erfolg im Team?
+</h5>
+<div class="card-text listing-description">
+Erleben Sie einen faszinierenden Vortrag, der die Frage aufwirft, ob Erfolg individuell oder im Team entsteht. Sebastian Sukstorf beleuchtet Gemeinsamkeiten und Unterschiede…
+</div>
+<div class="card-attribution card-text-small justify">
+<div class="listing-author">
+Sebastian Sukstorf
+</div>
+<div class="listing-date">
+Jun 24, 2016
+</div>
+</div>
+</div>
+</div>
+</a>
+</div>
+<div class="g-col-1" data-index="3" data-categories="U3RyYXRlZ2lzY2hlcyUyMFRhbGVudCUyME1hbmFnZW1lbnQlMkNNZW50b3JpbmclMjBpbiUyMGRlciUyMFBlcnNvbmFsZW50d2lja2x1bmclMkNHZXNjaGxvc3NlbmVzJTIwVGFsZW50LU1hbmFnZW1lbnQtU3lzdGVtJTJDS29sbGVnZW4lMjBoZWxmZW4lMjBLb2xsZWdlbiUyQ1BlZXItdG8tUGVlci1NZW50b3JpbmclMkNDcm9zcy1NZW50b3JpbmclMjBQcm9ncmFtbWUlMkNXaXNzZW5zd2VpdGVyZ2FiZSUyMGluJTIwVW50ZXJuZWhtZW4lMkNNaXRhcmJlaXRlcnVudGVyc3QlQzMlQkN0enVuZyUyMGR1cmNoJTIwTWVudG9yaW5nJTJDRXhwZXJ0aXNlJTIwd2VpdGVyZ2ViZW4lMkNQZXJzb25hbGVudHdpY2tsdW5nJTIwZHVyY2glMjBNZW50b3JpbmclMkNFcmZvbGdyZWljaGVzJTIwVGFsZW50JTIwTWFuYWdlbWVudCUyQ1Byb2Zlc3Npb25lbGxlcyUyME1lbnRvcmluZyUyQ1VudGVybmVobWVuc2t1bHR1ciUyMHVuZCUyMFdpc3NlbnNhdXN0YXVzY2glMkNNaXRhcmJlaXRlcmYlQzMlQjZyZGVydW5nJTIwdW5kJTIwLWVudHdpY2tsdW5nJTJDTGFuZ2ZyaXN0aWdlJTIwS29tcGV0ZW56ZW50d2lja2x1bmclMkNJbm5vdmF0aW9uJTIwZHVyY2glMjBXaXNzZW5zYXVzdGF1c2NoJTJDRW50d2lja2x1bmclMjB2b24lMjBGYWNod2lzc2VuJTIwaW4lMjBVbnRlcm5laG1lbiUyQ01pdGFyYmVpdGVyYmluZHVuZyUyMHVuZCUyMC1lbnR3aWNrbHVuZyUyQ0xlYWRlcnNoaXAlMjB1bmQlMjBNZW50b3JpbmclMkNFZmZla3RpdmVzJTIwVGFsZW50bWFuYWdlbWVudCUyQ1VudGVyc3QlQzMlQkN0enVuZyUyMHVuZCUyMEVyZmFocnVuZ3NhdXN0YXVzY2g=" data-listing-date-sort="1434319200000" data-listing-file-modified-sort="1741860340295" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="150">
+<a href="./posts/presentation/5_Wissensmanagement/index.html" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left">
+<p class="card-img-top"><img src="posts\presentation\5_Wissensmanagement\wissen.jpg" alt="Wissensmanagement und demographischer Wandel" style="height: 150px;"  class="thumbnail-image card-img"/></p>
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
+Wissensmanagement und demographischer Wandel
+</h5>
+<div class="card-text listing-description">
+Wissensweitergabe innerhalb eines geschlossenen Talent-Management-Systems, das unter der Leitlinie ‘Kollegen helfen Kollegen’ betrieben wird.
+</div>
+<div class="card-attribution card-text-small justify">
+<div class="listing-author">
+Sebastian Sukstorf
+</div>
+<div class="listing-date">
+Jun 15, 2015
+</div>
+</div>
+</div>
+</div>
+</a>
+</div>
+<div class="g-col-1" data-index="4" data-categories="VGFsZW50JTIwTWFuYWdlbWVudCUyQ1N0cmF0ZWdpc2NoZSUyMFBlcnNvbmFscGxhbnVuZyUyQ0VtcGxveWVyJTIwQnJhbmRpbmclMkNGYWNoa3IlQzMlQTRmdGVzaWNoZXJ1bmclMkNQZXJzb25hbGVudHdpY2tsdW5nJTJDS29tcGV0ZW56bW9kZWxsJTJDU3RlbGxlbnByb2ZpbGUlMkNNaXRhcmJlaXRlcmVudHdpY2tsdW5nc2dlc3ByJUMzJUE0Y2hlJTJDTmFjaHd1Y2hzZ2V3aW5udW5nJTJDUGVyc29uYWxmJUMzJUJDaHJ1bmclMkNQZXJzb25hbG1hbmFnZW1lbnQlMkNQZXJzb25hbHBvbGl0aWslMkNFbXBsb3llciUyMEJyYW5kaW5nJTIwU3RyYXRlZ2llbiUyQ1RhbGVudG1hbmFnZW1lbnQlMjBTdHJhdGVnaWVuJTJDTWl0YXJiZWl0ZXJiaW5kdW5nJTJDSFItU3RyYXRlZ2llJTJDRmFjaGtyJUMzJUE0ZnRlZW50d2lja2x1bmclMkNQZXJzb25hbGdld2lubnVuZyUyQ1BlcnNvbmFsc3RyYXRlZ2llJTJDVW50ZXJuZWhtZW5zZW50d2lja2x1bmc=" data-listing-date-sort="1405375200000" data-listing-file-modified-sort="1741860340296" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="72">
+<a href="./posts/presentation/6_TM/index.html" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left">
+<p class="card-img-top"><img src="posts\presentation\6_TM\tm.jpg" alt="Vom Talent Management zur strategischen Personalplanung" style="height: 150px;"  class="thumbnail-image card-img"/></p>
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
+Vom Talent Management zur strategischen Personalplanung
+</h5>
+<div class="card-text listing-description">
+Mit moderner Personalführung den Nachwuchs überzeugen
+</div>
+<div class="card-attribution card-text-small justify">
+<div class="listing-author">
+Sebastian Sukstorf
+</div>
+<div class="listing-date">
+Jul 15, 2014
+</div>
+</div>
+</div>
+</div>
+</a>
+</div>
+<div class="g-col-1" data-index="5" data-categories="VGFsZW50JTIwTWFuYWdlbWVudCUyMEQlMkJIJTIwR3J1cHBlJTJDU3RlbGxlbmFyY2hpdGVrdHVyZW4lMjBGYWNoYmVyZWljaGUlMkNTdGVsbGVucHJvZmlsZSUyMEtvbXBldGVuemVuJTIwZmFjaGxpY2hlJTIwS2VubnRuaXNzZSUyQ1ZlcmhhbHRlbnNhbmtlciUyMFN0ZWxsZW5wcm9maWxlJTJDV29ya3Nob3AtYmFzaWVydGVzJTIwUHJvamVrdCUyMFN0ZWxsZW5wcm9maWxlJTJDSGllcmFyY2hpZWdydXBwZW4lMjBXb3Jrc2hvcHJlaWhlJTIwVW50ZXJzdCVDMyVCQ3R6dW5nJTJDSm9iZmFtaWxpZW4lMjBTdGVsbGVucHJvZmlsZSUyMENsdXN0ZXJuJTJDTXVsdGlwbGUlMjBGYWN0b3IlMjBBbmFseXNpcyUyME1GQSUyMEtvbXBldGVuemVuJTIwRmFjaGtlbm50bmlzc2UlMkNTdGF0aXN0aXNjaGUlMjBEYXRlbmFuYWx5c2UlMjAlRTIlODAlOUVSJUUyJTgwJTlDJTJDR3JhZmlzY2hlJTIwQXVmYmVyZWl0dW5nJTIwU3RhdGlzdGlrcHJvZ3JhbW0lMjAlRTIlODAlOUVSJUUyJTgwJTlD" data-listing-date-sort="1389740400000" data-listing-file-modified-sort="1741860340297" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2" data-listing-word-count-sort="285">
+<a href="./posts/presentation/7_SPP/index.html" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left">
+<p class="card-img-top"><img src="posts\presentation\7_SPP\spp.jpg" alt="Schritt für Schritt zur strategischen Personalplanung in KMUs" style="height: 150px;"  class="thumbnail-image card-img"/></p>
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
+Schritt für Schritt zur strategischen Personalplanung in KMUs
+</h5>
+<div class="card-text listing-description">
+Talent Management Projektes neue Stellenarchitekturen entwickelt und detaillierte Stellenprofile unter Einbeziehung der gesamten Belegschaft in einer workshopbasierten…
+</div>
+<div class="card-attribution card-text-small justify">
+<div class="listing-author">
+Sebastian Sukstorf
+</div>
+<div class="listing-date">
+Jan 15, 2014
+</div>
+</div>
+</div>
+</div>
+</a>
+</div>
+<div class="g-col-1" data-index="6" data-categories="TWl0YXJiZWl0ZXJnZXNwciVDMyVBNGNoZSUyMEVja3B1bmt0ZSUyQ0dlc3ByJUMzJUE0Y2hzZiVDMyVCQ2hydW5nJTIwVGVjaG5pa2VuJTJDQWt0aXZlcyUyMFp1aCVDMyVCNnJlbiUyQ1N0ZWxsdW5nJTIwbmVobWVuJTJDR2VzcHIlQzMlQTRjaHNsZWl0dW5nJTIwc3RydWt0dXJpZXJlbiUyQ1ppZWx2ZXJlaW5iYXJ1bmdlbiUyMFByaW56aXBpZW4lMkNaaWVsYmVncmlmZiUyMHVuZCUyMFppZWxoaWVyYXJjaGllJTJDQXJ0ZW4lMjB2b24lMjBaaWVsdmVyZWluYmFydW5nZW4lMkNLcml0ZXJpZW4lMjBmJUMzJUJDciUyMFppZWx2ZXJlaW5iYXJ1bmclMkNHZXNwciVDMyVBNGNoc2YlQzMlQkNocnVuZyUyMGltJTIwVW50ZXJuZWhtZW4lMkNNaXRhcmJlaXRlcmdlc3ByJUMzJUE0Y2hlJTIwZWZmZWt0aXYlMjBmJUMzJUJDaHJlbiUyQ1ppZWxhcnRlbiUyMGluJTIwTWl0YXJiZWl0ZXJnZXNwciVDMyVBNGNoZW4lMkNTdHJ1a3R1cmllcnRlJTIwR2VzcHIlQzMlQTRjaHNmJUMzJUJDaHJ1bmclMkNaaWVsdmVyZWluYmFydW5nJTIwVGVjaG5pa2VuJTJDTWl0YXJiZWl0ZXJ6aWVsZSUyMGRlZmluaWVyZW4lMkNHZXNwciVDMyVBNGNoc2YlQzMlQkNocnVuZyUyMFNjaHVsdW5nJTJDWmllbHZlcmVpbmJhcnVuZyUyMFNjaHVsdW5nJTJDRWZmZWt0aXZlJTIwTWl0YXJiZWl0ZXJnZXNwciVDMyVBNGNoZSUyQ1ppZWx2ZXJlaW5iYXJ1bmclMjBpbSUyMFVudGVybmVobWVuJTJDR3J1bmRsYWdlbiUyMGRlciUyMEdlc3ByJUMzJUE0Y2hzZiVDMyVCQ2hydW5nJTJDRXJmb2xncmVpY2hlJTIwWmllbHZlcmVpbmJhcnVuZyUyQ01pdGFyYmVpdGVyZ2VzcHIlQzMlQTRjaGUlMjB2b3JiZXJlaXRlbiUyQ1ppZWx2ZXJlaW5iYXJ1bmdlbiUyMGVycmVpY2hlbiUyQ1VudGVybmVobWVuc3ppZWxlJTIwdW5kJTIwTWl0YXJiZWl0ZXJ6aWVsZSUyQ0dlc3ByJUMzJUE0Y2hzZiVDMyVCQ2hydW5nJTIwVGlwcHMlMkNGJUMzJUJDaHJ1bmdza3IlQzMlQTRmdGUlMjBHZXNwciVDMyVBNGNoc3RlY2huaWtlbiUyQ1ppZWx2ZXJlaW5iYXJ1bmclMjBNaXRhcmJlaXRlcg==" data-listing-date-sort="1300143600000" data-listing-file-modified-sort="1741860340299" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="50">
+<a href="./posts/presentation/8_MEG/index.html" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left">
+<p class="card-img-top"><img src="posts\presentation\8_MEG\meg.jpg" alt="Mitarbeitergespräche: Gesprächsführung und Zielvereinbarung" style="height: 150px;"  class="thumbnail-image card-img"/></p>
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
+Mitarbeitergespräche: Gesprächsführung und Zielvereinbarung
+</h5>
+<div class="card-text listing-description">
+Eckpunkte erfolgreicher Mitarbeitergespräche und grundlegende Techniken der Gesprächsführung. Aktives Zuhören, Stellung nehmen und strukturierte Gesprächsleitung.…
+</div>
+<div class="card-attribution card-text-small justify">
+<div class="listing-author">
+Sebastian Sukstorf
+</div>
+<div class="listing-date">
+Mar 15, 2011
+</div>
+</div>
+</div>
+</div>
+</a>
+</div>
+<div class="g-col-1" data-index="7" data-categories="UHJvemVzc21hbmFnZW1lbnQlMkNQcm96ZXNzYW5hbHlzZSUyMEdydW5kbGFnZW4lMkNQcm96ZXNzYW5hbHlzZSUyME1vZGVsbGUlMkNXZXJ0c2NoJUMzJUI2cGZ1bmdza2V0dGVuJTJDQlBNJTIwKEJ1c2luZXNzJTIwUHJvY2VzcyUyME1hbmFnZW1lbnQpJTJDZUVQSyUyMChlcndlaXRlcnRlJTIwRXJlaWduaXNnZXN0ZXVlcnRlJTIwUHJvemVzc2tldHRlKSUyQ0FSSVMlMjBUb29sc2V0JTIwRWluZiVDMyVCQ2hydW5nJTJDUHJvemVzc21vZGVsbGllcnVuZyUyQ1Byb3plc3NvcHRpbWllcnVuZyUyQ0hvdGVscmV6ZXB0aW9uJTIwUHJvemVzc2FuYWx5c2UlMkNQcmFrdGlzY2hlJTIwUHJvemVzc2FuYWx5c2UlMkNQcm96ZXNzbWFuYWdlbWVudCUyMFNjaHVsdW5nJTJDUHJvemVzc2FuYWx5c2UlMjBUZWNobmlrZW4lMkNQcm96ZXNzZGFyc3RlbGx1bmclMkNQcm96ZXNzbWFuYWdlbWVudCUyMEJlaXNwaWVsZSUyQ0FSSVMlMjBUb29sc2V0JTIwQW53ZW5kdW5nJTJDUHJvemVzc2FuYWx5c2UlMjAlQzMlOUNidW5nZW4lMkNFZmZla3RpdmUlMjBQcm96ZXNzb3B0aW1pZXJ1bmclMkNQcm96ZXNzbWFuYWdlbWVudCUyMFRyYWluaW5nJTJDUHJvemVzc21vZGVsbGllcnVuZyUyME1ldGhvZGVu" data-listing-date-sort="1241733600000" data-listing-file-modified-sort="1741860340303" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="90">
+<a href="./posts/presentation/9_PM/index.html" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left">
+<p class="card-img-top"><img src="posts\presentation\9_PM\pm.png" alt="Prozessmanagement, SAP- und IT-Grundlagen Schulung" style="height: 150px;"  class="thumbnail-image card-img"/></p>
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
+Prozessmanagement, SAP- und IT-Grundlagen Schulung
+</h5>
+<div class="card-text listing-description">
+Grundlagen und Modelle der Prozessanalyse im Bereich Prozessmanagement. Lernen Sie verschiedene Darstellungsformen wie Wertschöpfungsketten, BPM und eEPK kennen. Vertiefen…
+</div>
+<div class="card-attribution card-text-small justify">
+<div class="listing-author">
+Sebastian Sukstorf
+</div>
+<div class="listing-date">
+May 8, 2009
+</div>
+</div>
+</div>
+</div>
+</a>
+</div>
+<div class="g-col-1" data-index="8" data-categories="Q1JNJTIwRWluZiVDMyVCQ2hydW5nJTJDQ1JNJTIwRGVmaW5pdGlvbmVuJTJDQ1JNJTIwWmllbGUlMkNDUk0lMjBLUEklMkNDUk0lMjBMZWl0ZiVDMyVBNGRlbiUyQ0t1bmRlbndlcnRrb256ZXB0ZSUyQ0t1bmRlbmtsYXNzaWZpemllcnVuZyUyQ0t1bmRlbnNlZ21lbnRpZXJ1bmclMkNLdW5kZW53ZXJ0JTIwQmVyZWNobnVuZyUyQ0RhdGVuYmVzY2hhZmZ1bmclMjBDUk0lMkNDUk0lMjBEYXRlbmFuYWx5c2UlMkNDUk0lMjBJVCUyMEluZnJhc3RydWt0dXIlMkNTQVAlMjBDUk0lMkNNaWNyb3NvZnQlMjBDUk0lMkNFeGNlbCUyMENSTSUyQ0RhdGEtTWluaW5nJTIwS29uemVwdGUlMkNLdW5kZW53ZXJ0JTIwTWV0aG9kZW4lMkNTQ00lMjBFaW5mJUMzJUJDaHJ1bmclMkNTQ00lMjBzdHJhdGVnaXNjaGVyJTIwRXJmb2xnc2Zha3RvciUyQ1NDTSUyMEhlcmF1c2ZvcmRlcnVuZ2VuJTJDU0NNJTIwTWFya3RzaWNodCUyQ0JhbGFuY2luZyUyMGNvbXBsZXhpdHklMjBTQ00lMkNTQ00lMjBLb3N0ZW4lMkNTQ00lMjBUcmVpYmVyYiVDMyVBNHVtZSUyQ1N1cHBseSUyMENoYWluJTIwUGVyZm9ybWFuY2UlMkNTQ00lMjBmaW5hbnppZWxsZSUyMEVyZ2Vibmlzc2UlMkNTQ00lMjBSaXNpa2VuJTJDU0NNJTIwcmVndWxhdG9yaXNjaGUlMjBIZXJhdXNmb3JkZXJ1bmdlbiUyQ1N1cHBseSUyMENoYWluJTIwTWFuYWdlbWVudCUyMEdydW5kbGFnZW4lMkNTQ09SLU1vZGVsbCUyQ1NDTSUyMFByb3plc3NlJTIwUGxhbiUyMFNvdXJjZSUyME1ha2UlMjBEZWxpdmVyJTJDU0NNJTIwS1BJcyUyQ1N1cHBseSUyMENoYWluJTIwU3RldWVydW5nJTJDU3VwcGx5JTIwQ2hhaW4lMjBQcm96ZXNzZSUyQ1NDTSUyMEtvbnplcHRlJTJDU0NNJTIwVW1zZXR6dW5nc2JhcnJpZXJlbiUyQ1NDTSUyMEwlQzMlQjZzdW5nc2FucyVDMyVBNHR6ZSUyQ1BMTSUyMEVpbmYlQzMlQkNocnVuZyUyQ1Byb2R1Y3QlMjBMaWZlY3ljbGUlMjBNYW5hZ2VtZW50JTJDUExNJTIwQ0VPJTIwQ0ZPJTJDUExNJTIwdGhlb3JldGlzY2hlJTIwR3J1bmRsYWdlbiUyQ1MtS3VydmVuJTIwUExNJTJDRW50d2lja2x1bmdzcHJvemVzcyUyMFBoYXNlbiUyQ1BMTSUyMEtvc3RlbnN0cnVrdHVyZW4=" data-listing-date-sort="1184277600000" data-listing-file-modified-sort="1741860340286" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="200">
+<a href="./posts/presentation/10_PM_Industrie/index.html" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left">
+<p class="card-img-top"><img src="posts\presentation\10_PM_Industrie\pmi.jpeg" alt="Prozessmanagement - Industrie: CRM, SCM und PLM" style="height: 150px;"  class="thumbnail-image card-img"/></p>
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
+Prozessmanagement - Industrie: CRM, SCM und PLM
+</h5>
+<div class="card-text listing-description">
+Grundlagen und fortgeschrittene Konzepte in CRM, SCM und PLM, einschließlich Definitionen, KPI, Kundenwertanalyse, Supply Chain Management, Prozesssteuerung, sowie die…
+</div>
+<div class="card-attribution card-text-small justify">
+<div class="listing-author">
+
+</div>
+<div class="listing-date">
+Jul 13, 2007
+</div>
+</div>
+</div>
+</div>
+</a>
+</div>
+<div class="g-col-1" data-index="9" data-categories="R3J1bmRsYWdlbiUyMGRlcyUyMEZ1bmRyYWlzaW5ncyUyQ0Z1bmRyYWlzaW5nJTIwQmVncmlmZnNiZXN0aW1tdW5nZW4lMkNFdGhpc2NoZSUyMCVDMyU5Q2JlcmxlZ3VuZyUyMGltJTIwRnVuZHJhaXNpbmclMkNNYW5hZ2VtZW50cHJpbnppcGllbiUyMEZ1bmRyYWlzaW5nJTJDRnVuZHJhaXNpbmclMjBXJUMzJUJDcmZlbCUyQ09yZ2FuaXNhdGlvbnNiZXJlaXRzY2hhZnQlMjBpbSUyMEZ1bmRyYWlzaW5nJTJDTGVpdGJpbGQlMjByZWZsZWt0aWVyZW4lMkNPcmdhbmlzYXRpb25hbGUlMjBCZXppZWh1bmdzbmV0endlcmtlJTJDUGVycyVDMyVCNm5saWNoZSUyMEJlemllaHVuZ3NuZXR6d2Vya2UlMkNRdWFsaWZpa2F0aW9uc2FuZm9yZGVydW5nZW4lMjBGdW5kcmFpc2VyJTJDRnVuZHJhaXNpbmclMjBNJUMzJUE0cmt0ZSUyQ0YlQzMlQjZyZGVyZXIlMjBiZXN0aW1tZW4lMkNUZWxlZm9uaW50ZXJ2aWV3cyUyMGltJTIwRnVuZHJhaXNpbmclMkNGdW5kcmFpc2luZyUyMFByaXZhdHBlcnNvbmVuJTJDRnVuZHJhaXNpbmdtZXRob2RlbiUyQ0Z1bmRyYWlzaW5nJTIwR2VzcHIlQzMlQTRjaCUyQ1NwZW5kZW5icmllZiUyMGVyc3RlbGxlbiUyQ1NwZW5kZXJiaW5kdW5nJTJDRnVuZHJhaXNpbmclMjBiZWklMjBVbnRlcm5laG1lbiUyQ1Byb2pla3Rza2l6emUlMjBmJUMzJUJDciUyMEZ1bmRyYWlzaW5nJTJDU3BvbnNvcmVuYW5zcHJhY2hlJTJDU3BvbnNvcmVudmVydHIlQzMlQTRnZSUyQ0Z1bmRyYWlzaW5nJTIwdW5kJTIwU3RpZnR1bmdlbg==" data-listing-date-sort="1086991200000" data-listing-file-modified-sort="1741860340289" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="115">
+<a href="./posts/presentation/11_Fundraising/index.html" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left">
+<p class="card-img-top"><img src="posts\presentation\11_Fundraising\fundraising.png" alt="Fundraising Workshops für NGOs" style="height: 150px;"  class="thumbnail-image card-img"/></p>
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
+Fundraising Workshops für NGOs
+</h5>
+<div class="card-text listing-description">
+Grundlagen des Fundraisings, einschließlich Begriffsbestimmungen, ethische Überlegungen, Managementprinzipien, Qualifikationsanforderungen, Fundraisingmethoden und Märkte im…
+</div>
+<div class="card-attribution card-text-small justify">
+<div class="listing-author">
+
+</div>
+<div class="listing-date">
+Jun 12, 2004
+</div>
+</div>
+</div>
+</div>
+</a>
+</div>
+</div>
+<div class="listing-no-matching d-none">
+No matching items
+</div>
+</div></main> <!-- /main -->
+<script id="quarto-html-after-body" type="application/javascript">
+window.document.addEventListener("DOMContentLoaded", function (event) {
+  const toggleBodyColorMode = (bsSheetEl) => {
+    const mode = bsSheetEl.getAttribute("data-mode");
+    const bodyEl = window.document.querySelector("body");
+    if (mode === "dark") {
+      bodyEl.classList.add("quarto-dark");
+      bodyEl.classList.remove("quarto-light");
+    } else {
+      bodyEl.classList.add("quarto-light");
+      bodyEl.classList.remove("quarto-dark");
+    }
+  }
+  const toggleBodyColorPrimary = () => {
+    const bsSheetEl = window.document.querySelector("link#quarto-bootstrap");
+    if (bsSheetEl) {
+      toggleBodyColorMode(bsSheetEl);
+    }
+  }
+  toggleBodyColorPrimary();  
+  const icon = "";
+  const anchorJS = new window.AnchorJS();
+  anchorJS.options = {
+    placement: 'right',
+    icon: icon
+  };
+  anchorJS.add('.anchored');
+  const isCodeAnnotation = (el) => {
+    for (const clz of el.classList) {
+      if (clz.startsWith('code-annotation-')) {                     
+        return true;
+      }
+    }
+    return false;
+  }
+  const onCopySuccess = function(e) {
+    // button target
+    const button = e.trigger;
+    // don't keep focus
+    button.blur();
+    // flash "checked"
+    button.classList.add('code-copy-button-checked');
+    var currentTitle = button.getAttribute("title");
+    button.setAttribute("title", "Copied!");
+    let tooltip;
+    if (window.bootstrap) {
+      button.setAttribute("data-bs-toggle", "tooltip");
+      button.setAttribute("data-bs-placement", "left");
+      button.setAttribute("data-bs-title", "Copied!");
+      tooltip = new bootstrap.Tooltip(button, 
+        { trigger: "manual", 
+          customClass: "code-copy-button-tooltip",
+          offset: [0, -8]});
+      tooltip.show();    
+    }
+    setTimeout(function() {
+      if (tooltip) {
+        tooltip.hide();
+        button.removeAttribute("data-bs-title");
+        button.removeAttribute("data-bs-toggle");
+        button.removeAttribute("data-bs-placement");
+      }
+      button.setAttribute("title", currentTitle);
+      button.classList.remove('code-copy-button-checked');
+    }, 1000);
+    // clear code selection
+    e.clearSelection();
+  }
+  const getTextToCopy = function(trigger) {
+      const codeEl = trigger.previousElementSibling.cloneNode(true);
+      for (const childEl of codeEl.children) {
+        if (isCodeAnnotation(childEl)) {
+          childEl.remove();
+        }
+      }
+      return codeEl.innerText;
+  }
+  const clipboard = new window.ClipboardJS('.code-copy-button:not([data-in-quarto-modal])', {
+    text: getTextToCopy
+  });
+  clipboard.on('success', onCopySuccess);
+  if (window.document.getElementById('quarto-embedded-source-code-modal')) {
+    const clipboardModal = new window.ClipboardJS('.code-copy-button[data-in-quarto-modal]', {
+      text: getTextToCopy,
+      container: window.document.getElementById('quarto-embedded-source-code-modal')
+    });
+    clipboardModal.on('success', onCopySuccess);
+  }
+    var localhostRegex = new RegExp(/^(?:http|https):\/\/localhost\:?[0-9]*\//);
+    var mailtoRegex = new RegExp(/^mailto:/);
+      var filterRegex = new RegExp("https:\/\/sebastiansukstorf\.github\.io\/homepage\/");
+    var isInternal = (href) => {
+        return filterRegex.test(href) || localhostRegex.test(href) || mailtoRegex.test(href);
+    }
+    // Inspect non-navigation links and adorn them if external
+ 	var links = window.document.querySelectorAll('a[href]:not(.nav-link):not(.navbar-brand):not(.toc-action):not(.sidebar-link):not(.sidebar-item-toggle):not(.pagination-link):not(.no-external):not([aria-hidden]):not(.dropdown-item):not(.quarto-navigation-tool):not(.about-link)');
+    for (var i=0; i<links.length; i++) {
+      const link = links[i];
+      if (!isInternal(link.href)) {
+        // undo the damage that might have been done by quarto-nav.js in the case of
+        // links that we want to consider external
+        if (link.dataset.originalHref !== undefined) {
+          link.href = link.dataset.originalHref;
+        }
+      }
+    }
+  function tippyHover(el, contentFn, onTriggerFn, onUntriggerFn) {
+    const config = {
+      allowHTML: true,
+      maxWidth: 500,
+      delay: 100,
+      arrow: false,
+      appendTo: function(el) {
+          return el.parentElement;
+      },
+      interactive: true,
+      interactiveBorder: 10,
+      theme: 'quarto',
+      placement: 'bottom-start',
+    };
+    if (contentFn) {
+      config.content = contentFn;
+    }
+    if (onTriggerFn) {
+      config.onTrigger = onTriggerFn;
+    }
+    if (onUntriggerFn) {
+      config.onUntrigger = onUntriggerFn;
+    }
+    window.tippy(el, config); 
+  }
+  const noterefs = window.document.querySelectorAll('a[role="doc-noteref"]');
+  for (var i=0; i<noterefs.length; i++) {
+    const ref = noterefs[i];
+    tippyHover(ref, function() {
+      // use id or data attribute instead here
+      let href = ref.getAttribute('data-footnote-href') || ref.getAttribute('href');
+      try { href = new URL(href).hash; } catch {}
+      const id = href.replace(/^#\/?/, "");
+      const note = window.document.getElementById(id);
+      if (note) {
+        return note.innerHTML;
+      } else {
+        return "";
+      }
+    });
+  }
+  const xrefs = window.document.querySelectorAll('a.quarto-xref');
+  const processXRef = (id, note) => {
+    // Strip column container classes
+    const stripColumnClz = (el) => {
+      el.classList.remove("page-full", "page-columns");
+      if (el.children) {
+        for (const child of el.children) {
+          stripColumnClz(child);
+        }
+      }
+    }
+    stripColumnClz(note)
+    if (id === null || id.startsWith('sec-')) {
+      // Special case sections, only their first couple elements
+      const container = document.createElement("div");
+      if (note.children && note.children.length > 2) {
+        container.appendChild(note.children[0].cloneNode(true));
+        for (let i = 1; i < note.children.length; i++) {
+          const child = note.children[i];
+          if (child.tagName === "P" && child.innerText === "") {
+            continue;
+          } else {
+            container.appendChild(child.cloneNode(true));
+            break;
+          }
+        }
+        if (window.Quarto?.typesetMath) {
+          window.Quarto.typesetMath(container);
+        }
+        return container.innerHTML
+      } else {
+        if (window.Quarto?.typesetMath) {
+          window.Quarto.typesetMath(note);
+        }
+        return note.innerHTML;
+      }
+    } else {
+      // Remove any anchor links if they are present
+      const anchorLink = note.querySelector('a.anchorjs-link');
+      if (anchorLink) {
+        anchorLink.remove();
+      }
+      if (window.Quarto?.typesetMath) {
+        window.Quarto.typesetMath(note);
+      }
+      if (note.classList.contains("callout")) {
+        return note.outerHTML;
+      } else {
+        return note.innerHTML;
+      }
+    }
+  }
+  for (var i=0; i<xrefs.length; i++) {
+    const xref = xrefs[i];
+    tippyHover(xref, undefined, function(instance) {
+      instance.disable();
+      let url = xref.getAttribute('href');
+      let hash = undefined; 
+      if (url.startsWith('#')) {
+        hash = url;
+      } else {
+        try { hash = new URL(url).hash; } catch {}
+      }
+      if (hash) {
+        const id = hash.replace(/^#\/?/, "");
+        const note = window.document.getElementById(id);
+        if (note !== null) {
+          try {
+            const html = processXRef(id, note.cloneNode(true));
+            instance.setContent(html);
+          } finally {
+            instance.enable();
+            instance.show();
+          }
+        } else {
+          // See if we can fetch this
+          fetch(url.split('#')[0])
+          .then(res => res.text())
+          .then(html => {
+            const parser = new DOMParser();
+            const htmlDoc = parser.parseFromString(html, "text/html");
+            const note = htmlDoc.getElementById(id);
+            if (note !== null) {
+              const html = processXRef(id, note);
+              instance.setContent(html);
+            } 
+          }).finally(() => {
+            instance.enable();
+            instance.show();
+          });
+        }
+      } else {
+        // See if we can fetch a full url (with no hash to target)
+        // This is a special case and we should probably do some content thinning / targeting
+        fetch(url)
+        .then(res => res.text())
+        .then(html => {
+          const parser = new DOMParser();
+          const htmlDoc = parser.parseFromString(html, "text/html");
+          const note = htmlDoc.querySelector('main.content');
+          if (note !== null) {
+            // This should only happen for chapter cross references
+            // (since there is no id in the URL)
+            // remove the first header
+            if (note.children.length > 0 && note.children[0].tagName === "HEADER") {
+              note.children[0].remove();
+            }
+            const html = processXRef(null, note);
+            instance.setContent(html);
+          } 
+        }).finally(() => {
+          instance.enable();
+          instance.show();
+        });
+      }
+    }, function(instance) {
+    });
+  }
+      let selectedAnnoteEl;
+      const selectorForAnnotation = ( cell, annotation) => {
+        let cellAttr = 'data-code-cell="' + cell + '"';
+        let lineAttr = 'data-code-annotation="' +  annotation + '"';
+        const selector = 'span[' + cellAttr + '][' + lineAttr + ']';
+        return selector;
+      }
+      const selectCodeLines = (annoteEl) => {
+        const doc = window.document;
+        const targetCell = annoteEl.getAttribute("data-target-cell");
+        const targetAnnotation = annoteEl.getAttribute("data-target-annotation");
+        const annoteSpan = window.document.querySelector(selectorForAnnotation(targetCell, targetAnnotation));
+        const lines = annoteSpan.getAttribute("data-code-lines").split(",");
+        const lineIds = lines.map((line) => {
+          return targetCell + "-" + line;
+        })
+        let top = null;
+        let height = null;
+        let parent = null;
+        if (lineIds.length > 0) {
+            //compute the position of the single el (top and bottom and make a div)
+            const el = window.document.getElementById(lineIds[0]);
+            top = el.offsetTop;
+            height = el.offsetHeight;
+            parent = el.parentElement.parentElement;
+          if (lineIds.length > 1) {
+            const lastEl = window.document.getElementById(lineIds[lineIds.length - 1]);
+            const bottom = lastEl.offsetTop + lastEl.offsetHeight;
+            height = bottom - top;
+          }
+          if (top !== null && height !== null && parent !== null) {
+            // cook up a div (if necessary) and position it 
+            let div = window.document.getElementById("code-annotation-line-highlight");
+            if (div === null) {
+              div = window.document.createElement("div");
+              div.setAttribute("id", "code-annotation-line-highlight");
+              div.style.position = 'absolute';
+              parent.appendChild(div);
+            }
+            div.style.top = top - 2 + "px";
+            div.style.height = height + 4 + "px";
+            div.style.left = 0;
+            let gutterDiv = window.document.getElementById("code-annotation-line-highlight-gutter");
+            if (gutterDiv === null) {
+              gutterDiv = window.document.createElement("div");
+              gutterDiv.setAttribute("id", "code-annotation-line-highlight-gutter");
+              gutterDiv.style.position = 'absolute';
+              const codeCell = window.document.getElementById(targetCell);
+              const gutter = codeCell.querySelector('.code-annotation-gutter');
+              gutter.appendChild(gutterDiv);
+            }
+            gutterDiv.style.top = top - 2 + "px";
+            gutterDiv.style.height = height + 4 + "px";
+          }
+          selectedAnnoteEl = annoteEl;
+        }
+      };
+      const unselectCodeLines = () => {
+        const elementsIds = ["code-annotation-line-highlight", "code-annotation-line-highlight-gutter"];
+        elementsIds.forEach((elId) => {
+          const div = window.document.getElementById(elId);
+          if (div) {
+            div.remove();
+          }
+        });
+        selectedAnnoteEl = undefined;
+      };
+        // Handle positioning of the toggle
+    window.addEventListener(
+      "resize",
+      throttle(() => {
+        elRect = undefined;
+        if (selectedAnnoteEl) {
+          selectCodeLines(selectedAnnoteEl);
+        }
+      }, 10)
+    );
+    function throttle(fn, ms) {
+    let throttle = false;
+    let timer;
+      return (...args) => {
+        if(!throttle) { // first call gets through
+            fn.apply(this, args);
+            throttle = true;
+        } else { // all the others get throttled
+            if(timer) clearTimeout(timer); // cancel #2
+            timer = setTimeout(() => {
+              fn.apply(this, args);
+              timer = throttle = false;
+            }, ms);
+        }
+      };
+    }
+      // Attach click handler to the DT
+      const annoteDls = window.document.querySelectorAll('dt[data-target-cell]');
+      for (const annoteDlNode of annoteDls) {
+        annoteDlNode.addEventListener('click', (event) => {
+          const clickedEl = event.target;
+          if (clickedEl !== selectedAnnoteEl) {
+            unselectCodeLines();
+            const activeEl = window.document.querySelector('dt[data-target-cell].code-annotation-active');
+            if (activeEl) {
+              activeEl.classList.remove('code-annotation-active');
+            }
+            selectCodeLines(clickedEl);
+            clickedEl.classList.add('code-annotation-active');
+          } else {
+            // Unselect the line
+            unselectCodeLines();
+            clickedEl.classList.remove('code-annotation-active');
+          }
+        });
+      }
+  const findCites = (el) => {
+    const parentEl = el.parentElement;
+    if (parentEl) {
+      const cites = parentEl.dataset.cites;
+      if (cites) {
+        return {
+          el,
+          cites: cites.split(' ')
+        };
+      } else {
+        return findCites(el.parentElement)
+      }
+    } else {
+      return undefined;
+    }
+  };
+  var bibliorefs = window.document.querySelectorAll('a[role="doc-biblioref"]');
+  for (var i=0; i<bibliorefs.length; i++) {
+    const ref = bibliorefs[i];
+    const citeInfo = findCites(ref);
+    if (citeInfo) {
+      tippyHover(citeInfo.el, function() {
+        var popup = window.document.createElement('div');
+        citeInfo.cites.forEach(function(cite) {
+          var citeDiv = window.document.createElement('div');
+          citeDiv.classList.add('hanging-indent');
+          citeDiv.classList.add('csl-entry');
+          var biblioDiv = window.document.getElementById('ref-' + cite);
+          if (biblioDiv) {
+            citeDiv.innerHTML = biblioDiv.innerHTML;
+          }
+          popup.appendChild(citeDiv);
+        });
+        return popup.innerHTML;
+      });
+    }
+  }
+});
+</script>
+</div> <!-- /content -->
+<footer class="footer">
+  <div class="nav-footer">
+    <div class="nav-footer-left">
+<p>Copyright 2025, Sebastian Sukstorf</p>
+</div>   
+    <div class="nav-footer-center">
+      &nbsp;
+    </div>
+    <div class="nav-footer-right">
+      &nbsp;
+    </div>
+  </div>
+</footer>
+
+
+
+
+</body></html>

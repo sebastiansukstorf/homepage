@@ -13,7 +13,7 @@ website:
       - href: projects.qmd
         text: Projekte
       - href: presentation.qmd
-        text: Vortraege
+        text: Vorträge
       - href: publication.qmd
         text: Publikationen
     # - href: blog.qmd
@@ -24,6 +24,7 @@ website:
     #    href: https://twitter.com/sukstorf
       - icon: linkedin
         href: https://www.linkedin.com/in/sebastian-sukstorf/
+  google-analytics: "G-E5JTBN5NH8"
       
   page-footer: 
     left: "Copyright 2024, Sebastian Sukstorf" 

@@ -83,11 +83,9 @@ gtag('config', 'G-E5JTBN5NH8', { 'anonymize_ip': true});
 <link rel="stylesheet" href="../../../styles.css">
 <meta property="og:title" content="Prozessmanagement, SAP- und IT-Grundlagen Schulung – Sebastian Sukstorf">
 <meta property="og:description" content="Grundlagen und Modelle der Prozessanalyse im Bereich Prozessmanagement. Lernen Sie verschiedene Darstellungsformen wie Wertschöpfungsketten, BPM und eEPK kennen. Vertiefen Sie Ihr Wissen durch praktische Übungen zur Prozessmodellierung mit dem ARIS Toolset.">
-<meta property="og:image" content="https://sebastiansukstorf.github.io/homepage/posts/presentation/9_PM/pm.png">
+<meta property="og:image" content="pm.png">
 <meta property="og:site_name" content="Sebastian Sukstorf">
 <meta property="og:image:alt" content="Prozessmanagement, SAP- und IT-Grundlagen Schulung">
-<meta property="og:image:height" content="133">
-<meta property="og:image:width" content="237">
 </head>
 
 <body class="nav-fixed">
@@ -337,7 +335,7 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
   }
     var localhostRegex = new RegExp(/^(?:http|https):\/\/localhost\:?[0-9]*\//);
     var mailtoRegex = new RegExp(/^mailto:/);
-      var filterRegex = new RegExp("https:\/\/sebastiansukstorf\.github\.io\/homepage\/");
+      var filterRegex = new RegExp('/' + window.location.host + '/');
     var isInternal = (href) => {
         return filterRegex.test(href) || localhostRegex.test(href) || mailtoRegex.test(href);
     }

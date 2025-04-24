@@ -16,7 +16,7 @@ categories: [
 image: "ambiguitaet.png"
 ---
 
-![Ambiguitätstoleranz entwickeln)](ambiguität.png){fig-alt="Ambiguitätstoleranz entwickeln)" fig-align="center" width=60%}
+![Ambiguitätstoleranz entwickeln)](ambiguitaet.png){fig-alt="Ambiguitätstoleranz entwickeln)" fig-align="center" width=60%}
 
 # Über Menschen
 
@@ -24,4 +24,4 @@ image: "ambiguitaet.png"
 
 Mit diesem Zitat verdeutlicht Juli Zeh anschaulich, was Ambiguität im Kern ausmacht. Nach Bauer werden mit dem Begriff **Ambiguität** Zustände beschrieben, die als mehrdeutig oder weniger unterscheidbar gelten...
 
-[... weiterlesen](https://www.ambiguitaet.sukstorf.de)
+[... weiterlesen](ambiguitaet.sukstorf.de)

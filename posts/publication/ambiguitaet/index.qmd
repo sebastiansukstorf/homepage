@@ -2,10 +2,6 @@
 title: "„Über Menschen“"
 subtitle: "Eine neue kognitive Komplexität zur Bewältigung von Ambiguität in Organisationen"
 description: "Ambiguität ist kein Problem, sondern ein Gestaltungsraum."
-twitter-card:
-  site: "@sukstorf"
-  creator: "@sukstorf"
-  image: "ambiguitaet.png"
 author: "Sebastian Sukstorf"
 date: "2025-04-23"
 categories: [

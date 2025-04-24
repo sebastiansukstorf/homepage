@@ -24,4 +24,4 @@ image: "ambiguitaet.png"
 
 Mit diesem Zitat verdeutlicht Juli Zeh anschaulich, was Ambiguität im Kern ausmacht. Nach Bauer werden mit dem Begriff **Ambiguität** Zustände beschrieben, die als mehrdeutig oder weniger unterscheidbar gelten...
 
-[... weiterlesen](ambiguitaet.sukstorf.de)
+([... weiterlesen](https://ambiguitaet.sukstorf.de))

@@ -1,0 +1,27 @@
+---
+title: "„Über Menschen“"
+subtitle: "Eine neue kognitive Komplexität zur Bewältigung von Ambiguität in Organisationen"
+description: "Ambiguität ist kein Problem, sondern ein Gestaltungsraum."
+author: "Sebastian Sukstorf"
+date: "2025-04-23"
+categories: [
+            Ambiguität, 
+            Führung, 
+            Organisation, 
+            Komplexität, 
+            kognitive Flexibilität, 
+            Prototypenkultur, 
+            Leadership
+            ]
+image: "ambiguitaet.png"
+---
+
+![Ambiguitätstoleranz entwickeln)](ambiguität.png){fig-alt="Ambiguitätstoleranz entwickeln)" fig-align="center" width=60%}
+
+# Über Menschen
+
+„Sie beharrt darauf, sich keine klare Meinung bilden zu müssen, wenn es keine einfachen Lösungen gibt, und die gibt es momentan noch weniger als sonst.“  So lässt Juli Zeh ihre Protagonistin Dora in dem Roman „Über Menschen“ ihre Einschätzung zum Beginn der Corona-Pandemie beschreiben.
+
+Mit diesem Zitat verdeutlicht Juli Zeh anschaulich, was Ambiguität im Kern ausmacht. Nach Bauer werden mit dem Begriff **Ambiguität** Zustände beschrieben, die als mehrdeutig oder weniger unterscheidbar gelten...
+
+[... weiterlesen](https://www.ambiguitaet.sukstorf.de)

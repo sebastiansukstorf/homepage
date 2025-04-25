@@ -1,7 +1,7 @@
 ---
 title: "„Über Menschen“"
 subtitle: "Eine neue kognitive Komplexität zur Bewältigung von Ambiguität in Organisationen"
-description: "Ambiguität ist kein Problem, sondern ein Gestaltungsraum."
+description: "Ambiguität ist kein Problem, sondern ein Gestaltungsraum. Der Text zeigt, wie Führungskräfte lernen können, mit Mehrdeutigkeit konstruktiv umzugehen – durch Reflexion, Kontextbewusstsein und eine offene Haltung. So wird Unsicherheit zur Quelle von Innovation und Vielfalt."
 author: "Sebastian Sukstorf"
 date: "2025-04-23"
 categories: [
@@ -13,10 +13,10 @@ categories: [
             Prototypenkultur, 
             Leadership
             ]
-image: "ambiguitaet.png"
+image: "ambiguitaet.JPG"
 ---
 
-![Ambiguitätstoleranz entwickeln](ambiguitaet.png){fig-alt="Ambiguitätstoleranz entwickeln" fig-align="center" width=50%}
+![Ambiguitätstoleranz entwickeln](ambiguitaet.JPG){fig-alt="Ambiguitätstoleranz entwickeln" fig-align="center" width=50%}
 
 # Über Menschen
 

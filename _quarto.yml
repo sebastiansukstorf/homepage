@@ -38,6 +38,7 @@ website:
 
 format:
   html:
+    include-in-header: _extensions/custom-ga/header.html
     theme: cosmo
     css: styles.css
     toc: true

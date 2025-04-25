@@ -14,9 +14,9 @@ categories: [
             Leadership
             ]
 image: "ambiguitaet.JPG"
+image-width: "300px"
+image-height: "auto"
 ---
-
-![Ambiguitätstoleranz entwickeln](ambiguitaet.JPG){fig-alt="Ambiguitätstoleranz entwickeln" fig-align="center" width=30%}
 
 # Über Menschen
 

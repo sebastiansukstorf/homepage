@@ -16,7 +16,7 @@ categories: [
 image: "ambiguitaet.JPG"
 ---
 
-![Ambiguitätstoleranz entwickeln](ambiguitaet.JPG){fig-alt="Ambiguitätstoleranz entwickeln" fig-align="center" width=50%}
+![Ambiguitätstoleranz entwickeln](ambiguitaet.JPG){fig-alt="Ambiguitätstoleranz entwickeln" fig-align="center" width=30%}
 
 # Über Menschen
 

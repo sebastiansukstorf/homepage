@@ -41,6 +41,7 @@ format:
     theme: cosmo
     css: styles.css
     toc: true
+  include-in-header: ga.html
 
 execute:
   freeze: auto

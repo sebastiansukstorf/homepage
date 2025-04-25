@@ -69,11 +69,6 @@ ul.task-list li input[type="checkbox"] {
   }
 }</script>
 <!-- _extensions/custom-ga/header.html -->
-<meta property="og:title" content="Welcome To My Blog – Sebastian Sukstorf">
-<meta property="og:description" content="">
-<meta property="og:image" content="thumbnail.jpg">
-<meta property="og:site_name" content="Sebastian Sukstorf">
-</head><body class="nav-fixed">{% if env.GA_ENABLE == "true" %}
 <script async="" src="https://www.googletagmanager.com/gtag/js?id=G-E5JTBN5NH8"></script>
 <script>
   window.dataLayer = window.dataLayer || [];
@@ -81,7 +76,11 @@ ul.task-list li input[type="checkbox"] {
   gtag('js', new Date());
   gtag('config', 'G-E5JTBN5NH8');
 </script>
-{% endif %}
+<meta property="og:title" content="Welcome To My Blog – Sebastian Sukstorf">
+<meta property="og:description" content="">
+<meta property="og:image" content="thumbnail.jpg">
+<meta property="og:site_name" content="Sebastian Sukstorf">
+</head><body class="nav-fixed">{% endif %}
 
 
 <link rel="stylesheet" href="../../../styles.css">

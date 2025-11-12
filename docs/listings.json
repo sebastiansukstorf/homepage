@@ -1,12 +1,5 @@
 [
   {
-    "listing": "/blog.html",
-    "items": [
-      "/posts/blog/post-with-code/index.html",
-      "/posts/blog/welcome/index.html"
-    ]
-  },
-  {
     "listing": "/publication.html",
     "items": [
       "/posts/publication/Haufe/index.html",
@@ -19,6 +12,13 @@
       "/posts/portfolio/DT/index.html",
       "/posts/portfolio/BC/index.html",
       "/posts/portfolio/TM/index.html"
+    ]
+  },
+  {
+    "listing": "/blog.html",
+    "items": [
+      "/posts/blog/post-with-code/index.html",
+      "/posts/blog/welcome/index.html"
     ]
   },
   {

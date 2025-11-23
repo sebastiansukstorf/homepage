@@ -1,28 +1,25 @@
 [
   {
-<<<<<<< HEAD
-=======
-    "listing": "/publication.html",
-    "items": [
-      "/posts/publication/ambiguitaet/index.html",
-      "/posts/publication/Haufe/index.html",
-      "/posts/publication/tm/index.html"
-    ]
-  },
-  {
-    "listing": "/portfolio.html",
-    "items": [
-      "/posts/portfolio/DT/index.html",
-      "/posts/portfolio/BC/index.html",
-      "/posts/portfolio/TM/index.html"
-    ]
-  },
-  {
->>>>>>> b27e14757d176eafc9b522950f4b9205526a2286
     "listing": "/blog.html",
     "items": [
       "/posts/blog/post-with-code/index.html",
       "/posts/blog/welcome/index.html"
+    ]
+  },
+  {
+    "listing": "/projects.html",
+    "items": [
+      "/posts/projects/3_bibliothek/index.html",
+      "/posts/projects/2_lernraum/index.html",
+      "/posts/projects/1_head_of_LuD/index.html",
+      "/posts/projects/8_teamcoaching/index.html",
+      "/posts/projects/9_reorga_coaching/index.html",
+      "/posts/projects/4_kinderprogrammarbeit/index.html",
+      "/posts/projects/5_IT_Reorga/index.html",
+      "/posts/projects/7_trainerfortbildung/index.html",
+      "/posts/projects/6_fuehrung_orga/index.html",
+      "/posts/projects/10_hochschule/index.html",
+      "/posts/projects/11_relaunch_design_thinking/index.html"
     ]
   },
   {
@@ -41,19 +38,19 @@
     ]
   },
   {
-    "listing": "/projects.html",
+    "listing": "/publication.html",
     "items": [
-      "/posts/projects/3_bibliothek/index.html",
-      "/posts/projects/2_lernraum/index.html",
-      "/posts/projects/1_head_of_LuD/index.html",
-      "/posts/projects/8_teamcoaching/index.html",
-      "/posts/projects/9_reorga_coaching/index.html",
-      "/posts/projects/4_kinderprogrammarbeit/index.html",
-      "/posts/projects/5_IT_Reorga/index.html",
-      "/posts/projects/7_trainerfortbildung/index.html",
-      "/posts/projects/6_fuehrung_orga/index.html",
-      "/posts/projects/10_hochschule/index.html",
-      "/posts/projects/11_relaunch_design_thinking/index.html"
+      "/posts/publication/ambiguitaet/index.html",
+      "/posts/publication/Haufe/index.html",
+      "/posts/publication/tm/index.html"
+    ]
+  },
+  {
+    "listing": "/portfolio.html",
+    "items": [
+      "/posts/portfolio/DT/index.html",
+      "/posts/portfolio/BC/index.html",
+      "/posts/portfolio/TM/index.html"
     ]
   }
 ]

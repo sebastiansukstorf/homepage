@@ -1,0 +1,64 @@
+---
+title: "Organisation und Durchführung von Workshops zur 'Lernraumgestaltung und Lernatmosphäre'"
+subtitle: "Projektleiter für Design Thinking Workshops zur Prototypentwicklung in der Erwachsenenbildung"
+description: "Workshops zur Lernraumgestaltung mit Design Thinking, Erstellung von Anforderungskarten und Stimmungsbildern für Bildungsräume."
+date: "2022-09-02"
+draft: false
+categories: [
+            VHS Hamburg,
+            Erwachsenenbildung Hamburg,
+            Lernraumgestaltung,
+            Lernatmosphäre,
+            partizipative Workshops,
+            Prototypenentwicklung,
+            Design Thinking Workshop,
+            Schulbau Hamburg,
+            Funktionselemente,
+            Anforderungskarten,
+            Stimmungsbilder,
+            Projektleitung,
+            Kartenabfrage,
+            Feedback-Workshops,
+            Prototypentwicklung,
+            Manual Erstellung,
+            Bildungsprojekte Hamburg,
+            Weiterbildung Hamburg,
+            Erwachsenenbildung Prototypen,
+            Kursleiter Workshops
+            ]
+#image: "teilnehmende.jpeg"
+---
+
+![Teilnehmende Workshop 'Lernraumgestaltung und Lernatmosphäre vom 02. September 2022](teilnehmende.jpeg){fig-alt="Teilnehmende vom Workshop vom 02. September 2022" fig-align="left" width=80%}
+
+## Auftraggeber & Branche
+
+VHS Hamburg - Erwachsenenbildung, Hamburg
+
+## Ausgangslage
+
+Gesucht wurde ein externer Projektleiter für die Organisation und Durchführung von partizipativen Workshops im Projekt „Lernraumgestaltung und Lernatmosphäre“ zur Gestaltung von Prototypen der VHS Hamburg.
+
+## Inhalte
+
+* Organisation und Durchführung eines Design Thinking Workshop mit der Projektgruppe (KursleiterInnen und Teilnehmende, VHS-MitarbeiterInnen und Schulbau Hamburg) mit 28 Teilnehmern
+* Formulierung von Anforderungskarten und Ableitung der Kategorisierung für Funktionselemente
+  + Stehen / Gehen / Bewegen​
+  + Sitzen / Schreiben / Lesen​
+  + Verweilen / Warten​
+  + Informieren / Fragen / Zuhören​
+  + Diskutieren / Austauschen​
+  + Ausprobieren / Gestalten / Erstellen
+* Erstellung von Stimmungsbildern für die zukünftigen Funktionselemente in den Zonen 
+  + Foyer, 
+  + Aufenthalt und 
+  + Seminar
+* Konzeptionelle Begleitung der Projektleitung. Erste Sichtung der Ergebnisse aus der Kartenabfrage aus VHS. Zuordnung der Ergebnisse zu einzelnen Funktionselementen. Ableiten von relevanten Inhalten für das Manual (mit VHS Vertretern)
+* Organisation und Durchführung von Feedback-Workshops zur Prototypentwicklung. Präsentation der Anforderungskarten durch Kernteam mit den Architekten. Vorstellung der definierten Inhalte zur Manual Erstellung für VHS Standorte
+
+
+## Projektdauer
+
+- Projektstart: 09/2022
+- Projektende: 11/2022
+- Laufzeit: 3 Monate

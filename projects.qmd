@@ -3,8 +3,8 @@ title: "Projekte"
 
 subtitle: "Projektverzeichnis von Beratungsprojekten"
 listing:
-  contents: posts/projects/
-  sort: "date desc"
+  contents: "posts/projects/*/index.qmd"   # <-- WICHTIG: nur index.qmd einbinden
+  sort: "date desc"          
   type: default
   categories: false
   sort-ui: false

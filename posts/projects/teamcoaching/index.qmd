@@ -1,0 +1,43 @@
+---
+title: "Teamcoaching für Steuerberaterkanzlei / Steuerberatung"
+subtitle: "Begleitung und Coaching zur Weiterentwicklung des Kanzleiteams"
+description: "Begleitung der Kanzleileiter zur Teamweiterentwicklung, Konkretisierung von Maßnahmen für einzelne Mitarbeiter, und Unterstützung sowie Coaching der Kanzleileitung in ihrer Rolle."
+author: "Sebastian Sukstorf"
+date: "2022-06-15"
+draft: false
+categories: [
+            Steuerberaterkanzlei Business Coaching,
+            Steuerberatung Kanzleiteam Entwicklung,
+            Coaching Kanzleileiter Steuerberater,
+            Handlungsmaßnahmen Mitarbeiter Steuerberater,
+            Kanzleiteam Coaching Steuerberatung,
+            Weiterentwicklung Steuerberatungsteam,
+            Coaching für Steuerberaterkanzlei,
+            Steuerberater Team Coaching,
+            Kanzleiteam Entwicklung Maßnahmen,
+            Coaching für Kanzleileitung Steuerberater
+            ]
+image: "coaching.jpeg"
+---
+
+## Auftraggeber & Branche
+
+Steuerberaterkanzlei / Steuerberatung
+
+## Ausgangslage
+
+Business Coaching für Begleitung und Coaching zur Weiterentwicklung des Kanzleiteams.
+
+## Inhalte
+
+* Begleitung der Kanzleileiter zur Weiterentwicklung des Teams
+* Konkretisierung von Handlungsmaßnahmen für einzelnen MitarbeiterInnen
+* Unterstützung und Coaching der Kanzleileitung in ihrer Rolle
+
+## Projektdauer
+
+- Projektstart: 10/2021
+- Projektende: 06/2022
+- Laufzeit: 9 Monate
+
+

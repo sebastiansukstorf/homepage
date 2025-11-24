@@ -1,0 +1,64 @@
+---
+title: "'Partizipative Kundenanalyse und Aktivierung zur Neugestaltung eines öffentlich genutzten Raums'"
+subtitle: "Partizipative Neugestaltung und Kundenaktivierung in der Kinderbibliothek (Kibi) der Zentralbibliothek"
+description: "Neugestaltung der Kibi: Fokus auf Kundenbindung, Raumoptimierung und Serviceverbesserung."
+author: "Sebastian Sukstorf"
+date: "2022-09-30"
+draft: false
+categories: [
+            Zentralbibliothek Hamburg,
+            Bücherhallen Hamburg,
+            Kinderbibliothek Neugestaltung,
+            Kibi Hamburg,
+            Kundenanalyse Kinderbibliothek,
+            Nutzerbeteiligung Bibliothek,
+            Familienbibliothek Hamburg,
+            Kitas Bibliothek Hamburg,
+            Schulen Kinderbibliothek,
+            Prototypentwicklung Bibliothek,
+            Partizipative Bibliotheksgestaltung,
+            Bibliotheksprojekte Hamburg,
+            Kundenaktivierung Bibliothek,
+            Personalentwicklung Bibliothek,
+            Bibliotheksservices Hamburg,
+            Kinderprogrammarbeit Bibliothek,
+            Bibliothek Raumgestaltung,
+            Kundenreisen Bibliothek,
+            Bibliotheksworkshops Hamburg,
+            Mentoring Bibliothek Hamburg,
+            Coaching Bibliothek Hamburg,
+            Positive Kundenerlebnisse Bibliothek,
+            Teamwork Bibliothek,
+            Design Thinking Bibliothek,
+            Bibliotheksentwicklung Hamburg
+            ]
+image: "wordcloud.png"
+---
+
+![Wordcloud der Kundenanforderungen an die Kinderbibliothek (powered by R)](wordcloud.png){fig-alt="Wordcloud Kundenanforderungen Kinderbibliothek (powered by R)" fig-align="center" width=100%}
+
+## Auftraggeber & Branche
+
+Zentralbibliothek Hamburg, Bücherhallen
+
+## Ausgangslage
+
+Externer Projektleiter für die partizipative Kundenanalyse und -aktivierung in der Zentralbibliothek: Kinderbibliothek (Kibi) mit den folgenden inhaltlichen Themenschwerpunkte:
+
+* Aktuelle Situation in der Kinderbibliothek
+* Ideenfindung und Kunden-Reisen zur Neugestaltung
+* Prototypentwicklung für die Neugestaltung Kibi
+
+## Inhalte
+
+* Die Neugestaltung der Kinderbibliothek (Kibi) soll durch partizipative Elemente (Nutzerbeteiligung) mit Kundengruppen gestaltet werden
+* Als die wesentlichen Kundengruppen für die Kibi werden Familien, Kitas und Schulen beschrieben
+* Um Raumangebot, Services der Kinderbibliothek und die Bedürfnisse der Zielgruppen konkret zu identifizieren und in die Neugestaltung der Kibi einzubeziehen, will die Zentralbibliothek ihre Ausrichtung gemeinsam mit den Zielgruppen der Kibi überprüfen. 
+* Der Publikumsbetrieb will deswegen die Kunden stärker in den Fokus nehmen und eine Kundenanalyse durchführen, um zukünftig positive Kundenerlebnisse zu gestalten
+* Definition von Unterstützungsmaßnahmen und Förderungen für einzelne Mitarbeiter*innen zur Kundenaktivierung (Personalentwicklungsmaßnahmen, wie z.B.: Mentoring, kollegiale Beratung oder Coaching)
+
+## Projektdauer
+
+- Projektstart: 11/2021
+- Projektende: 09/2022
+- Laufzeit: 10 Monate

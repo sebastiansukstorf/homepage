@@ -2,7 +2,7 @@
 title: "Vorträge"
 subtitle: "Vorträge und Präsentationen"
 listing:
-  contents: posts/presentation/
+  contents: "posts/presentation/*/index.qmd"
   sort: "date desc"
   type: grid
   categories: false

@@ -1,9 +1,33 @@
 [
   {
-    "listing": "/blog.html",
+    "listing": "/portfolio.html",
     "items": [
-      "/posts/blog/post-with-code/index.html",
-      "/posts/blog/welcome/index.html"
+      "/posts/portfolio/DT/index.html",
+      "/posts/portfolio/BC/index.html",
+      "/posts/portfolio/TM/index.html"
+    ]
+  },
+  {
+    "listing": "/publication.html",
+    "items": [
+      "/posts/publication/ambiguitaet/index.html",
+      "/posts/publication/Haufe/index.html",
+      "/posts/publication/tm/index.html"
+    ]
+  },
+  {
+    "listing": "/presentation.html",
+    "items": [
+      "/posts/presentation/HRM/index.html",
+      "/posts/presentation/Leadership_Change/index.html",
+      "/posts/presentation/Supertalent/index.html",
+      "/posts/presentation/Wissensmanagement/index.html",
+      "/posts/presentation/TM/index.html",
+      "/posts/presentation/SPP/index.html",
+      "/posts/presentation/MEG/index.html",
+      "/posts/presentation/PM/index.html",
+      "/posts/presentation/PM_Industrie/index.html",
+      "/posts/presentation/Fundraising/index.html"
     ]
   },
   {
@@ -20,37 +44,6 @@
       "/posts/projects/fuehrung_orga/index.html",
       "/posts/projects/hochschule/index.html",
       "/posts/projects/relaunch_design_thinking/index.html"
-    ]
-  },
-  {
-    "listing": "/presentation.html",
-    "items": [
-      "/posts/presentation/1_HRM/index.html",
-      "/posts/presentation/2_Leadership_Change/index.html",
-      "/posts/presentation/3_Supertalent/index.html",
-      "/posts/presentation/5_Wissensmanagement/index.html",
-      "/posts/presentation/6_TM/index.html",
-      "/posts/presentation/7_SPP/index.html",
-      "/posts/presentation/8_MEG/index.html",
-      "/posts/presentation/9_PM/index.html",
-      "/posts/presentation/10_PM_Industrie/index.html",
-      "/posts/presentation/11_Fundraising/index.html"
-    ]
-  },
-  {
-    "listing": "/publication.html",
-    "items": [
-      "/posts/publication/ambiguitaet/index.html",
-      "/posts/publication/Haufe/index.html",
-      "/posts/publication/tm/index.html"
-    ]
-  },
-  {
-    "listing": "/portfolio.html",
-    "items": [
-      "/posts/portfolio/DT/index.html",
-      "/posts/portfolio/BC/index.html",
-      "/posts/portfolio/TM/index.html"
     ]
   }
 ]

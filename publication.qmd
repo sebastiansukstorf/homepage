@@ -2,7 +2,7 @@
 title: "Publikationen"
 subtitle: "Manuskripte und Fachbuch"
 listing:
-  contents: posts/publication/
+  contents: "posts/publication/*/index.qmd"
   sort: "date desc"
   type: default
   categories: false

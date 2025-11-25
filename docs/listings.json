@@ -1,5 +1,6 @@
 [
   {
+<<<<<<< HEAD
     "listing": "/portfolio.html",
     "items": [
       "/posts/portfolio/DT/index.html",
@@ -10,15 +11,32 @@
   {
     "listing": "/publication.html",
     "items": [
+=======
+    "listing": "/publication.html",
+    "items": [
+>>>>>>> ab238f347d976fd403a1197965172eff9bb5ba89
       "/posts/publication/ambiguitaet/index.html",
       "/posts/publication/Haufe/index.html",
       "/posts/publication/tm/index.html"
     ]
   },
   {
+<<<<<<< HEAD
     "listing": "/presentation.html",
     "items": [
       "/posts/presentation/KomMig/index.html",
+=======
+    "listing": "/portfolio.html",
+    "items": [
+      "/posts/portfolio/DT/index.html",
+      "/posts/portfolio/BC/index.html",
+      "/posts/portfolio/TM/index.html"
+    ]
+  },
+  {
+    "listing": "/presentation.html",
+    "items": [
+>>>>>>> ab238f347d976fd403a1197965172eff9bb5ba89
       "/posts/presentation/HRM/index.html",
       "/posts/presentation/Leadership_Change/index.html",
       "/posts/presentation/Supertalent/index.html",
@@ -28,8 +46,12 @@
       "/posts/presentation/MEG/index.html",
       "/posts/presentation/PM/index.html",
       "/posts/presentation/PM_Industrie/index.html",
+<<<<<<< HEAD
       "/posts/presentation/Fundraising/index.html",
       "/posts/presentation/stadt-motive-werte/index.html"
+=======
+      "/posts/presentation/Fundraising/index.html"
+>>>>>>> ab238f347d976fd403a1197965172eff9bb5ba89
     ]
   },
   {

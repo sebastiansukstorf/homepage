@@ -20,3 +20,6 @@ __pycache__/
 
 .github/workflows/_publish.yml
 .github/workflows/_static.yml
+
+/.quarto/
+**/*.quarto_ipynb

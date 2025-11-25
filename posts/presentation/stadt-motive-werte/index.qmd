@@ -2,6 +2,7 @@
 title: "Einflüsse von Persönlichkeiten auf Governance-Strukturen"
 subtitle: "Tripple-CEO-Zirkeltagung der Stadtmanufaktur GmbH, Hamburg"
 description: "Impulsvortrag auf der Tripple-CEO-Zirkeltagung zu den Einflüssen von Persönlichkeiten, Motiven und Werten auf Governance-Strukturen. Warum innere Antriebe eine zentrale Ergänzung der klassischen Stakeholder-Analyse sind – für bessere Abstimmung, Kommunikation und Zusammenarbeit in der Stadtentwicklung."
+author: "Sebastian Sukstorf"
 date: "2025-11-17"
 categories: [
             Governance,
@@ -12,7 +13,7 @@ categories: [
             ]
 ---
 
-![Tripple-CEO-Zirkeltagung Quelle: Jörg Modrow (https://joergmodrow.com/)](stadt-motive-werte.jpeg){fig-align="center" width="50%" fig-caption="Quelle: Jörg Modrow (https://joergmodrow.com/)"}
+![Tripple-CEO-Zirkeltagung Quelle: Jörg Modrow (https://joergmodrow.com/)](stadt-motive-werte.jpeg){fig-align="center" width="50%" fig-caption="Tripple-CEO-Zirkeltagung Quelle: Jörg Modrow (https://joergmodrow.com/)"}
 
 
 ## Einflüsse von Persönlichkeiten auf Governance-Strukturen

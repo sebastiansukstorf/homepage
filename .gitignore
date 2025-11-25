@@ -1,3 +1,18 @@
-/.quarto/
-**/*.quarto_ipynb
+# macOS
 .DS_Store
+*/.DS_Store
+
+# Quarto lokales Build-Zeug (nicht docs!)
+_site/
+.quarto/
+*_files/
+*_cache/
+
+# Editor / IDE
+.vscode/
+.Rhistory
+.Rproj.user/
+
+# Python/Jupyter optional
+__pycache__/
+.ipynb_checkpoints/

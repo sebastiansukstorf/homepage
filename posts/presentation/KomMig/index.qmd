@@ -2,7 +2,7 @@
 title: "Abschlussveranstaltung im Spiegelsaal"
 subtitle: "Inklusion gestalten mit KomMig"
 description: "Abschlussevent des Projekts „Inklusion gestalten mit KomMig“ im Spiegelsaal: Ein inspirierender Abend, an dem migrantische Organisationen ihre Perspektiven, Herausforderungen und Stärken sichtbar machten. Einblicke in gelingende Zusammenarbeit, Teilhabe und die Weiterentwicklung inklusiver Strukturen."
-author: "Sebastian Sukstorf"
+author: "Sebastian Sukstorf"    
 date: "2025-11-06"
 categories: [
             Inklusion,

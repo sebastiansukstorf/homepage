@@ -1,13 +1,5 @@
 [
   {
-    "listing": "/publication.html",
-    "items": [
-      "/posts/publication/ambiguitaet/index.html",
-      "/posts/publication/Haufe/index.html",
-      "/posts/publication/tm/index.html"
-    ]
-  },
-  {
     "listing": "/portfolio.html",
     "items": [
       "/posts/portfolio/DT/index.html",
@@ -16,8 +8,17 @@
     ]
   },
   {
+    "listing": "/publication.html",
+    "items": [
+      "/posts/publication/ambiguitaet/index.html",
+      "/posts/publication/Haufe/index.html",
+      "/posts/publication/tm/index.html"
+    ]
+  },
+  {
     "listing": "/presentation.html",
     "items": [
+      "/posts/presentation/stadt-motive-werte/index.html",
       "/posts/presentation/KomMig/index.html",
       "/posts/presentation/HRM/index.html",
       "/posts/presentation/Leadership_Change/index.html",
@@ -28,8 +29,7 @@
       "/posts/presentation/MEG/index.html",
       "/posts/presentation/PM/index.html",
       "/posts/presentation/PM_Industrie/index.html",
-      "/posts/presentation/Fundraising/index.html",
-      "/posts/presentation/stadt-motive-werte/index.html"
+      "/posts/presentation/Fundraising/index.html"
     ]
   },
   {

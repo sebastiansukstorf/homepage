@@ -16,3 +16,7 @@ _site/
 # Python/Jupyter optional
 __pycache__/
 .ipynb_checkpoints/
+
+
+.github/workflows/_publish.yml
+.github/workflows/_static.yml

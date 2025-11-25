@@ -1,6 +1,7 @@
 [
   {
 <<<<<<< HEAD
+<<<<<<< HEAD
     "listing": "/portfolio.html",
     "items": [
       "/posts/portfolio/DT/index.html",
@@ -9,6 +10,8 @@
     ]
   },
   {
+=======
+>>>>>>> a22ec93091bd3c41bfd5a123669c9f328e2cbe84
     "listing": "/publication.html",
     "items": [
 =======
@@ -22,6 +25,17 @@
   },
   {
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+    "listing": "/portfolio.html",
+    "items": [
+      "/posts/portfolio/DT/index.html",
+      "/posts/portfolio/BC/index.html",
+      "/posts/portfolio/TM/index.html"
+    ]
+  },
+  {
+>>>>>>> a22ec93091bd3c41bfd5a123669c9f328e2cbe84
     "listing": "/presentation.html",
     "items": [
       "/posts/presentation/KomMig/index.html",

@@ -1,65 +1,23 @@
 ---
-title: "Fundraising Workshops für NGOs"
-subtitle: "Veranstalter: Freiwilligenzentrum Hamburg"
-description: "Grundlagen des Fundraisings, einschließlich Begriffsbestimmungen, ethische Überlegungen, Managementprinzipien, Qualifikationsanforderungen, Fundraisingmethoden und Märkte im Fundraising, sowie die Bereitschaft der Organisation und die Gestaltung von Beziehungsnetzwerken."
-date: "2004-06-12"
+title: "Einflüsse von Persönlichkeiten auf Governance-Strukturen"
+subtitle: "Tripple-CEO-Zirkeltagung der Stadtmanufaktur GmbH, Hamburg"
+description: "Impulsvortrag auf der Tripple-CEO-Zirkeltagung zu den Einflüssen von Persönlichkeiten, Motiven und Werten auf Governance-Strukturen. Warum innere Antriebe eine zentrale Ergänzung der klassischen Stakeholder-Analyse sind – für bessere Abstimmung, Kommunikation und Zusammenarbeit in der Stadtentwicklung."
+date: "2025-11-17"
 categories: [
-            Grundlagen des Fundraisings,
-            Fundraising Begriffsbestimmungen,
-            Ethische Überlegung im Fundraising,
-            Managementprinzipien Fundraising,
-            Fundraising Würfel,
-            Organisationsbereitschaft im Fundraising,
-            Leitbild reflektieren,
-            Organisationale Beziehungsnetzwerke,
-            Persönliche Beziehungsnetzwerke,
-            Qualifikationsanforderungen Fundraiser,
-            Fundraising Märkte,
-            Förderer bestimmen,
-            Telefoninterviews im Fundraising,
-            Fundraising Privatpersonen,
-            Fundraisingmethoden,
-            Fundraising Gespräch,
-            Spendenbrief erstellen,
-            Spenderbindung,
-            Fundraising bei Unternehmen,
-            Projektskizze für Fundraising,
-            Sponsorenansprache,
-            Sponsorenverträge,
-            Fundraising und Stiftungen
+            Governance,
+            Stadtentwicklung,
+            Stakeholder-Analyse,
+            Führung & Organisation,
+            Motive & Werte
             ]
 ---
 
-![Fundraising Workshops für NGOs](fundraising.png){fig-alt="Fundraising Workshops für NGOs" fig-align="center" width=50%}
+![Tripple-CEO-Zirkeltagung](stadt-motive-werte.jpeg){fig-alt="Tripple-CEO-Zirkeltagung.**Quelle:** Jörg Modrow (https://joergmodrow.com/)." fig-align="center" width=50%}
 
-## Inhalte
+## Einflüsse von Persönlichkeiten auf Governance-Strukturen
 
-* Grundlagen des Fundraisings
-  + Begriffsbestimmungen
-  + Ethische Überlegung im Fundraising
-  + Managementprinzipien im Fundraising: Der Fundraising Würfel
-* Bereitschaft der Organisation
-  + Leitbild reflektieren und bestimmen 
-  + Organisationale und persönliche Beziehungsnetzwerke verstehen und gestalten
-* Qualifikationsanforderungen an den Fundraiser
-* “Märkte” im Fundraising
-  + Förderer bestimmen und Telefoninterviews
-  + Privatpersonen
-* Fundraisingmethoden
-  + Fundraising Gespräch, Spendenbrief, Spenderbindung
-  + Fundraising bei Unternehmen: Projektskizze, Sponsorenansprache und Sponsorenverträge, Fundraising und Stiftungen
+Ich konnte am ersten Tag der Tripple-CEO-Zirkeltagung einen Impuls zum Thema „Einflüsse von Persönlichkeiten auf Governance-Strukturen – Motive und Werte als Erweiterung der Stakeholder- und Akteursanalyse“ geben. 
 
-## Teilnehmer Feedback
+Dabei habe ich aufgezeigt, wie unterschiedlich Persönlichkeitstypen, Motive (Leistung, Macht, Anschluss) und Werte (wie Autonomie, Fairness und Nachhaltigkeit) das Handeln und die Zusammenarbeit von Akteuren in der Stadtentwicklung und Stadtorganisationen prägen.
 
-> “Insgesamt wurde ein guter Überblick vermittelt. Besonders gut fand ich die praktischen Übungen, diese könnte es mehr geben."
-
-> “Der Ansatz zwischen Informationen und Praxisübungen.”
-
-> “Saubere Theorie, frisch und einfallsreich rübergebracht.”
-
-
-
-
-
-
-
+Im Mittelpunkt stand die Erkenntnis, dass Motive und Werte eine entscheidende Erweiterung der klassischen Stakeholder-Analyse darstellen. Das Verständnis dieser Dynamiken hilft uns, Ziele besser aufeinander abzustimmen und Kommunikation zielgerichteter zu gestalten. Das Erkennen dieser inneren Antriebe und Orientierungssysteme führt zu mehr Resonanz und Zusammenarbeit in komplexen sozialen und organisatorischen Prozessen.

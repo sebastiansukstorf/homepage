@@ -4,13 +4,13 @@ subtitle: "Inklusion gestalten mit KomMig"
 description: "Abschlussevent des Projekts „Inklusion gestalten mit KomMig“ im Spiegelsaal: Ein inspirierender Abend, an dem migrantische Organisationen ihre Perspektiven, Herausforderungen und Stärken sichtbar machten. Einblicke in gelingende Zusammenarbeit, Teilhabe und die Weiterentwicklung inklusiver Strukturen."
 date: "2025-11-06"
 categories: [
-            "Inklusion",
-            "Partizipation",
-            "Migrantische Organisationen",
-            "Projektarbeit",
-            "Veranstaltungen",
-            "Soziale Innovation",
-            "Teilhabe"
+            Inklusion,
+            Partizipation,
+            Migrantische Organisationen,
+            Projektarbeit,
+            Veranstaltungen,
+            Soziale Innovation,
+            Teilhabe
             ]
 ---
 

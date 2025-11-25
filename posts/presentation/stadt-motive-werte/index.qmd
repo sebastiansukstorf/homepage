@@ -5,16 +5,15 @@ description: "Impulsvortrag auf der Tripple-CEO-Zirkeltagung zu den Einflüssen 
 author: "Sebastian Sukstorf"
 date: "2025-11-17"
 categories: [
-            Governance,
-            Stadtentwicklung,
-            Stakeholder-Analyse,
-            Führung & Organisation,
-            Motive & Werte
+            "Governance",
+            "Stadtentwicklung",
+            "Stakeholder-Analyse",
+            "Führung & Organisation",
+            "Motive & Werte"
             ]
 ---
 
 ![Tripple-CEO-Zirkeltagung Quelle: Jörg Modrow (https://joergmodrow.com/)](stadt-motive-werte.jpeg){fig-align="center" width="50%" fig-alt="Tripple-CEO-Zirkeltagung Quelle: Jörg Modrow (https://joergmodrow.com/)"}
-
 
 ## Einflüsse von Persönlichkeiten auf Governance-Strukturen
 

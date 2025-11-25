@@ -13,7 +13,7 @@ categories: [
             ]
 ---
 
-![Tripple-CEO-Zirkeltagung Quelle: Jörg Modrow (https://joergmodrow.com/)](stadt-motive-werte.jpeg){fig-align="center" width="50%" fig-alt="Tripple-CEO-Zirkeltagung Quelle: Jörg Modrow (https://joergmodrow.com/)"}
+![Tripple-CEO-Zirkeltagung (Quelle: Jörg Modrow - https://joergmodrow.com/](stadt-motive-werte.jpeg){fig-align="center" width="50%" fig-alt="Tripple-CEO-Zirkeltagung Quelle: Jörg Modrow (https://joergmodrow.com/)"}
 
 ## Einflüsse von Persönlichkeiten auf Governance-Strukturen
 

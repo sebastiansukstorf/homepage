@@ -15,7 +15,7 @@ categories: [
             ]
 ---
 
-![Abschlussveranstaltung im Spiegelsaal](kommig.jpeg){fig-alt="Abschlussveranstaltung im Spiegelsaal" fig-align="center" width=50%}
+![Abschlussveranstaltung im Spiegelsaal](kommig.jpeg){fig-alt="Abschlussveranstaltung im Spiegelsaal" fig-align="center" width=70%}
 
 ## Abschlussveranstaltung im Spiegelsaal
 

@@ -1,36 +1,45 @@
-/* ============================================
-   GLOBAL LEFT ALIGNMENT
-   ============================================ */
+/* ================================
+   LINKS AUSRICHTUNG FÜR DIE SEITE
+   ================================ */
 
-/* Gesamten Seiteninhalt linksbündig */
-.content {
+/* gesamter Hauptinhalt linksbündig */
+.page-columns .content {
+  text-align: left !important;
+}
+
+/* auch freie Abschnitte links */
+.page-columns {
   text-align: left !important;
 }
 
 /* Überschriften linksbündig */
-h1, h2, h3, h4, h5, h6 {
+.page-columns h1,
+.page-columns h2,
+.page-columns h3,
+.page-columns h4,
+.page-columns h5,
+.page-columns h6 {
   text-align: left !important;
 }
 
-/* Absätze linksbündig */
-p {
+/* Absätze links */
+.page-columns p {
   text-align: left !important;
 }
 
-/* Listen linksbündig */
-ul, ol {
+/* Listen links */
+.page-columns ul,
+.page-columns ol {
   text-align: left !important;
 }
 
-/* ============================================
-   ABOUT / TITLE IMAGE (JOLLA TEMPLATE)
-   ============================================ */
-
-/* Das Portrait-Bild im Header */
-.quarto-title-block .quarto-title-banner img,
-.quarto-about-tile .about-image img {
-    max-width: 600px;
-    height: auto;
-    display: block;
-    margin-left: 0;   /* links ausgerichtet, nicht zentriert */
+/* ================================
+   OPTIONAL: Bild im Header zentriert lassen
+   ================================ */
+.quarto-title-block .quarto-title-banner img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  max-width: 300px;
+  border-radius: 50%;
 }

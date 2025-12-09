@@ -3,19 +3,13 @@ title: "Sebastian Sukstorf"
 image: sebastian-sukstorf.png
 about:
   template: jolla
-  title: "Klarheit. Kreativität. Wirkung."
-  description: |
-    Ich unterstütze Führungskräfte, Teams und Organisationen dabei, mit Klarheit,
-    Kreativität und Humor wirksamer zusammenzuarbeiten. Ich mache komplexe
-    Themen leicht – und Menschen stark.
-  links:
-   # - icon: envelope
-   #   text: E-Mail
-   #   href: mailto:
-   # - icon: linkedin
-   #   text: LinkedIn
-   #   href: https://www.linkedin.com
 ---
+
+# Klarheit. Kreativität. Wirkung.  
+### Coaching, Moderation & Lernen für Führung, Teams und Organisationen
+
+Ich unterstütze Führungskräfte, Teams und Organisationen dabei, mit Klarheit, Kreativität  
+und Humor wirksamer zusammenzuarbeiten. Ich mache komplexe Themen leicht – und Menschen stark.
 
 ## Was ich verbinde
 
@@ -29,41 +23,30 @@ In meiner Arbeit kommen zusammen:
 So entstehen Räume, in denen Menschen offen sprechen, gemeinsam nachdenken  
 und Veränderungen konstruktiv gestalten können.
 
----
-
 ## Meine Schwerpunkte
 
 ### Coaching & Führung
-
 - Leadership Coaching für neue und erfahrene Führungskräfte  
 - Reflexion von Rolle, Wirkung, Kommunikation und Entscheidungen  
 - Teamcoaching und Moderation von Konflikten und schwierigen Gesprächen  
 
 ### Workshops & Veränderung
-
 - Teamtage zu Zusammenarbeit, Vertrauen und Feedbackkultur  
 - Design-Thinking-Workshops zur kreativen Problemlösung  
 - Moderation von Strategie- und Klausurtagungen  
 
 ### Lernen, Sprache & Humor
-
 - Konzeption von Lernprogrammen und Blended-Learning-Formaten  
 - Storytelling und Text-Coaching für Führung und Veränderung  
 - Humorvolle Impulse, Lesungen und Auftritte für Erwachsene  
 
----
-
 ## Für wen ich arbeite
-
 - Unternehmen, die Führung und Zusammenarbeit stärken wollen  
 - Hochschulen und Bildungseinrichtungen  
 - Öffentliche Verwaltungen und Non-Profit-Organisationen  
 - Teams, die vor Veränderungen stehen oder „wieder miteinander ins Gespräch kommen“ wollen
 
----
-
-## Wie ich arbeite
-
+## Wie ich arbeite  
 **Klar. Wertschätzend. Humorvoll.**
 
 Ich arbeite:
@@ -72,5 +55,6 @@ Ich arbeite:
 - partizipativ und dialogisch  
 - praxisnah und mit viel Gespür für Sprache, Atmosphäre und Dynamik  
 
-Wenn Sie ein Anliegen haben und prüfen möchten, ob ich der passende Begleiter bin,  
-schreiben Sie mir gern eine kurze Mail – der nächste Schritt ist ein unverbindliches Gespräch.
+Wenn Sie prüfen möchten, ob ich der passende Begleiter für Ihr Anliegen bin,  
+schreiben Sie mir gern.  
+Der nächste Schritt ist ein unverbindliches Gespräch.

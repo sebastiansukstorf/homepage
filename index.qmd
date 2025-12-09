@@ -1,15 +1,76 @@
 ---
 title: "Sebastian Sukstorf"
-
 image: sebastian-sukstorf.png
 about:
-  template: jolla    
+  template: jolla
+  title: "Klarheit. Kreativität. Wirkung."
+  description: |
+    Ich unterstütze Führungskräfte, Teams und Organisationen dabei, mit Klarheit,
+    Kreativität und Humor wirksamer zusammenzuarbeiten. Ich mache komplexe
+    Themen leicht – und Menschen stark.
+  links:
+   # - icon: envelope
+   #   text: E-Mail
+   #   href: mailto:
+   # - icon: linkedin
+   #   text: LinkedIn
+   #   href: https://www.linkedin.com
 ---
 
-Ich verbinde Kreativität und strategische Beratung.
+## Was ich verbinde
 
-Design Thinking und partizipative Gestaltung. Prototypentwicklung durch partizipative Prozesse. Fokus auf Nutzerbedürfnisse und Stakeholder-Management.
+Ich verbinde **Kreativität, Sprache und systematische Beratung**.  
+In meiner Arbeit kommen zusammen:
 
-Talentmanagement und HR-Strategie. Lösungen für Aus- und Weiterbildung. HR-Strategien und Personalentwicklung im nationalen und internationalen Kontext.
+- psychologisch fundiertes Leadership- und HR-Wissen  
+- Design Thinking und partizipative Gestaltung  
+- Moderation, Humor und klare Sprache  
 
-Führungskräfteentwicklung und Business Coaching. Change Management gestalten und Führung ermöglichen.
+So entstehen Räume, in denen Menschen offen sprechen, gemeinsam nachdenken  
+und Veränderungen konstruktiv gestalten können.
+
+---
+
+## Meine Schwerpunkte
+
+### Coaching & Führung
+
+- Leadership Coaching für neue und erfahrene Führungskräfte  
+- Reflexion von Rolle, Wirkung, Kommunikation und Entscheidungen  
+- Teamcoaching und Moderation von Konflikten und schwierigen Gesprächen  
+
+### Workshops & Veränderung
+
+- Teamtage zu Zusammenarbeit, Vertrauen und Feedbackkultur  
+- Design-Thinking-Workshops zur kreativen Problemlösung  
+- Moderation von Strategie- und Klausurtagungen  
+
+### Lernen, Sprache & Humor
+
+- Konzeption von Lernprogrammen und Blended-Learning-Formaten  
+- Storytelling und Text-Coaching für Führung und Veränderung  
+- Humorvolle Impulse, Lesungen und Auftritte für Erwachsene  
+
+---
+
+## Für wen ich arbeite
+
+- Unternehmen, die Führung und Zusammenarbeit stärken wollen  
+- Hochschulen und Bildungseinrichtungen  
+- Öffentliche Verwaltungen und Non-Profit-Organisationen  
+- Teams, die vor Veränderungen stehen oder „wieder miteinander ins Gespräch kommen“ wollen
+
+---
+
+## Wie ich arbeite
+
+**Klar. Wertschätzend. Humorvoll.**
+
+Ich arbeite:
+
+- strukturiert und zielorientiert  
+- partizipativ und dialogisch  
+- praxisnah und mit viel Gespür für Sprache, Atmosphäre und Dynamik  
+
+Wenn Sie ein Anliegen haben und prüfen möchten, ob ich der passende Begleiter bin,  
+schreiben Sie mir gern eine kurze Mail – der nächste Schritt ist ein unverbindliches Gespräch.

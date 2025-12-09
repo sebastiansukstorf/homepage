@@ -1,5 +1,21 @@
 /* css styles */
 
+/* Alles linksbündig statt zentriert */
+main.content {
+  text-align: left !important;
+}
+
+/* Überschriften linksbündig */
+h1, h2, h3, h4, h5, h6 {
+  text-align: left !important;
+}
+
+/* Absatzabstand etwas optimieren (optional) */
+p {
+  text-align: left !important;
+}
+
+
 .quarto-title-block .quarto-title-banner img {
     max-width: 600px;
     height: auto;

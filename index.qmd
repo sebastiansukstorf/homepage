@@ -3,6 +3,9 @@ title: "Sebastian Sukstorf"
 image: sebastian-sukstorf.png
 about:
   template: jolla
+format:
+  html:
+    css: styles.css
 ---
 
 # Klarheit. Kreativität. Wirkung.  

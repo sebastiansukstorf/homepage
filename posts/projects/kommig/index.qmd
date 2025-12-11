@@ -1,0 +1,52 @@
+---
+title: "Inklusion gestalten mit KomMig"
+subtitle: "Partizipativer Entwicklungsprozess zur Stärkung migrantischer Organisationen im Bereich Inklusion"
+description: "Ein partizipatives Entwicklungsprojekt zur Unterstützung migrantischer Organisationen beim Aufbau inklusiver Angebote. Durch Design Thinking, Workshopmoderation und qualitative Analysen werden Barrieren sichtbar gemacht, strukturelle Herausforderungen identifiziert und innovative Lösungsansätze entwickelt. Ziel ist ein nachhaltiger Inklusionsprozess, der Politik, Verwaltung und Zivilgesellschaft miteinander verbindet."
+author: "Sebastian Sukstorf"
+date: "2025-11-06"
+draft: false
+categories: [
+            Inklusion,
+            Partizipation,
+            Design Thinking,
+            Organisationsentwicklung,
+            Migrantische Organisationen,
+            Netzwerkentwicklung,
+            Sozial- und Bildungssektor,
+            Strategische Beratung,
+            Prozessbegleitung,
+            Workshopdesign,
+            Qualitative Analyse,
+            Stakeholder-Management
+            ]
+image: "kommig.png"
+---
+
+![Inklusion gestalten mit KomMig](kommig.png){fig-alt="Inklusion gestalten mit KomMig" fig-align="center" width=80%}
+
+## Auftraggeber & Branche
+
+Der Paritätische Wohlfahrtsverband Hamburg e.V.
+
+## Ausgangslage
+
+Externer Referent für die Konzeption und Durchführung eines partizipativen Entwicklungsprozesses zur Stärkung migrantischer Organisationen im Bereich Inklusion. Dabei arbeite ich mit heterogenen migrantischen Vereinen, Sozial- und Bildungsträgern sowie Akteuren aus Verwaltung und Politik zusammen.
+
+* Gestaltung und Moderation aller Workshops
+* methodische Begleitung mit der Design Thinking Methode
+* Analyse der Workshop Ergebnisse und der Teilnehmenden Aussagen
+* Entwicklung der strategischen Handlungsempfehlungen
+
+## Inhalte
+
+* Stärkung migrantischer Organisationen beim Aufbau inklusiver Angebote für Menschen mit Behinderung.
+* Sichtbarmachung zentraler Barrieren wie sprachliche Hürden, fehlende Zugänge und mangelnde Sensibilisierung in Institutionen.
+* Analyse struktureller Herausforderungen wie Unterfinanzierung, Bürokratie und fehlende nachhaltige Fördermodelle.
+* Entwicklung praktischer Handlungsempfehlungen und innovativer Lösungsansätze zur Verbesserung von Teilhabe.
+* Aufbau und Aktivierung eines breiten Netzwerks, das Politik, Verwaltung und Organisationen in einen gemeinsamen Inklusionsprozess einbindet.
+
+## Projektdauer
+
+- Projektstart: 06/2025
+- Projektende: 11/2025
+- Laufzeit: 5 Monat

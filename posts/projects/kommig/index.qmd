@@ -22,7 +22,7 @@ categories: [
 image: "kommig.png"
 ---
 
-![Inklusion gestalten mit KomMig](kommig.png){fig-alt="Inklusion gestalten mit KomMig" fig-align="center" width=80%}
+![Inklusion gestalten mit KomMig](kommig.png){fig-alt="Inklusion gestalten mit KomMig (Netzwerkdiagramm wurde erstellt mit Cytoscape)" fig-align="center" width=100%}
 
 ## Auftraggeber & Branche
 

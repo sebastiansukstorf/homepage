@@ -1,6 +1,5 @@
 ---
 title: "Projekte"
-
 subtitle: "Projektverzeichnis von Beratungsprojekten"
 listing:
   contents: "posts/projects/*/index.qmd"   # <-- WICHTIG: nur index.qmd einbinden

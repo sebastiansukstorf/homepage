@@ -1,18 +1,18 @@
 [
   {
-    "listing": "/publication.html",
-    "items": [
-      "/posts/publication/ambiguitaet/index.html",
-      "/posts/publication/Haufe/index.html",
-      "/posts/publication/tm/index.html"
-    ]
-  },
-  {
     "listing": "/portfolio.html",
     "items": [
       "/posts/portfolio/DT/index.html",
       "/posts/portfolio/BC/index.html",
       "/posts/portfolio/TM/index.html"
+    ]
+  },
+  {
+    "listing": "/publication.html",
+    "items": [
+      "/posts/publication/ambiguitaet/index.html",
+      "/posts/publication/Haufe/index.html",
+      "/posts/publication/tm/index.html"
     ]
   },
   {

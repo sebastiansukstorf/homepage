@@ -1,10 +1,9 @@
 ---
 title: "Portfolio"
-subtitle: "Design Thinking und partizipative Prozesse / Führungskräfteentwicklung und Business Coaching / Talentmanagement und HR-Strategie"
+subtitle: "Workshops & Moderation · Dialogische Entscheidungsbegleitung · Partizipation & Design Thinking (Projekte & Formate)"
 listing:
   contents: posts/portfolio/
-  sort: 
-    #- "date desc"
+  sort:
     - "title asc"
   type: grid
   categories: false

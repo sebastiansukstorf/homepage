@@ -1,85 +1,84 @@
 ---
-title: "Design Thinking und partizipative Prozesse"
-subtitle: "Design Thinking: Lernraumgestaltung durch partizipative Prozesse, mit Fokus auf Nutzerbedürfnisse und Stakeholder-Management"
-description: "Maßgeschneiderte Schulungen und Entwicklung von Lernräumen für Bibliotheken durch Design Thinking und partizipative Gestaltungsprozesse, mit Fokus auf Nutzerbedürfnisse und Stakeholder-Management."
+title: "Partizipative Workshops & Design Thinking"
+subtitle: "Nutzerorientierte Prozessgestaltung, Co-Creation und Lernraumkonzepte für Bibliotheken und Kulturinstitutionen"
+description: "Partizipative Workshops und Design Thinking für Bibliotheken und Kulturinstitutionen. Nutzerbedürfnisse klären, Perspektiven strukturieren, tragfähige Konzepte und Lernräume gemeinsam entwickeln."
 author: "Sebastian Sukstorf"
-date: "2020-12-13"
+date: "2025-12-15"
 categories: [
-            Design Thinking Schulungen Bibliothek,
-            Maßgeschneiderte Schulungskonzepte,
-            Didaktische Designs,
-            Online Schulungen,
-            Kundenanalysen Bibliothek Nutzerbedürfnisse,
-            Aktivierungsstrategien Bibliothek Kunden,
-            Partizipative Prozesse Bibliothek Workshops,
-            Stakeholder-Management Bibliothek Projekte,
-            Prototypen Lernraumgestaltung Bibliothek,
-            Raumprogramme Bibliothek Zukunftsanforderungen
-            ]
-#image: "Design-Thinking.jpg"
+  Design Thinking Workshops,
+  Partizipative Prozessgestaltung,
+  Co-Creation,
+  Nutzerorientierte Entwicklung,
+  Lernraumgestaltung Bibliothek,
+  Bibliothek Entwicklung,
+  Kulturinstitutionen Workshops,
+  Stakeholder Management,
+  Prototypenentwicklung,
+  Strategische Orientierung
+]
 ---
 
-![Design Thinking und Partizipative Gestaltung](Design-Thinking.jpg){fig-alt="Design Thinking und Partizipative Gestaltung" fig-align="center" width=80%}
+![Design Thinking und Partizipative Gestaltung](Design-Thinking.jpg){fig-alt="Design Thinking und partizipative Workshops" fig-align="center" width=80%}
 
-## Design Thinking Schulungen für Bibliotheken
+Bibliotheken und Kulturinstitutionen stehen vor komplexen Aufgaben: veränderte Nutzerbedürfnisse, neue Lernformate, veränderte Rollen und steigende Erwartungen an Räume, Angebote und Zusammenarbeit.
 
-### Herausforderungen
+In **partizipativen Workshops und Design-Thinking-Prozessen** begleite ich Teams dabei, diese Herausforderungen zu strukturieren, Perspektiven sichtbar zu machen und gemeinsam tragfähige Konzepte zu entwickeln.
 
-* Sie müssen die komplexen Bedürfnisse und Erwartungen der Nutzer in Bibliotheken verstehen und darauf eingehen.
-* Sie stehen vor der Herausforderung, Innovation und Kreativität in den Bibliotheksprozessen zu fördern.
-* Sie müssen sich an neue Technologien und veränderte Lernbedürfnisse der Bibliotheksbesucher anpassen.
+## Worum geht es in diesen Prozessen?
 
-### Aktivitäten
+Nicht um Schulung im klassischen Sinn, sondern um **gemeinsames Denken, Klären und Gestalten**.
 
-* Konzeption und Durchführung von Design Thinking Schulungen für Bibliothekspersonal.
-* Einbeziehung der Teilnehmer in praxisnahe Übungen und Workshops zur Anwendung von Design Thinking.
-* Entwicklung von Fallstudien und praktischen Beispielen aus der Bibliothekspraxis.
+Typische Fragestellungen sind:
+- Wie verändern sich Nutzerbedürfnisse – und was bedeutet das konkret?
+- Welche Rolle soll die Bibliothek / Einrichtung künftig einnehmen?
+- Wie lassen sich Lern- und Begegnungsräume sinnvoll weiterentwickeln?
+- Wie können Mitarbeitende und Stakeholder sinnvoll beteiligt werden?
 
-### Nutzen
+## Wie ich arbeite
 
-* Verbesserte Fähigkeit des Bibliothekspersonals, nutzerzentrierte Lösungen zu entwickeln.
-* Erhöhung der Innovationsfähigkeit und Flexibilität in der Bibliotheksarbeit.
-* Stärkere Bindung der Nutzer durch maßgeschneiderte Dienstleistungen und Räume.
-*Förderung einer offenen und kreativen Arbeitskultur in Bibliotheken.
+Ich arbeite dialogisch, strukturiert und partizipativ.
 
-## Durchführung von Präsenz- und Online-Schulungen
+Design Thinking nutze ich dabei nicht als Methode „von der Stange“, sondern als **Arbeitsweise**, um:
+- komplexe Themen zu ordnen
+- Nutzer- und Stakeholderperspektiven sichtbar zu machen
+- Optionen und Entscheidungsräume zu öffnen
+- Ideen in konkrete nächste Schritte zu übersetzen
 
-### Herausforderungen
+Visualisierung, gemeinsame Reflexion und iterative Entwicklung spielen dabei eine zentrale Rolle.
 
-* Sie stellen sicher, dass die Schulungsqualität sowohl in Präsenz- als auch in Online-Umgebungen gleichbleibend hoch ist.
-* Sie berücksichtigen die unterschiedlichen Lernpräferenzen und technischen Voraussetzungen der Teilnehmer.
-* Sie fördern eine effektive Interaktion und ein hohes Teilnehmerengagement in virtuellen Schulungssituationen.
+## Formate
 
-### Aktivitäten
+### Partizipative Workshops & Co-Creation
+- Ein- oder mehrtägige Workshops
+- mit Mitarbeitenden, Nutzer:innen und Stakeholdern
+- zur Klärung von Bedarfen, Zielen und Entwicklungslinien
 
-* Entwicklung von Schulungsinhalten und Materialien für Präsenz- und Online-Schulungen.
-* Einsatz moderner Technologien und interaktiver Methoden zur Wissensvermittlung.
-* Durchführung von praktischen Übungen und Feedbackrunden in Präsenz- und Online-Formaten.
+### Design-Thinking-Prozesse
+- strukturierte, mehrstufige Prozesse
+- von der Bedarfsklärung über Ideenentwicklung bis zur Konzeptskizze
+- angepasst an den Kontext von Bibliotheken und Kulturinstitutionen
 
-### Nutzen
+### Prototypen & Lernraumkonzepte
+- Entwicklung von Raum- und Nutzungskonzepten
+- schnelle Prototypen und Tests
+- iterative Weiterentwicklung auf Basis realer Nutzungserfahrungen
 
-* Flexibilität in der Schulungsorganisation und Erreichung eines größeren Teilnehmerkreises.
-* Zeit- und Kostenersparnis durch Reduzierung von Reiseaufwänden für Präsenzschulungen.
-* Erhöhte Lernmotivation und -effektivität durch maßgeschneiderte Schulungsangebote.
-* Nachhaltige Wissensvermittlung und langfristige Kompetenzentwicklung der Teilnehmer.
+## Was dadurch entsteht
 
-## Entwicklung von Prototypen für die Lernraumgestaltung
+- Klarheit über Nutzerbedürfnisse und Anforderungen
+- tragfähige, gemeinsam entwickelte Konzepte
+- höhere Akzeptanz durch Beteiligung
+- konkrete Handlungsfelder und nächste Schritte
+- Lern- und Begegnungsräume mit klarer Funktion und Haltung
 
-### Herausforderungen
+## Für wen ist dieses Angebot gedacht?
 
-* Sie gestalten bedarfsgerechte Lernräume unter Berücksichtigung der aktuellen pädagogischen Anforderungen.
-* Sie erstellen schnell Prototypen und implementieren diese in der Bibliothekspraxis.
-* Sie stellen die Benutzerfreundlichkeit und Funktionalität der Lernraumprototypen sicher.
+- Bibliotheken
+- Kultur- und Bildungseinrichtungen
+- Teams, die Räume, Angebote oder Prozesse weiterentwickeln möchten
+- Organisationen, die Beteiligung ernst nehmen, aber Orientierung brauchen
 
-### Aktivitäten
+## Nächster Schritt
 
-* Analyse der Nutzerbedürfnisse und Erstellung von Anforderungsprofilen für Lernräume.
-* Ideenfindung, Konzeptentwicklung und Prototypenbau in Zusammenarbeit mit Bibliotheksmitarbeitern und Nutzern.
-* Test und Evaluation der Prototypen in realen Bibliotheksumgebungen.
-
-### Nutzen
-
-* Schaffung attraktiver und funktionaler Lernumgebungen für verschiedene Zielgruppen.
-* Erhöhung der Nutzerzufriedenheit und -bindung durch maßgeschneiderte Lernraumkonzepte.
-* Förderung von Innovation und kontinuierlicher Verbesserung in Bibliotheken durch iterative Prototypenentwicklung.
-* Stärkung der Position der Bibliothek als moderner Lern- und Begegnungsort in der Community.
+Wenn Sie prüfen möchten, ob dieses Vorgehen für Ihre Fragestellung passt, schreiben Sie mir gern **2–3 Sätze zu Ihrem Kontext**.  
+Ich melde mich mit Rückfragen und einem Vorschlag für das passende Format.

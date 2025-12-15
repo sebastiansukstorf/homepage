@@ -1,6 +1,6 @@
 ---
 title: "Portfolio"
-subtitle: "Workshops & Moderation · Dialogische Entscheidungsbegleitung · Partizipation & Design Thinking (Projekte & Formate)"
+subtitle: "Workshops & Moderation · Dialogische Entscheidungsbegleitung · Partizipation & Design Thinking"
 listing:
   contents: posts/portfolio/
   sort:

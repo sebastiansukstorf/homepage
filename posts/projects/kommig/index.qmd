@@ -1,5 +1,5 @@
 ---
-title: "Inklusion gestalten mit KomMig"
+title: "Inklusion gestalten mit dem Kompetenzzentrum Migration (KomMig)"
 subtitle: "Partizipativer Entwicklungsprozess zur Stärkung migrantischer Organisationen im Bereich Inklusion"
 description: "Ein partizipatives Entwicklungsprojekt zur Unterstützung migrantischer Organisationen beim Aufbau inklusiver Angebote. Durch Design Thinking, Workshopmoderation und qualitative Analysen werden Barrieren sichtbar gemacht, strukturelle Herausforderungen identifiziert und innovative Lösungsansätze entwickelt. Ziel ist ein nachhaltiger Inklusionsprozess, der Politik, Verwaltung und Zivilgesellschaft miteinander verbindet."
 author: "Sebastian Sukstorf"

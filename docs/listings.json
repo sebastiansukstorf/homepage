@@ -1,20 +1,5 @@
 [
   {
-    "listing": "/publication.html",
-    "items": [
-      "/posts/publication/ambiguitaet/index.html",
-      "/posts/publication/Haufe/index.html",
-      "/posts/publication/tm/index.html"
-    ]
-  },
-  {
-    "listing": "/portfolio.html",
-    "items": [
-      "/posts/portfolio/DE/index.html",
-      "/posts/portfolio/DT/index.html"
-    ]
-  },
-  {
     "listing": "/presentation.html",
     "items": [
       "/posts/presentation/stadt-motive-werte/index.html",
@@ -29,6 +14,14 @@
       "/posts/presentation/PM/index.html",
       "/posts/presentation/PM_Industrie/index.html",
       "/posts/presentation/Fundraising/index.html"
+    ]
+  },
+  {
+    "listing": "/publication.html",
+    "items": [
+      "/posts/publication/ambiguitaet/index.html",
+      "/posts/publication/Haufe/index.html",
+      "/posts/publication/tm/index.html"
     ]
   },
   {

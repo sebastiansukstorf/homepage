@@ -6,8 +6,11 @@
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
+<meta name="author" content="Sebastian Sukstorf">
+<meta name="dcterms.date" content="2025-12-15">
+<meta name="description" content="Dialogische Entscheidungsbegleitung und Strukturberatung für Führungskräfte und kleine Teams. Klarheit gewinnen, komplexe Situationen ordnen, tragfähige Entscheidungen und nächste Schritte entwickeln.">
 
-<title>Portfolio – Sebastian Sukstorf</title>
+<title>Dialogische Entscheidungsbegleitung – Sebastian Sukstorf</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -30,8 +33,6 @@ ul.task-list li input[type="checkbox"] {
 <script src="site_libs/quarto-search/fuse.min.js"></script>
 <script src="site_libs/quarto-search/quarto-search.js"></script>
 <meta name="quarto:offset" content="./">
-<script src="site_libs/quarto-listing/list.min.js"></script>
-<script src="site_libs/quarto-listing/quarto-listing.js"></script>
 <script src="site_libs/quarto-html/quarto.js" type="module"></script>
 <script src="site_libs/quarto-html/tabsets/tabsets.js" type="module"></script>
 <script src="site_libs/quarto-html/axe/axe-check.js" type="module"></script>
@@ -42,7 +43,7 @@ ul.task-list li input[type="checkbox"] {
 <link href="site_libs/quarto-html/quarto-syntax-highlighting-587c61ba64f3a5504c4d52d930310e48.css" rel="stylesheet" id="quarto-text-highlighting-styles">
 <script src="site_libs/bootstrap/bootstrap.min.js"></script>
 <link href="site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="site_libs/bootstrap/bootstrap-0b37c64f34216b628666a8dac638b53b.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
+<link href="site_libs/bootstrap/bootstrap-5b4ad623e5705c0698d39aec6f10cf02.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
 <script id="quarto-search-options" type="application/json">{
   "location": "navbar",
   "copy-button": false,
@@ -70,35 +71,6 @@ ul.task-list li input[type="checkbox"] {
     "search-label": "Search"
   }
 }</script>
-<script>
-
-  window.document.addEventListener("DOMContentLoaded", function (_event) {
-    const listingTargetEl = window.document.querySelector('#listing-listing .list');
-    if (!listingTargetEl) {
-      // No listing discovered, do not attach.
-      return; 
-    }
-
-    const options = {
-      valueNames: ['listing-title','listing-author','listing-date','listing-image','listing-description',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-file-modified-sort'] }],
-      
-      searchColumns: ["listing-title","listing-author","listing-date","listing-image","listing-description"],
-    };
-
-    window['quarto-listings'] = window['quarto-listings'] || {};
-    window['quarto-listings']['listing-listing'] = new List('listing-listing', options);
-
-    if (window['quarto-listing-loaded']) {
-      window['quarto-listing-loaded']();
-    }
-  });
-
-  window.addEventListener('hashchange',() => {
-    if (window['quarto-listing-loaded']) {
-      window['quarto-listing-loaded']();
-    }
-  })
-  </script>
 <script async="" src="https://www.googletagmanager.com/gtag/js?id=G-E5JTBN5NH8"></script>
 
 <script type="text/javascript">
@@ -109,46 +81,19 @@ gtag('js', new Date());
 gtag('config', 'G-E5JTBN5NH8', { 'anonymize_ip': true});
 </script>
 
-  <script src="https://cdnjs.cloudflare.com/polyfill/v3/polyfill.min.js?features=es6"></script>
-  <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml-full.js" type="text/javascript"></script>
-
-<script type="text/javascript">
-const typesetMath = (el) => {
-  if (window.MathJax) {
-    // MathJax Typeset
-    window.MathJax.typeset([el]);
-  } else if (window.katex) {
-    // KaTeX Render
-    var mathElements = el.getElementsByClassName("math");
-    var macros = [];
-    for (var i = 0; i < mathElements.length; i++) {
-      var texText = mathElements[i].firstChild;
-      if (mathElements[i].tagName == "SPAN" && texText && texText.data) {
-        window.katex.render(texText.data, mathElements[i], {
-          displayMode: mathElements[i].classList.contains('display'),
-          throwOnError: false,
-          macros: macros,
-          fleqn: false
-        });
-      }
-    }
-  }
-}
-window.Quarto = {
-  typesetMath
-};
-</script>
 
 <link rel="stylesheet" href="styles.css">
-<meta property="og:title" content="Portfolio – Sebastian Sukstorf">
-<meta property="og:description" content="Workshops &amp; Moderation · Dialogische Entscheidungsbegleitung · Partizipation &amp; Design Thinking (Projekte &amp; Formate)">
+<meta property="og:title" content="Dialogische Entscheidungsbegleitung – Sebastian Sukstorf">
+<meta property="og:description" content="Dialogische Entscheidungsbegleitung und Strukturberatung für Führungskräfte und kleine Teams. Klarheit gewinnen, komplexe Situationen ordnen, tragfähige Entscheidungen und nächste Schritte entwickeln.">
+<meta property="og:image" content="coaching.jpg">
 <meta property="og:site_name" content="Sebastian Sukstorf">
+<meta property="og:image:alt" content="Business Coaching und Führungskräfteentwicklung">
 </head>
 
 <body class="nav-fixed quarto-light">
 
 <div id="quarto-search-results"></div>
-  <header id="quarto-header" class="headroom fixed-top quarto-banner">
+  <header id="quarto-header" class="headroom fixed-top">
     <nav class="navbar navbar-expand-lg " data-bs-theme="dark">
       <div class="navbar-container container-fluid">
       <div class="navbar-brand-container mx-auto">
@@ -167,8 +112,12 @@ window.Quarto = {
 <span class="menu-text">Home</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link active" href="./portfolio.html" aria-current="page"> 
-<span class="menu-text">Portfolio</span></a>
+    <a class="nav-link active" href="./entscheidungsbegleitung.html" aria-current="page"> 
+<span class="menu-text">Entscheidungsbegleitung</span></a>
+  </li>  
+  <li class="nav-item">
+    <a class="nav-link" href="./workshops.html"> 
+<span class="menu-text">Workshops</span></a>
   </li>  
   <li class="nav-item">
     <a class="nav-link" href="./projects.html"> 
@@ -181,6 +130,10 @@ window.Quarto = {
   <li class="nav-item">
     <a class="nav-link" href="./publication.html"> 
 <span class="menu-text">Publikationen</span></a>
+  </li>  
+  <li class="nav-item">
+    <a class="nav-link" href="./about.html"> 
+<span class="menu-text">Über mich</span></a>
   </li>  
   <li class="nav-item compact">
     <a class="nav-link" href="https://www.linkedin.com/in/sebastian-sukstorf/"> <i class="bi bi-linkedin" role="img">
@@ -195,89 +148,165 @@ window.Quarto = {
     </nav>
 </header>
 <!-- content -->
-<header id="title-block-header" class="quarto-title-block default page-columns page-full">
-  <div class="quarto-title-banner page-columns page-full">
-    <div class="quarto-title column-page">
-      <h1 class="title">Portfolio</h1>
-            <p class="subtitle lead">Workshops &amp; Moderation · Dialogische Entscheidungsbegleitung · Partizipation &amp; Design Thinking (Projekte &amp; Formate)</p>
-                      </div>
-  </div>
-    
-  
-  <div class="quarto-title-meta column-page">
-
-      
-    
-      
-    </div>
-    
-  
-  </header><div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-full page-navbar">
+<div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-article page-navbar">
 <!-- sidebar -->
 <!-- margin-sidebar -->
-    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar zindex-bottom">
-        
+    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
+        <nav id="TOC" role="doc-toc" class="toc-active">
+    <h2 id="toc-title">On this page</h2>
+   
+  <ul>
+  <li><a href="#wann-ist-dieses-format-sinnvoll" id="toc-wann-ist-dieses-format-sinnvoll" class="nav-link active" data-scroll-target="#wann-ist-dieses-format-sinnvoll">Wann ist dieses Format sinnvoll?</a></li>
+  <li><a href="#worum-geht-es-konkret" id="toc-worum-geht-es-konkret" class="nav-link" data-scroll-target="#worum-geht-es-konkret">Worum geht es konkret?</a></li>
+  <li><a href="#wie-ich-arbeite" id="toc-wie-ich-arbeite" class="nav-link" data-scroll-target="#wie-ich-arbeite">Wie ich arbeite</a></li>
+  <li><a href="#was-dadurch-entsteht" id="toc-was-dadurch-entsteht" class="nav-link" data-scroll-target="#was-dadurch-entsteht">Was dadurch entsteht</a></li>
+  <li><a href="#für-wen-ist-das-gedacht" id="toc-für-wen-ist-das-gedacht" class="nav-link" data-scroll-target="#für-wen-ist-das-gedacht">Für wen ist das gedacht?</a></li>
+  <li><a href="#abgrenzung" id="toc-abgrenzung" class="nav-link" data-scroll-target="#abgrenzung">Abgrenzung</a></li>
+  <li><a href="#formate" id="toc-formate" class="nav-link" data-scroll-target="#formate">Formate</a>
+  <ul class="collapse">
+  <li><a href="#strategisches-strukturgespräch" id="toc-strategisches-strukturgespräch" class="nav-link" data-scroll-target="#strategisches-strukturgespräch">Strategisches Strukturgespräch</a></li>
+  <li><a href="#dialogische-entscheidungsbegleitung" id="toc-dialogische-entscheidungsbegleitung" class="nav-link" data-scroll-target="#dialogische-entscheidungsbegleitung">Dialogische Entscheidungsbegleitung</a></li>
+  </ul></li>
+  <li><a href="#nächster-schritt" id="toc-nächster-schritt" class="nav-link" data-scroll-target="#nächster-schritt">Nächster Schritt</a></li>
+  </ul>
+</nav>
     </div>
 <!-- main -->
-<main class="content quarto-banner-title-block column-page" id="quarto-document-content">
+<main class="content" id="quarto-document-content">
+
+<header id="title-block-header" class="quarto-title-block default">
+<div class="quarto-title">
+<h1 class="title">Dialogische Entscheidungsbegleitung</h1>
+<p class="subtitle lead">Klarheit in komplexen Führungssituationen</p>
+  <div class="quarto-categories">
+    <div class="quarto-category">Entscheidungsfindung Führungskräfte</div>
+    <div class="quarto-category">Strategische Orientierung</div>
+    <div class="quarto-category">Rollenklärung im Team</div>
+    <div class="quarto-category">Zusammenarbeit gestalten</div>
+    <div class="quarto-category">Moderation 1:1</div>
+    <div class="quarto-category">Moderation kleiner Gruppen</div>
+    <div class="quarto-category">Strukturberatung</div>
+    <div class="quarto-category">Leadership Design</div>
+    <div class="quarto-category">Dialogische Entscheidungsbegleitung</div>
+    <div class="quarto-category">Strategisches Strukturgespräch</div>
+  </div>
+  </div>
+
+<div>
+  <div class="description">
+    Dialogische Entscheidungsbegleitung und Strukturberatung für Führungskräfte und kleine Teams. Klarheit gewinnen, komplexe Situationen ordnen, tragfähige Entscheidungen und nächste Schritte entwickeln.
+  </div>
+</div>
 
 
+<div class="quarto-title-meta">
+
+    <div>
+    <div class="quarto-title-meta-heading">Author</div>
+    <div class="quarto-title-meta-contents">
+             <p>Sebastian Sukstorf </p>
+          </div>
+  </div>
+    
+    <div>
+    <div class="quarto-title-meta-heading">Published</div>
+    <div class="quarto-title-meta-contents">
+      <p class="date">December 15, 2025</p>
+    </div>
+  </div>
+  
+    
+  </div>
+  
 
 
+</header>
 
 
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="coaching.jpg" class="img-fluid figure-img" style="width:80.0%" alt="Business Coaching und Führungskräfteentwicklung"></p>
+<figcaption>Business Coaching und Führungskräfteentwicklung</figcaption>
+</figure>
+</div>
+<p>Manchmal braucht es keinen großen Workshop – sondern ein Gespräch, das Ordnung in eine unklare Situation bringt.</p>
+<p>In der <strong>Dialogischen Entscheidungsbegleitung</strong> begleite ich Führungskräfte und kleine Gruppen (1:1 oder 1:n mit 2–3 Personen) dabei, aktuelle, oft diffuse Fragestellungen zu klären, sichtbar zu machen und in tragfähige Entscheidungen und nächste Schritte zu übersetzen.</p>
+<section id="wann-ist-dieses-format-sinnvoll" class="level2">
+<h2 class="anchored" data-anchor-id="wann-ist-dieses-format-sinnvoll">Wann ist dieses Format sinnvoll?</h2>
+<ul>
+<li>wenn eine Situation unklar ist, aber handlungsrelevant<br>
+</li>
+<li>wenn Gespräche sich im Kreis drehen<br>
+</li>
+<li>wenn unterschiedliche Perspektiven sortiert werden müssen<br>
+</li>
+<li>wenn Entscheidungen vorbereitet oder überprüft werden sollen<br>
+</li>
+<li>wenn vor einem Teamtag oder Workshop erst Klarheit über das eigentliche Thema gebraucht wird</li>
+</ul>
+</section>
+<section id="worum-geht-es-konkret" class="level2">
+<h2 class="anchored" data-anchor-id="worum-geht-es-konkret">Worum geht es konkret?</h2>
+<p>Im Mittelpunkt steht <strong>die aktuelle Situation</strong> – nicht ein Modell und nicht eine Methode.</p>
+<p>Gemeinsam klären wir: - worum es hier wirklich geht (und worum nicht) - welche Themen zusammengehören - wo Spannungen, Unschärfen oder Widersprüche liegen - welche Handlungsfelder und Optionen sinnvoll sind - welche nächsten Schritte tragfähig sind</p>
+</section>
+<section id="wie-ich-arbeite" class="level2">
+<h2 class="anchored" data-anchor-id="wie-ich-arbeite">Wie ich arbeite</h2>
+<p>Ich arbeite dialogisch, strukturiert und visuell.</p>
+<p>Mit <strong>Stift und Papier</strong>, gezielten Fragen und klarer Struktur mache ich Gedanken, Perspektiven und Zusammenhänge sichtbar. So entsteht Orientierung – ohne Vereinfachung und ohne vorschnelle Lösungen.</p>
+<p>Meine Rolle ist es, Denk- und Entscheidungsräume zu strukturieren, nicht Inhalte vorzugeben.</p>
+</section>
+<section id="was-dadurch-entsteht" class="level2">
+<h2 class="anchored" data-anchor-id="was-dadurch-entsteht">Was dadurch entsteht</h2>
+<ul>
+<li>Klarheit über die eigene Situation</li>
+<li>strukturierte Entscheidungsgrundlagen</li>
+<li>nachvollziehbare Handlungsoptionen</li>
+<li>konkrete nächste Schritte</li>
+<li>spürbare Entlastung durch Ordnung und Übersicht</li>
+</ul>
+</section>
+<section id="für-wen-ist-das-gedacht" class="level2">
+<h2 class="anchored" data-anchor-id="für-wen-ist-das-gedacht">Für wen ist das gedacht?</h2>
+<ul>
+<li>Führungskräfte</li>
+<li>Projekt- oder Bereichsleitungen</li>
+<li>kleine Leitungs- oder Projektgruppen (2–3 Personen)</li>
+<li>Organisationen in Übergangs- oder Klärungsphasen</li>
+</ul>
+</section>
+<section id="abgrenzung" class="level2">
+<h2 class="anchored" data-anchor-id="abgrenzung">Abgrenzung</h2>
+<p>Dieses Format ist: - <strong>kein Coaching</strong> - <strong>keine Konfliktberatung</strong> - <strong>keine Mediation</strong> - <strong>keine Therapie</strong></p>
+<p>Es geht nicht um Persönlichkeitsarbeit, sondern um <strong>Klarheit, Struktur und Entscheidungsfähigkeit</strong> in konkreten Situationen.</p>
+</section>
+<section id="formate" class="level2">
+<h2 class="anchored" data-anchor-id="formate">Formate</h2>
+<section id="strategisches-strukturgespräch" class="level3">
+<h3 class="anchored" data-anchor-id="strategisches-strukturgespräch">Strategisches Strukturgespräch</h3>
+<ul>
+<li>90–120 Minuten</li>
+<li>1:1 oder 1:n (2–3 Personen)</li>
+<li>einmalig oder als Einstieg in weitere Prozesse</li>
+</ul>
+</section>
+<section id="dialogische-entscheidungsbegleitung" class="level3">
+<h3 class="anchored" data-anchor-id="dialogische-entscheidungsbegleitung">Dialogische Entscheidungsbegleitung</h3>
+<ul>
+<li>2–3 Termine</li>
+<li>sinnvoll bei mehrstufigen oder komplexeren Fragestellungen</li>
+</ul>
+</section>
+</section>
+<section id="nächster-schritt" class="level2">
+<h2 class="anchored" data-anchor-id="nächster-schritt">Nächster Schritt</h2>
+<p>Wenn Sie prüfen möchten, ob dieses Format für Ihr Anliegen passend ist, schreiben Sie mir gern <strong>2–3 Sätze zu Ihrer Situation</strong>.<br>
+Ich melde mich mit Rückfragen und einem Vorschlag für das geeignete Vorgehen.</p>
 
 
+</section>
 
-<div class="quarto-listing quarto-listing-container-grid" id="listing-listing">
-<div class="list grid quarto-listing-cols-3">
-<div class="g-col-1" data-index="0" data-categories="RW50c2NoZWlkdW5nc2ZpbmR1bmclMjBGJUMzJUJDaHJ1bmdza3IlQzMlQTRmdGUlMkNTdHJhdGVnaXNjaGUlMjBPcmllbnRpZXJ1bmclMkNSb2xsZW5rbCVDMyVBNHJ1bmclMjBpbSUyMFRlYW0lMkNadXNhbW1lbmFyYmVpdCUyMGdlc3RhbHRlbiUyQ01vZGVyYXRpb24lMjAxJTNBMSUyQ01vZGVyYXRpb24lMjBrbGVpbmVyJTIwR3J1cHBlbiUyQ1N0cnVrdHVyYmVyYXR1bmclMkNMZWFkZXJzaGlwJTIwRGVzaWduJTJDRGlhbG9naXNjaGUlMjBFbnRzY2hlaWR1bmdzYmVnbGVpdHVuZyUyQ1N0cmF0ZWdpc2NoZXMlMjBTdHJ1a3R1cmdlc3ByJUMzJUE0Y2g=" data-listing-date-sort="1765756800000" data-listing-file-modified-sort="1765808420633" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2" data-listing-word-count-sort="327">
-<a href="./posts/portfolio/DE/index.html" class="quarto-grid-link">
-<div class="quarto-grid-item card h-100 card-left">
-<p class="card-img-top"><img src="posts/portfolio/DE/coaching.jpg" alt="Business Coaching und Führungskräfteentwicklung" style="height: 150px;"  class="thumbnail-image card-img"/></p>
-<div class="card-body post-contents">
-<h5 class="no-anchor card-title listing-title">
-Dialogische Entscheidungsbegleitung
-</h5>
-<div class="card-text listing-description delink">
-<p>Dialogische Entscheidungsbegleitung und Strukturberatung für Führungskräfte und kleine Teams. Klarheit gewinnen, komplexe Situationen ordnen, tragfähige Entscheidungen und…</p>
-</div>
-<div class="card-attribution card-text-small justify">
-<div class="listing-author">
-Sebastian Sukstorf
-</div>
-<div class="listing-date">
-Dec 15, 2025
-</div>
-</div>
-</div>
-</div></a>
-</div>
-<div class="g-col-1" data-index="1" data-categories="RGVzaWduJTIwVGhpbmtpbmclMjBXb3Jrc2hvcHMlMkNQYXJ0aXppcGF0aXZlJTIwUHJvemVzc2dlc3RhbHR1bmclMkNDby1DcmVhdGlvbiUyQ051dHplcm9yaWVudGllcnRlJTIwRW50d2lja2x1bmclMkNMZXJucmF1bWdlc3RhbHR1bmclMjBCaWJsaW90aGVrJTJDQmlibGlvdGhlayUyMEVudHdpY2tsdW5nJTJDS3VsdHVyaW5zdGl0dXRpb25lbiUyMFdvcmtzaG9wcyUyQ1N0YWtlaG9sZGVyJTIwTWFuYWdlbWVudCUyQ1Byb3RvdHlwZW5lbnR3aWNrbHVuZyUyQ1N0cmF0ZWdpc2NoZSUyME9yaWVudGllcnVuZw==" data-listing-date-sort="1765756800000" data-listing-file-modified-sort="1765808420635" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2" data-listing-word-count-sort="304">
-<a href="./posts/portfolio/DT/index.html" class="quarto-grid-link">
-<div class="quarto-grid-item card h-100 card-left">
-<p class="card-img-top"><img src="posts/portfolio/DT/Design-Thinking.jpg" alt="Design Thinking und partizipative Workshops" style="height: 150px;"  class="thumbnail-image card-img"/></p>
-<div class="card-body post-contents">
-<h5 class="no-anchor card-title listing-title">
-Partizipative Workshops &amp; Design Thinking
-</h5>
-<div class="card-text listing-description delink">
-<p>Partizipative Workshops und Design Thinking für Bibliotheken und Kulturinstitutionen. Nutzerbedürfnisse klären, Perspektiven strukturieren, tragfähige Konzepte und Lernräume…</p>
-</div>
-<div class="card-attribution card-text-small justify">
-<div class="listing-author">
-Sebastian Sukstorf
-</div>
-<div class="listing-date">
-Dec 15, 2025
-</div>
-</div>
-</div>
-</div></a>
-</div>
-</div>
-<div class="listing-no-matching d-none">No matching items</div>
-</div></main> <!-- /main -->
+</main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">
   window.document.addEventListener("DOMContentLoaded", function (event) {
     const icon = "";
@@ -682,14 +711,14 @@ Dec 15, 2025
 <footer class="footer">
   <div class="nav-footer">
     <div class="nav-footer-left">
-<p>Copyright 2025, Sebastian Sukstorf</p>
+<p>© 2025 Sebastian Sukstorf</p>
 </div>   
     <div class="nav-footer-center">
       &nbsp;
     </div>
     <div class="nav-footer-right">
-      &nbsp;
-    </div>
+<p>Kontakt: info(at)sebastian.sukstorf.de</p>
+</div>
   </div>
 </footer>
 

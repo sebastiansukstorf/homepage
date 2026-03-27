@@ -1,13 +1,5 @@
 [
   {
-    "listing": "/publication.html",
-    "items": [
-      "/posts/publication/ambiguitaet/index.html",
-      "/posts/publication/Haufe/index.html",
-      "/posts/publication/tm/index.html"
-    ]
-  },
-  {
     "listing": "/presentation.html",
     "items": [
       "/posts/presentation/stadt-motive-werte/index.html",
@@ -39,6 +31,14 @@
       "/posts/projects/fuehrung_orga/index.html",
       "/posts/projects/hochschule/index.html",
       "/posts/projects/relaunch_design_thinking/index.html"
+    ]
+  },
+  {
+    "listing": "/publication.html",
+    "items": [
+      "/posts/publication/ambiguitaet/index.html",
+      "/posts/publication/Haufe/index.html",
+      "/posts/publication/tm/index.html"
     ]
   }
 ]
